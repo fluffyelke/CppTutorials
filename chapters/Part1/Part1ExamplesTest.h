@@ -14,7 +14,16 @@
 #define PART1EXAMPLESTEST_H
 
 namespace Part01 {
+    //C02
     extern void squareTest();
+    extern void testPrintArr();
+    extern void countLettersInArr();
+    extern void simpleC02VectorUse();
+    extern void enumExample();
+    extern void exceptionExample();
+    extern void staticAssertTest();
+    
+    //C03
 }
 
 #endif /* PART1EXAMPLESTEST_H */
