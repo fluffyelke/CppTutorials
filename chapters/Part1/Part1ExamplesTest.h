@@ -23,7 +23,17 @@ namespace Part01 {
     extern void exceptionExample();
     extern void staticAssertTest();
     
-    //C03
+    //C04
+    extern void testEx05nameAndAge();
+    extern void testEx06NameAndAgeClass();
+    extern void testEx07SortVector();
+    extern void testEx08SortStringVector();
+    extern void testWritingIntegers();
+    extern void testReadingIntegers();
+    
+    //C05 Concurency
+    extern void testExamplesConcurency();
+    extern void testEx01Concurency();
 }
 
 #endif /* PART1EXAMPLESTEST_H */
