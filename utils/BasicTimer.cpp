@@ -21,7 +21,15 @@ namespace Time {
     void SimpleTimer::startTimer() {
         startPoint = std::chrono::high_resolution_clock::now();
     }
+    void SimpleTimer::startTimer(const std::string& msg) {
+        std::cout << msg << std::endl;
+        startPoint = std::chrono::high_resolution_clock::now();
+    }
     void SimpleTimer::stopTimer() {
+        endPoint = std::chrono::high_resolution_clock::now();
+    }
+    void SimpleTimer::stopTimer(const std::string& msg) {
+        std::cout << msg << std::endl;
         endPoint = std::chrono::high_resolution_clock::now();
     }
     void SimpleTimer::timeElapsedNanoseconds() {

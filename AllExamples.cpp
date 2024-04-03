@@ -13,6 +13,15 @@
 #include "chapters/Fundamentals/Fundamentals.h"
 #include "chapters/Part1/C02AbstractMechanism/Part2ExampleTest.h"
 #include "utils/Comparator.h"
+#include "chapters/Part2/C07PointersArraysReferences/C07Examples.h"
+#include "chapters/Part2/C07PointersArraysReferences/C07Excercises.h"
+#include "chapters/Part2/C08StructuresUnionsEnumerations/C08Examples.h"
+#include "chapters/Part2/C08StructuresUnionsEnumerations/C08Excercises.h"
+#include "chapters/Part2/C09Statements/C09Excercises.h"
+#include "chapters/Part2/C10Expressions/C10Examples.h"
+#include "chapters/Part2/C10Expressions/C10Excercises.h"
+#include "chapters/Part2/C11SelectOperations/C11Examples.h"
+#include "chapters/Part2/C11SelectOperations/C11Excercises.h"
 //#include "utils/UsefulFunctions.h"
 //#include "chapters/Part1/C02TheBasics/C02Examples.h"
 //#include "chapters/Part1/C02TheBasics/C02SomeTest.h"
@@ -75,4 +84,70 @@ namespace Examples {
         
     }
 
+    //Part02
+    //Chapter06
+    void examplesC06TypesAndDeclarations() {
+        
+        excercisesC06TypesAndDeclarations();
+    }
+    void excercisesC06TypesAndDeclarations() {
+        
+    }
+    
+    void examplesC07() {
+//        C07::arraySubscriptionExample();
+        excercisesC07();
+    }
+    void excercisesC07() {
+//        C07::ex04();
+        C07::testLengthEx08();
+    }
+    
+    void examplesC08() {
+        C08::testAddress1();
+        excercisesC08();
+    }
+    void excercisesC08() {
+        C08::ex01();
+//        C08::testDateEx05();
+        C08::testSeasonsEx06();
+    }
+    
+    void examplesC09Statements() {
+        
+        excercisesC09Statements();
+    }
+    void excercisesC09Statements() {
+//        C09::testEx04();
+        C09::improvedAtoiEx04();
+    }
+    
+    //Expressions
+    void examplesC10Expressions() {
+//        C10::decltypeTest();
+//        C10::calculatorProgram();
+        excercisesC10Expressions();
+    }
+    void excercisesC10Expressions() {
+//        C10::nameValueSeqenceEx02();
+//        C10::testEx07();
+//        C10::testCmpEx07();
+//        C10::testMyConCatE09();
+//        C10::testReverseE10();
+//        C10::reverseCArray();
+    }
+    
+    void examplesC11SelectOperations() {
+        
+//        C11::getMiddleOfANumber();
+//        C11::testModulo();
+        
+        excercisesC11SelectOperations();
+    }
+    void excercisesC11SelectOperations() {
+//        C11::ex01();
+//        C11::ex02MemoryBadAllocThrow();
+        C11::ex03Accumulate();
+    }
+    
 }

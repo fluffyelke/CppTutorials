@@ -3,6 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/cppFiles/main.cc to edit this template
  */
 
+#include <iostream>
+
 #include "AllExamples.h"
 
 
@@ -13,15 +15,34 @@
  * Created on February 7, 2024, 12:29 PM
  */
 
-
+void chessFigures() {
+    std::cout << "Character: \u2654" << std::endl;
+    std::cout << "Character: \u2655" << std::endl;
+    std::cout << "Character: \u2656" << std::endl;
+    std::cout << "Character: \u2657" << std::endl;
+    std::cout << "Character: \u2658" << std::endl;
+    std::cout << "Character: \u2659" << std::endl;
+    std::cout << "Character: \u265a" << std::endl;
+    std::cout << "Character: \u265b" << std::endl;
+    std::cout << "Character: \u265c" << std::endl;
+    std::cout << "Character: \u265d" << std::endl;
+    std::cout << "Character: \u265e" << std::endl;
+    std::cout << "Character: \u265f" << std::endl;
+}
 int main(int argc, char** argv) {
 
 //    part01Basics();
 //    part02Abstractions();
 
 //    Examples::part01Containers();
-    Examples::testConcurencyAndUtilities();
-    
+//    Examples::testConcurencyAndUtilities();
+//    Examples::examplesC06TypesAndDeclarations();
+//    Examples::examplesC07();
+//    Examples::examplesC08();
+//    Examples::examplesC09Statements();
+//    Examples::examplesC10Expressions();
+    Examples::examplesC11SelectOperations();
+
     return 0;
 }
 

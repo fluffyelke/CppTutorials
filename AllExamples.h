@@ -26,6 +26,30 @@ namespace Examples {
     extern void testConcurencyAndUtilities();
     extern void testConcurencyExercises();
 
+    //Part02
+    //Chapter 06 Types And Declarations
+    extern void examplesC06TypesAndDeclarations();
+    extern void excercisesC06TypesAndDeclarations();
+    
+    //Chapter 07 Pointers Arrays References
+    extern void examplesC07();
+    extern void excercisesC07();
+    
+    //Chapter08 Struct Unions Enumerators
+    extern void examplesC08();
+    extern void excercisesC08();
+    
+    //Chapter09 Statements
+    extern void examplesC09Statements();
+    extern void excercisesC09Statements();
+    
+    //Chapter10 Expressions
+    extern void examplesC10Expressions();
+    extern void excercisesC10Expressions();
+    
+    //Chapter 11 SelectOperations
+    extern void examplesC11SelectOperations();
+    extern void excercisesC11SelectOperations();
 }
 
 #endif /* ALLEXAMPLES_H */

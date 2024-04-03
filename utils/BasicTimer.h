@@ -14,7 +14,7 @@
 #define BASICTIMER_H
 
 #include <chrono>
-
+#include <string>
 namespace Time {
 
 class SimpleTimer {
@@ -31,7 +31,9 @@ public:
         return timer;
     }
     void startTimer();
+    void startTimer(const std::string& msg);
     void stopTimer();
+    void stopTimer(const std::string& msg);
     void timeElapsedNanoseconds();
     void timeElapsedMicroseconds();
     void timeElapsedMilliseconds();
