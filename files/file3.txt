@@ -30,7 +30,6 @@ void chessFigures() {
     std::cout << "Character: \u265e" << std::endl;
     std::cout << "Character: \u265f" << std::endl;
 }
-
 int main(int argc, char** argv) {
 
 //    part01Basics();
@@ -45,9 +44,8 @@ int main(int argc, char** argv) {
 //    Examples::examplesC10Expressions();
 //    Examples::examplesC11SelectOperations();
 //    Examples::examplesC12Functions();
-//    C12::ex04ConCatCommandLineFiles(argc, argv);
-//    Examples::examplesC13Exceptions();
-    
+    C12::ex04ConCatCommandLineFiles(argc, argv);
     return 0;
 }
+
 

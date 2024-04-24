@@ -22,10 +22,6 @@
 #include "chapters/Part2/C10Expressions/C10Excercises.h"
 #include "chapters/Part2/C11SelectOperations/C11Examples.h"
 #include "chapters/Part2/C11SelectOperations/C11Excercises.h"
-#include "chapters/Part2/C12Functions/C12Excercises.h"
-#include "chapters/Part2/C12Functions/C12Examples.h"
-#include "chapters/Part2/C13Exceptions/C13Examples.h"
-#include "chapters/Part3/C16Classes/C16Examples.h"
 //#include "utils/UsefulFunctions.h"
 //#include "chapters/Part1/C02TheBasics/C02Examples.h"
 //#include "chapters/Part1/C02TheBasics/C02SomeTest.h"
@@ -153,29 +149,6 @@ namespace Examples {
 //        C11::ex02MemoryBadAllocThrow();
         C11::ex03Accumulate();
     }
-    void examplesC12Functions(){
-        C12::testIota();
-        excercisesC12Functions();
-    }
-    void excercisesC12Functions(){
-        C12::ex01Result();
-        C12::ex08();
-        C12::ex09RevertArray();
-    }
     
-    void examplesC13Exceptions() {
-        C13::vectorExamplev1();
-        excercisesC13Exceptions();
-    }
-    void excercisesC13Exceptions() {
-        
-    }
-    
-    void examplesC16Classes() {
-        C16Classes::c16Examples1();
-        excercisesC16Classes();
-    }
-    void excercisesC16Classes() {
-        
-    }
 }
+

@@ -40,6 +40,7 @@ public:
     void timeElapsedSeconds();
     void timeElapsedMinutes();
     void timeElapsedHours();
+    void timeElapsed();
 };
 
 }

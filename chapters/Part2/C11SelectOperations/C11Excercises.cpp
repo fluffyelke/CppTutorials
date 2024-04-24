@@ -58,7 +58,8 @@ namespace C11 {
             myVec.emplace_back(value);
         }
         Time::SimpleTimer::getInstance().stopTimer("Stop Create RNG Numbers");
-        Time::SimpleTimer::getInstance().timeElapsedMicroseconds();
+        Time::SimpleTimer::getInstance().timeElapsed();
+        Time::SimpleTimer::getInstance().timeElapsedNanoseconds();
 //        Utils::printContainer(myVec, "Initial Container: ");
         Utils::printLog("Simple For Loop Calculate: ");
         
@@ -106,5 +107,43 @@ namespace C11 {
         Time::SimpleTimer::getInstance().stopTimer("Stop For Each Algorithm using global begin()");
         Time::SimpleTimer::getInstance().timeElapsedMicroseconds();
         std::cout << "Total Sum: " << sum << std::endl;
+    }
+    
+    void ex04Test() {
+        class Greater {
+        public:
+            Greater() {}
+            void operator () (int d) {
+                if(d > 50) {
+                    std::cout << d << " Is Greater than 50" << std::endl;
+                }
+                else {
+                    std::cout << d << " Is Less Than 50" << std::endl;
+                }
+            }
+        };
+        
+        std::vector<int*> myVec;
+        for(int i = 0; i < 100; ++i) {
+            myVec.emplace_back(new int(RNG::RNGGenerator::getInstance().getInt(1, 100)));
+        }
+        
+        ex04Apply(myVec, Greater{});
+        
+        std::cout << "Squares of MyVec" << std::endl;
+        ex04Apply(myVec, [](int n){
+            std::cout << (n * n) << " ";
+        });
+        std::cout << std::endl;
+        
+        for(auto elem : myVec){
+            delete elem;
+        }
+    }
+    
+    void ex04Apply(std::vector<int*> myVec, std::function<void(int)> myFunc) {
+        for(auto elem : myVec) {
+            myFunc(*elem);
+        }
     }
 }

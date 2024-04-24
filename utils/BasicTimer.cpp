@@ -59,7 +59,22 @@ namespace Time {
     }
     void SimpleTimer::timeElapsedHours() {
         std::cout << "Time Consumed in hours: " 
-                << std::chrono::duration_cast<std::chrono::minutes>(endPoint - startPoint).count() 
+                << std::chrono::duration_cast<std::chrono::hours>(endPoint - startPoint).count() 
                 << " hours" << std::endl;
+    }
+    void SimpleTimer::timeElapsed() {
+        std::cout << "Total Time in hours: ";
+        std::cout << std::chrono::duration_cast<std::chrono::hours>(endPoint - startPoint).count() << "h " 
+                << std::chrono::duration_cast<std::chrono::minutes>(endPoint - startPoint).count() << "m "
+                << std::chrono::duration_cast<std::chrono::seconds>(endPoint - startPoint).count() << "s ";
+        auto result = std::chrono::duration_cast<std::chrono::milliseconds>(endPoint - startPoint).count();
+        result %= 1000;
+        std::cout << result << "ms ";
+        result = std::chrono::duration_cast<std::chrono::microseconds>(endPoint - startPoint).count();
+        result %= 1000;
+        std::cout << result << "mcrs ";
+        result = std::chrono::duration_cast<std::chrono::nanoseconds>(endPoint - startPoint).count();
+        result %= 1000;
+        std::cout << result << "ns ";
     }
 }

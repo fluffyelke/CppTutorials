@@ -13,11 +13,18 @@
 #ifndef C11EXCERCISES_H
 #define C11EXCERCISES_H
 
+#include <vector>
+#include <functional>
+
+
 namespace C11 {
     extern void ex01();
     extern void ex02MemoryBadAllocThrow();
     
     extern void ex03Accumulate();
+    
+    extern void ex04Test();
+    extern void ex04Apply(std::vector<int*> myVec, std::function<void(int)> myFunc);
 }
 
 #endif /* C11EXCERCISES_H */

@@ -54,15 +54,8 @@ namespace Examples {
     //Chapter 12 Functions
     extern void examplesC12Functions();
     extern void excercisesC12Functions();
-    
-    //Chapter 13 Exceptions
-    extern void examplesC13Exceptions();
-    extern void excercisesC13Exceptions();
-    
-    //Chapter16 Classes
-    extern void examplesC16Classes();
-    extern void excercisesC16Classes();
 }
 
 #endif /* ALLEXAMPLES_H */
+
 
