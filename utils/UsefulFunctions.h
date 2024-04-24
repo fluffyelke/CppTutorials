@@ -17,6 +17,7 @@
 #include <iterator>
 #include <iostream>
 #include <fstream>
+#include <deque>
 
 
 namespace Utils {
@@ -65,6 +66,23 @@ namespace Utils {
     
     extern void openFileForReading(const std::string& filePath, std::ifstream& myFile);
     extern void closeReadingFile(std::ifstream& myFile);
+    
+    template<class forwardIt, class T>
+    constexpr void myIota(forwardIt first, forwardIt last, T value) {
+        while(first != last) {
+            *first++ = value++;
+        }
+    }
+    
+    //close to std::uninitialized_move() c++17 function
+    template<typename In, typename Out>
+    Out* uninitialized_move(In* b, In* e, Out* oo) {
+        for(; b != e; ++b, ++oo) {
+            new(static_cast<void*>(&*oo)) Out{std::move(*b)}; //move construct
+            b->~In();                                        //destroy
+        }
+        return b;
+    }
 }
 
 #endif /* USEFULFUNCTIONS_H */
