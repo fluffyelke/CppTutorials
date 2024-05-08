@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <string>
+#include <vector>
 #include "AllExamples.h"
 #include "chapters/Part2/C12Functions/C12Excercises.h"
 
@@ -47,7 +48,8 @@ int main(int argc, char** argv) {
 //    Examples::examplesC12Functions();
 //    C12::ex04ConCatCommandLineFiles(argc, argv);
 //    Examples::examplesC13Exceptions();
-    
+    Examples::examplesC16Classes();
+
     return 0;
 }
 

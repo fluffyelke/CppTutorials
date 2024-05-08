@@ -13,8 +13,6 @@ namespace Macros {
         std::cout << "print macros __TIME__ : " << __TIME__ << std::endl;
         std::cout << "print macros __FILE__ : " << __FILE__ << std::endl;
         std::cout << "print macros __LINE__ : " << __LINE__ << std::endl;
-        std::cout << "print macros __func__ : " << __func__ << std::endl;
-
-        
+        std::cout << "print macros __func__ : " << __func__ << std::endl;       
     }
 }

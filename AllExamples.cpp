@@ -26,6 +26,7 @@
 #include "chapters/Part2/C12Functions/C12Examples.h"
 #include "chapters/Part2/C13Exceptions/C13Examples.h"
 #include "chapters/Part3/C16Classes/C16Examples.h"
+#include "chapters/Part3/C16Classes/C16Excercises.h"
 //#include "utils/UsefulFunctions.h"
 //#include "chapters/Part1/C02TheBasics/C02Examples.h"
 //#include "chapters/Part1/C02TheBasics/C02SomeTest.h"
@@ -176,6 +177,7 @@ namespace Examples {
         excercisesC16Classes();
     }
     void excercisesC16Classes() {
-        
+        C16Classes::ex02();
+//        C16Classes::ex04();
     }
 }

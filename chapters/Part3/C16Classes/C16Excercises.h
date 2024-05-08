@@ -15,6 +15,8 @@
 
 namespace C16Classes {
     
+    extern void ex02();
+    extern void ex04();
 }
 
 #endif /* C16EXCERCISES_H */
