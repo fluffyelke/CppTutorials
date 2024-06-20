@@ -1,0 +1,2112 @@
+"KEY","EN","BG","ESP"
+"STR_ACCOUNTING","Accounting","Отчет","Contabilidad"
+"STR_MACHINE_ACCOUNTING","Machine Accounting","Отчет на машината","Contabilidad de Máquina"
+"STR_FRENCH_ACCOUNTING","French Accounting","Френски отчет","Contabilidad de Máquina"
+"STR_GAME_ACCOUNTING","Game Accounting","Отчет за игри","Contabilidad de Juego"
+"STR_TOTAL_DENOMINATION_ACCOUNTING","Total Denomination Accounting","Общо отчитане","Contabilidad de Denominación Total"
+"STR_GAME_DENOMINATION_ACCOUNTING","Game Denomination Accounting","Отчет за деноминация","Contabilidad de Denominación de Juego"
+"STR_VOUCHER_ACCOUNTING","Voucher Accounting","Отчет на ваучери","Contabilidad de Vales"
+"STR_SECURITY_ACCOUNTING","Security Accounting","Отчет за сигурност","Contabilidad de Seguridad"
+"STR_ERROR_ACCOUNTING","Error Accounting","Грешка при отчитането","Contabilidad de Errores"
+"STR_BILL_ACCOUNTING","Bill Accounting","Отчет на банкноти","Contabilidad de Billetes"
+"STR_COIN_DENOMINATIONS_ACCOUNTING","Coin Denominations Accounting","Отчет на монети","Contabilidad de Denominaciones de Moneda"
+"STR_GAME_RATING","Game Rating","Машинно счетоводство","Contabilidad de Máquina"
+"STR_ACCOUNTING_MAIN_GAME","Main Game","Основна Игра",
+"STR_ACCOUNTING_RESPIN_GAME","Respin Game","Респинова Игра",
+"STR_ACCOUNTING_TOTAL","Total Accounting","Общо ",
+,,,
+"STR_CLEAR_PERIOD","Clear Period Accounting","Изчистване на период","Periodo de Limpieza"
+"STR_CF_CHECKSUM","Cf Checksum","Чексума","Cf Checksum"
+"STR_DIAGNOSTICS","Diagnostics","Диагностика","Diagnósticos"
+"STR_KEYBOARD_TEST","Keyboard Test","Тест на клавиатурата","Test de Teclado"
+"STR_DOORS_AND_KEY_TEST","Doors and Key Test","Тестове на врати и ключове","Test de Puertas y Llave"
+"STR_TOP_LIGHTS_TEST","Top Lights Test","Изпитване на горните светлини","Test de Luces Superiores"
+"STR_SOUND_TEST_SETUP","Sound Test/Setup","Тест / Настройка на звука","Test/Ajuste de Sonido"
+"STR_VIDEO_TEST","Video Test","Видео тест","Test de Vídeo"
+"STR_VSYNC_TEST","VSync Test","VSync тест","Test de VSync"
+"STR_PRINTER_TEST","Printer Test","Тест на принтера","Test de Impresora"
+"STR_BILL_VALIDATOR_TEST","Bill Validator Test","Тестване на банкното-валидатор","Test de Validador de Billetes"
+"STR_TOUCH_SCREEN_CALIBRATION","Touch Screen Calibration","Калибриране на тъч екран","Calibración de Pantalla Táctil"
+"STR_SAS_GAME_IDS","SAS Game IDs","Идентификационни номера на SAS игри","ID de juegos SAS"
+"STR_VIDEO_KB_CALIBRATION","Video Keyboard Calibration","Калибриране на видео клавиатурата","Calibración del teclado de video"
+"STR_TEMPERATURE_MONITOR","Temperature Monitor","Следене на температура","Temperatura de Monitor"
+"STR_COIN_ACCEPTOR","Coin Acceptor","Приемник на монети","Admisor de Moneda"
+"STR_HOPPER","Hopper","Хопър","Tolva"
+"STR_NETWORK","Network","Мрежа","Red"
+"STR_EXPORT_SETTINGS","Export Settings","Извличане на настройки","Exportar Configuración"
+"STR_GAME_EXPORT_ACCOUNTING","Export Game Accounting","Извличане на игрово счетоводство","Exportar Contabilidad de Juego"
+"STR_EXPORT_PDF_SETTINGS","Export PDF Settings","Извличане на настройките в PDF","Exportar Configuración PDF"
+"STR_EXPORT_UPDATE_SETTINGS","Export Update Settings","Извличане на настройките за актуализация","Exportar Configuración para Actualizar"
+"STR_IMPORT_SETTINGS","Import Settings","Въвеждане на настройки","Importar Configuración"
+"STR_MARKET_SETTINGS","Market Settings","Маркет настройки","Market Configuración"
+"STR_IMPORT_GAMES_SETTINGS","Import Games Settings","Въвеждане на настройки на игрите","Importar Juego Configuración"
+"STR_GAME_VERSION_MISMATCH","Game Version Mismatch","Разминаване във версиите на игрите",
+"STR_JURISDICTION_VERIFICATION_FAILED","Invalid Jurisdiction Configuration","Невалидна юрисдикционна конфигурация",
+"STR_MARKET_VERIFICATION_FAILED","Invalid Market Configuration",,
+"STR_PROGRAMS_VERSIONS","Programs Versions","Програмни версии","Versiones de Programas"
+"STR_DEBUG_LOG","Debug Log","Отстраняване на грешки","Registro de Debug"
+"STR_HISTORY","History","История","Historial"
+"STR_MAIN_GAME_HISTORY","Game History","История на игрите","Historial de Juego"
+"STR_CONVERTER_GAME_HISTORY","Converter Game History","История на конверторните игри","Historial de Juego de Conversión"
+"STR_LOGS","Logs","Логове","Registros "
+"STR_ALL_EVENTS_LOG","All Events Log","Всички данни за събития","Registro de Todos los Eventos"
+"STR_ALL_NETWORK_LOGS","All Network Logs","Всички записвания на мрежата","Todos los Registros de Red"
+"STR_NETWORK_LOGS","Network Logs","Записване на мрежа","Registros de Red"
+"STR_SAS_PROGRESSIVE","SAS Progressive","SAS Прогресивен ","SAS Progresivo"
+"STR_PPC_MYSTERY","PPC Mystery","Мистери PPC","PPC Misterio"
+"STR_GENERAL_SETUP","General Setup","Общи настройки","Conf. General"
+"STR_JURISDICTION_SETUP","Jurisdiction Setup","Настройка на юрисдикцията","Ajuste de Jurisdicción"
+"STR_DEVICE_SETUP","Device Setup","Настройка на устройството","Ajuste de Dispositivo"
+"STR_MONETARY_SETTINGS","Monetary Settings","Парични настройки","Configuración Monetaria"
+"STR_CASH_OUT_OPTIONS","Cash Out Options","Опции за изплащане","Opciones de Retirada"
+"STR_BILL_VALIDATOR_CHANNELS","Bill Validator Channels","Канали на банкното-валидатор","Canales de Validados de Billetes"
+"STR_MECHANICAL_COUNTERS","Mechanical Counters","Механични броячи","Contadores Mecánicos"
+"STR_LIMITS_SETUP","Limits Setup","Ограничава настройката","Ajuste de Límites"
+"STR_AUTO_GAMBLE","Auto/Gamble","Автоматични игри","Auto/Apuesta"
+"STR_VLT_SETUP","%productLable Setup","Настройка на %productLable","Ajuste %productLable"
+"STR_VLT_COMMON","Common"
+"STR_SAS_SETUP","SAS Setup","Настройка на SAS","Ajuste SAS"
+"STR_SAS_COMMON","Common","Често срещани","Común"
+"STR_SAS_CHANNELS","Channels","Канали","Canales"
+"STR_SAS_VOUCHER_DATA","Voucher Data","Данни за ваучерите","Datos de Vale"
+"STR_SAS_AFT_SETUP","AFT","AFT","AFT"
+"STR_REAL_TIME_CLOCK","Real Time Clock","Часовник в реално време","Reloj Tiempo Real"
+"STR_MACHINE_INFO","Machine Info","Информация за машината","Info de Máquina"
+"STR_LAMP_TEST_MASK","Lamp Test Mask","Тестване на лампа","Máscara de Test de Lámpara"
+"STR_LANGUAGES_SETUP","Languages Setup","Настройки на езиците","Ajuste de Idiomas"
+"STR_MONITOR_SETUP","Monitor Setup","Настройка на монитора","Ajuste de Monitor"
+"STR_GAME_SETUP","Game Setup","Настройки","Ajuste de Juego"
+"STR_COMMON_SETUP","Common Setup","Общи Настройка","Ajuste Común"
+"STR_GAME_PLAY","Game Play","Играй играта","Juego"
+"STR_GAMES_SETTINGS","Games Settings","Настройки на игри","Configuración de Juegos"
+"STR_GAME_MODE","Game Mode","Настройки на игри","Configuración de Juegos"
+"STR_GAME_SELECT_VIEW","Game Select View","Изглед избор на игра",
+"STR_GAME_TILE_SMALL","SMALL","МАЛКА",
+"STR_GAME_TILE_BIG","BIG","ГОЛЯМА",
+"STR_GAME_TILE_SIZE","BUTTON SIZE","Размер",
+"STR_GAME_NAME","GAME NAME","ИМЕ НА ИГРАТА","Nombre del juego"
+"STR_GAME_PAGES","PAGES FOR BIG BUTTON'S","Страници",
+"STR_GAME_VIEW_RESET","RESET ALL","ИЗЧИСТИ ВСИЧКО",
+"STR_GAME_VIEW_RESET_PAGES","RESET PAGES","ИЗЧИСТИ СТРАНИЦИТЕ",
+"STR_GAME_VIEW_EDIT","EDIT BUTTONS' SIZE","ПРОМЕНИ РАЗМЕРА",
+"STR_GAME_VIEW_PROCEED","PROCEED","ПРОДЪЛЖИ",
+"STR_GAME_ROULETTE_CLIENT","Roulette","Рулетка",
+"STR_GAME_PAGES_VALIDATION","%1 - Page not selected","1% - страницата не е избрана",
+"STR_GAME_PAGES_NOT_SAVED","Validation unsuccessful!!! Pages Are Not Saved","Страниците не са запазени.",
+"STR_GAME_MAX_GAMES_PER_PAGE_REACHED","Max big buttons for page %1 reached","Максимален брой игри на страница %1 достигнат",
+,,,
+"STR_GAME_VIEW_INFO_BUTTONS","• Select big buttons","• Изберете големи бутони",
+"STR_GAME_VIEW_MAX_BIG","• Maximum number of big buttons %1","• Максимален брой големи бутони %1",
+"STR_GAME_VIEW_BIG_LEFT","• Big buttons left %1","• Оставащи големи бутони %1",
+"STR_GAME_VIEW_READY","• When ready press PROCEED","• При избрани големи бутони натиснете ПРОДЪЛЖИ",
+"STR_GAME_VIEW_SELECT","• Select page for every big button","• Изберете страница за всеки голям бутон",
+,,,
+"STR_JACKPOTS_SETUP","Jackpots Setup","Настройка на JP","Ajuste de Jackpots"
+"STR_GAME_JP_ASSIGNMENT","Game JP Assignment","Определяне на джакпота на играта","Asignación de JP de Juego"
+"STR_PPJS","PPJS","PPJS","PPJS"
+"STR_SECOND_MONITOR_SETTINGS","Second Monitor Settings","Втората настройка на монитора","Ajuste de Segundo Monitor"
+"STR_STAND_ALONE","Stand Alone","Застанете сами","Independiente"
+"STR_SERVICE","Service","Обслужване","Servicio"
+"STR_HOPPER_FILL","Hopper Fill","Хопър пълни","Llenado de Tolva"
+"STR_AUTHORIZATION","Authorization","Упълномощаване","Autorización"
+"STR_DEAUTHORIZATION","Deauthorization","Разрешение","Desautorización"
+"STR_LIFETIME_COUNTERS","Lifetime Counters","Доживотни броячи","Contadores Contínuos"
+"STR_BLACKJACK_INSURANCE","When to offer Insurance:","Кога да се предлага застраховка:",
+"STR_BLACKJACK_DOUBLE_AFTER_SPLIT","Double After Split is:","Double след Split e:",
+"STR_BLACKJACK_SPLIT_ACES","Split Aces is:","Cплита на Аса е:",
+"STR_BLACKJACK_SURRENDER","Early Surrender is:","Early Surrender e:",
+"STR_BLACKJACK_REPORT_GAME_START_ON_CYCLE_END","Report game start on cycle end:",
+"STR_BLACKJACK_RTP","Game Variant for All Player Denominations:","Варианти за всички деноминации:",
+"STR_MULTIPLAYER_BET_AND_WIN_INFO","Bets and Wins by Fields:","Залози и печалби по полета:",""
+"STR_MULTIPLAYER_BET_FIELD","Field: ","Поле: ",""
+"STR_MULTIPLAYER_BET","Bet: ","Залог:",""
+"STR_MULTIPLAYER_WIN","Win: ","Печалба:",""
+"STR_MULTIPLAYER_GAME_START_AND_END_SIMULTANEOUSLY","Game Start & End Simultaneously:","",
+"STR_BLACKJACK_INSURANCE_BET","Insurance Bet: ","Залог при застраховка:",""
+"STR_BLACKJACK_INSURANCE_WIN","Insurance Win: ","Печалба при застраховка:",""
+"STR_BLACKJACK_HAND_SCORE","Hand Score: ","Резултат:",""
+"STR_MULTIPLAYER_PLAYER_SCORE","Player's Score: ","Резултат на играча:",""
+"STR_MULTIPLAYER_PLAYER_CARDS","Player's Cards: ","Карти на играча:",""
+"STR_MULTIPLAYER_DEALER_SCORE","Dealer's Score: ","Резултат на дилъра:",""
+"STR_MULTIPLAYER_DEALER_CARDS","Dealer's Cards: ","Карти на дилъра:",""
+"STR_MULTIPLAYER_PAIR","Pair","Чифт",""
+"STR_MULTIPLAYER_NATURAL","Natural","Естествена",""
+"STR_MULTIPLAYER_FROG","Frog","Жаба",""
+"STR_MULTIPLAYER_FISH","Fish","Риба",""
+"STR_GAME_TEST","Game Test","Тест Игра",
+"STR_CHIP_BET","BET","ЗАЛОГ","APUESTA"
+"STR_MULTIPLAYER_BANKER_SCORE","Banker's Score: ","Резултат на банкера:",""
+"STR_MULTIPLAYER_BANKER_CARDS","Banker's Cards: ","Карти на банкера:",""
+,,,
+"STR_NVRAM_LAST_CLEARED","Cleared: %1","Изчистено: %1","Limpiado: %1"
+"STR_SERIAL_NO","No: %1","No: %1","Nº: %1"
+"STR_KEY_TYPE_CASHIER","Cashier","Касиер","Cajero"
+"STR_KEY_TYPE_ADMIN","Admin","Админ","Admin"
+"STR_KEY_TYPE_OWNER","Owner","Собственик","Propietario"
+"STR_KEY_TYPE_UNKNOWN","Unknown","Неизвестен","Desconocido"
+,,,
+"STR_DESCRIPTION","Description:","Описание:","Descripción:"
+"STR_STATE_DISABLED","Test disabled","Тестът не е активен","Test desactivado"
+"STR_STATE_SHORT_CIRCUIT","Short circuit","Късо съединение","Cortocircuito"
+"STR_STATE_OPEN_CIRCUIT","Open circuit","Отворена верига","Circuito abierto"
+"STR_STATE_OK","Ok","Ok","Ok"
+"STR_STATE_PRESSED","Pressed","Натиснат","Pulsado"
+,,,
+"STR_BUTTON_CASH_OUT","Cash Out","Изплащане","Cobrar"
+"STR_BUTTON_SERVICE","Service","Обслужване","Servicio"
+"STR_BUTTON_SELECT_GAME","More Games","Още Игри","Más juegos"
+"STR_BUTTON_AUTO_PLAY","Auto Play","Автоматично изпълнение","Auto Play"
+"STR_BUTTON_GAMBLE_SELECT_LINE","Gamble/Red Select Lines","Удвояване/Червено Избор на Линия","Doblar/Rojo Seleccionar Líneas"
+"STR_BUTTON_GAMBLE_SELECT_BET","Gamble/Black Select Bet","Удвояване/Черно Избор на Залог","Doblar/Negro Seleccionar Apuesta"
+"STR_BUTTON_TAKE_WIN","Take Win","Вземи печалба","Tomar Ganancia"
+"STR_BUTTON_START","Start","Старт","Inicio"
+"STR_BUTTON_START_STOP","Start/Stop","Старт/Стоп","Start/Stop"
+"STR_BUTTON_B1","Button B1","Бутон B1","Botón B1"
+"STR_BUTTON_B2","Button B2","Бутон B2","Botón B2"
+"STR_BUTTON_B3","Button B3","Бутон B3","Botón B3"
+"STR_BUTTON_B4","Button B4","Бутон B4","Botón B4"
+"STR_BUTTON_B5","Button B5","Бутон B5","Botón B5"
+"STR_BUTTON_L1","Button L1","Бутон L1","Botón L1"
+"STR_BUTTON_L2","Button L2","Бутон L2","Botón L2"
+"STR_BUTTON_L3","Button L3","Бутон L3","Botón L3"
+"STR_BUTTON_L4","Button L4","Бутон L4","Botón L4"
+"STR_BUTTON_L5","Button L5","Бутон L5","Botón L5"
+"STR_BUTTON_TO_CREDITS","To Credits","Към Кредити","A Creditos"
+"STR_BUTTON_TO_POINTS","To Points","Към Toчки","A Puntos"
+"STR_BUTTON_TO_BANK","To Bank","Към Банка","A Banco"
+"STR_BUTTON_AUTOMATIC","Automatic","Автоматично","Automatico"
+"STR_BUTTON_BET","Bet","Залог","Apuesta"
+,,,
+"STR_BILL_VALIDATOR_DOOR","Bill Validator Door","Банкнотo валидатор","Puerta de Validador de Billetes"
+"STR_MAIN_DOOR","Main Door","Главната Врата","Puerta Principal"
+"STR_DROP_DOOR","Drop Door",,"Puerta de Caída"
+"STR_BILL_STACKER_BOX_DOOR","Bill Stacker Box Door",,"Puerta de Apilador de Billetes"
+"STR_BELLY_DOOR","Belly Door","Издутина във вратата","Puerta Central"
+"STR_TOP_BOX_DOOR","Top Box Door","Врата на най-горната кутия","Puerta de Caja Superior"
+"STR_EXT_DOOR","Door Ext","Външна врата","Puerta Ext"
+"STR_LOGIC_DOOR","Logic Door","Врата към управлението","Puerta Lógica"
+,,,
+"STR_DOOR_OPENED","Opened","Отворен","Abierta"
+"STR_DOOR_CLOSED","Closed","Затворен","Cerrada"
+,,,
+"STR_ATTENDANT_KEY","Attendant 0","Крупие 0","Attendant 0"
+"STR_CASHIER_KEY","Cashier 0","Касиер 0","Cashier 0"
+"STR_ADMIN_KEY","Admin 0","Администратор 0","Admin 0"
+"STR_OWNER_KEY","Owner 0","Собственик 0","Owner 0"
+,,,
+"STR_KEY_NONE","No Key","Няма ключ","Sin Llave"
+"STR_KEY_PRESENT","Present","Настоящ","Presente"
+,,,
+"STR_BATTERY_LEVEL","Battery Level","Ниво на батерията","Nivel del Batería"
+,,,
+"STR_BATTERY_OK","Operational","Оперативен","Operativo"
+"STR_BATTERY_LOW","Low","Ниско","Bajo"
+,,,
+"STR_SOUND_MAIN_VOLUME","Volume: %1","Сила на звука: %1","Volumen: %1"
+"STR_SOUND_MIN_VOLUME","Min volume must be at least %1","Минималната сила на звука трябва да бъде поне %1","El volumen mínimo debe ser al menos %1"
+,,,
+"STR_NETWORK_MAC","MAC address:","MAC адрес:","Dirección MAC:"
+"STR_NETWORK_IP","IP address:","IP адрес:","Dirección IP:"
+,,,
+"STR_VERSIONS_GAME_VERSION","Game Version:","Игрова версия:","Versión del Juego:"
+"STR_VERSIONS_GAME_FLASH_SHA1","Game Partition SHA-1:","SHA-1 на игрови дял:","Flash SHA-1 de Juego:"
+"STR_VERSIONS_GAME_FLASH_SHA256","Game Partition SHA-256:","SHA-256 на игрови дял:","Flash SHA-256 de Juego:"
+"STR_VERSIONS_SYSTEM_VERSION","System Version:","Системна версия:","Versión de Sistema:"
+"STR_VERSIONS_SYSTEM_FLASH_SHA1","System Partition SHA-1:","SHA-1 на системен дял:","Flash SHA-1 de Sistema:"
+"STR_VERSIONS_SYSTEM_FLASH_SHA256","System Partition SHA-256:","SHA-256 на системян дял:","Flash SHA-256 de Sistema:"
+"STR_VERSIONS_FLASH_DISK_SHA1","Flash Disk Signature SHA-1:",,
+"STR_VERSIONS_FLASH_DISK_MD5","Flash Disk Signature MD5:",,
+"STR_VERSIONS_FLASH_DISK_2_SHA1","Second Flash Disk Signature SHA-1:",,
+"STR_VERSIONS_FLASH_DISK_2_MD5","Second Flash Disk Signature MD5:",,
+"STR_VERSIONS_BILL_VALIDATOR_DATA","Bill Validator Data:","Данни за Банкното-Валидатора:","Datos de Validador de Billetes:"
+"STR_VERSIONS_ID_READER_DATA","ID Card Scanner Data:",,
+"STR_VERSIONS_TICKET_PRINTER_DATA","Ticket Printer Data:","Данни за принтирани билети:","Datos de Impresora de Tickets:"
+"STR_VERSIONS_COMMIT_ID","Commit ID:","Къмит ID:","Commit ID:"
+"STR_VERSIONS_MAIN_TOUCH_SCREEN_ID","Main Touch VID:PID:","Главен Тъч екран VID:PID:","Versión de Sistema:"
+"STR_VERSIONS_VKB_TOUCH_SCREEN_ID","Video Keyboard Touch VID:PID:","Видео Клавиатува Тъч екран VID:PID:","Versión de Sistema:"
+"STR_VERSIONS_CABINET_ID","Cabinet ID:","Кабинет ID:","Versión de Sistema:"
+"STR_SAS_ROM_SIGNATURE_ID","SAS ROM Signature:","",""
+,,,
+"STR_FIRST_TOUCHSCREEN","FIRST TOUCHSCREEN","ПЪРВИ ТЪЧ ЕКРАН","PRIMERA PANTALLA TÁCTIL"
+"STR_CALIBRATION_TEST","CALIBRATION TEST","КАЛИБРАЦИОНЕН ТЕСТ","TEST DE CALIBRACIÓN"
+"STR_TOUCH_HERE","TOUCH HERE!","НАТИСНИ ТУК!","¡TOQUE AQUÍ!"
+,,,
+"STR_CALIBRATE_VIDEO_VKB","Calibrate video keyboard","Калибрирайте видео клавиатурата","Calibrar el teclado de video"
+"STR_CALIBRATE_VIDEO_VKB_FINISHED","Video keyboard calibration finished","Калибрацията на видео клавиатурата приключи","Terminó la calibración del teclado de video"
+,,,
+"STR_NOT_SET","Not Set","Не е зададено","No Configurado"
+"STR_ENABLE","Enable","Влючване","Activar"
+"STR_DISABLE","Disable","Изключване","Desactivar"
+"STR_NOT_IN_USE","Not In Use","Не се използва","No en Uso"
+"STR_NONE","None","Нито един","Ninguno"
+"STR_FIXED","Fixed","Фиксирани","Arreglado"
+"STR_SELECTABLE","Selectable","Избираеми","Seleccionable"
+"STR_A_ONLY","vs.A only","само срещу А",
+"STR_SEVEN_TO_A","vs.7-A","срещу 7-A",
+"STR_ENABLE_NOT_A","Enabled vs.2-K","Разрешен не А",
+"STR_ENABLE_ALL","Enabled vs.2-A","Винаги разрешен",
+"STR_SLOW","Slow","Бавно",
+"STR_MEDIUM","Medium","Средно",
+"STR_FAST","Fast","Бързо",
+,,,
+"STR_PAYMENT_HOPPER","Payment on Empty Hopper:",,"Pago en Tolva Vacía:"
+"STR_PAYMENT_TOKEN","Fractional Token Payment:",,"Pago Fraccionado en Token:"
+,,,
+"STR_JURISDICTION","Jurisdiction:","Юрисдикция","Jurisdicción:"
+"STR_SUBJURISDICTION","Subjurisdiction:","Подюрисдикция","Subjurisdicción:"
+"STR_CASH_IN_OUT_BEHAVIOR","Cash In/Out behavior:"," "," "
+"STR_JURISDICTION_STANDARD","Standard","Стандард","Estándar"
+"STR_JURISDICTION_HUNGARY_25","Hungary - 25","Унгария -25","Hungría - 25"
+"STR_JURISDICTION_HUNGARY_200","Hungary - 200","Унгария -200","Hungría - 200"
+"STR_JURISDICTION_HUNGARY_500","Hungary - 500","Унгария -500","Hungría - 500"
+"STR_JURISDICTION_FRANCE","France","Франция","Francés"
+"STR_JURISDICTION_SOUTH_AFRICA","South Africa","Южна Африка","Sudafricano"
+"STR_JURISDICTION_SWITZERLAND_A","Switzerland A","Швейцария A","Suiza A"
+"STR_JURISDICTION_SWITZERLAND_B","Switzerland B","Швейцария Б","Suiza B"
+"STR_JURISDICTION_GLI_11","GLI 11","GLI 11","GLI 11"
+"STR_JURISDICTION_BELARUS","Belarus","Беларус","Bielorrusia"
+"STR_JURISDICTION_AUSTRALIA","Australia","Австралия","Australia"
+"STR_JURISDICTION_CZECH_REPUBLIC","Czech Republic","Чехия","República Checa"
+"STR_JURISDICTION_SPAIN_1","Spain 1","Испания 1","España 1"
+"STR_JURISDICTION_SPAIN_2","Spain 2","Испания 2","España 2"
+"STR_JURISDICTION_ROMANIA","Romania","Romania","Romania,,,"
+"STR_JURISDICTION_MACEDONIA","Macedonia","Македония","Macedonia,,,"
+"STR_JURISDICTION_SLOVAKIA","Slovakia","Slovakia,Slovakia,,,"
+"STR_JURISDICTION_BOSNIA_AND_HERZEGOVINA","Bosnia and Herzegovina","Bosnia and Herzegovina","Bosnia and Herzegovina,,,"
+"STR_JURISDICTION_CHILE","Chile","Чили","España 2"
+"STR_JURISDICTION_SPAIN_VLT","Spain-vlt","Испания-vlt","España-vlt"
+"STR_CELEBRATION_LOCKUP_GENERAL","General","Общ","General"
+"STR_CELEBRATION_LOCKUP_SUN_INTERNATIONAL","Sun International","Сън Интернешънъл","Sun International"
+"STR_SUBJURISDICTION_VLT","VLT","VLT","VLT"
+"STR_SUBJURISDICTION_CASINO","Casino","Casino","Casino"
+"STR_CASH_BEHAVIOR_VLT_PAYOUT","VLT Payout","VLT Payout","VLT Payout"
+"STR_CASH_BEHAVIOR_SAS_PAYOUT","SAS Payout","SAS Payout","SAS Payout"
+,,,
+"STR_CURRENCY_CODE","Currency Code:","Валутен код:","Código de Divisa:"
+"STR_PARTIAL_CASH_OUT_LIMIT_LABEL","Partial Cash Out Limit:",,
+"STR_PLAYER_DENOMINATIONS_COUNT","Number of Player Denominations:","Брой деноминации:","Número de Denominaciones de Jugador:"
+"STR_PLAYER_DENOMINATION","%1 Player Denomination:","Деноминация %1:","Denominación de Jugador %1:"
+"STR_PLAYER_DENOMINATION_BLACKJACK","%1 Player Denomination: %2","%1 Деноминация %2:","%1 Denominación de Jugador %2:"
+"STR_COIN_TOKEN_DENOMINATION","Coin/Token Denomination:","Монета/Жетон Деноминация:","Denominación de Moneda/Token:"
+"STR_DECIMAL_POINT_ON_JP_SCREEN","Decimal Point on Jackpot Screen:","Десетична точка на Джакпотния Екран:","Punto Decimal en Pantalla de Jackpot:"
+"STR_ATTENDANT_ADD_CREDID","Attendant Add Credit:","Добавяне на кредити от крупие:","Añadir Crédito Asistente:"
+"STR_ACCOUNTING_DENOMINATION","Accounting Denomination:","Отчет на Деноминация:","Denominación de Contabilidad:"
+"STR_CREDIT_FIELD_DISPLAY","Display Credits/Money:","Показване на кредитното поле:","Pantalla de Campo de Crédito:"
+"STR_SHOW_COLLECTED_INFO","Show Collected Information:","Показване на събраната информация:","Mostrar Información Recopilada:"
+"STR_ENABLE_CASHOUT_ON_FORBIDDEN_MACHINE","Enable Cash Out On Forbidden Machine:","Включване на изплащането на забранена машина:","Activar Cobro en Maquina Prohibida:"
+"STR_ALWAYS_HANDPAY_JP","Always Handpay Jackpots:","Винаги сплаш за Джакпота:","Siempre Pagar en Mano Jackpots:"
+"STR_CURRENCY_MODE","Currency Mode:","Валутен режим:","Modo de Divisa:"
+"STR_PLAY_LEFTOVER_BET","Play Left-over Bet:",,"Jugar Sobrante de Apuesta:"
+,,,
+"STR_TOGGLE_ALLOWED","Toggle allowed","Превключването е разрешено","Permitido conmutar"
+"STR_ALWAYS_IN_CREDITS","Always in credits","Винаги в кредити","Siempre en créditos"
+"STR_ALWAYS_IN_MONEY","Always in money","Винаги в пари","Siempre en dinero"
+"STR_MONEY","Money","Пари","Dinero"
+"STR_CREDITS","Credit","Кредит","Créditos"
+"STR_POINTS","Points","Точки","Puntos"
+"STR_SIGN","Sign","Знак","Firmar"
+,,,
+"STR_BILL_VALIDATOR_LABEL","Bill Validator:","Банкното-Валидатор:","Validador de Billetes:"
+"STR_COIN_ACCEPTOR_LABEL","Coin Acceptor:","Апарат за монети:","Admisor de Moneda:"
+"STR_HOPPER_LABEL","Hopper:","Хопър:","Tolva:"
+"STR_TICKET_PRINTER_LABEL","Printer:","Принтер:","Impresora"
+"STR_IDREADER_LABEL","Id Card Scanner:","Id Card Scanner:","Id Card Scanner:"
+,,,
+"STR_ID003","ID003",,"ID003"
+"STR_NV200","NV200",,"NV200"
+"STR_MEI","MEI","MEI","MEI"
+"STR_ITL","ITL","ITL","ITL"
+"STR_CONDORPREMIER","Condor Premier","Condor Premier","Condor Premier"
+"STR_MC62","MC62","MC62","MC62"
+"STR_MC_SR5i","MC SR5i (CCTalk)","MC SR5i (CCTalk)","MC SR5i (CCTalk)"
+"STR_SUZOEXCEL","SUZOExcel","SUZOExcel","SUZOExcel"
+"STR_SUZOHAPP","SUZOHapp (CCTalk)","SUZOHapp (CCTailk)","SUZOHapp (CCTalk)"
+"STR_TRANSACTEPIC","EPIC Ithaca/Edge","EPIC Ithaca/Edge","EPIC Ithaca/Edge"
+"STR_FUTURELOGIC","Future Logic","Future Logic","Future Logic"
+"STR_JCM","JCM","JCM","JCM"
+"STR_NANOPTIX","Nanoptix","Nanoptix","Nanoptix"
+,,,
+"STR_RAKINDA","Rakinda","Rakinda","Rakinda"
+"STR_IDREADER_INIT_FAIL","Validation unsuccessful !!! Could not connect to Id Card Scanner device!",,
+"STR_IDREADER_WAITING",Waiting for data from Id Card Scanner... Please wait!,,
+,,,
+"STR_PRINTER_VALIDATION","Validation unsuccessful!!! Wrong printer configured","Валидацията не е успешна!!! Грешни настройки на принтера","¡¡¡Validación fallida!!! Impresora incorrecta configurada"
+"STR_NOT_SET_VALIDATION","Validation unsuccessful!!! At Least One Active Parameter is Not Set","Валидацията не е успешна!!! Всички параметри са активни","¡¡¡Validación fallida!!! Al Menos Un Parámetro Activo No Está Configurado"
+"STR_DENOM_VALIDATION","Validation unsuccessful!!! At Least One Active Denom Must Be Selected",,
+"STR_INVALID_CURRENCY","Validation unsuccessful!!! Currency cannot be empty.","Валидацията не е успешна!!! Полето за валутата не може да бъде празна","¡¡¡Validación fallida!!! La divisa no puede estar vacía."
+"STR_INVALID_CURRENCY_SIZE","Validation unsuccessful!!! Currency code must contain 3 alphabetic symbols",,"¡¡¡Validación fallida!!! El código de moneda debe contener 3 símbolos alfabéticos"
+"STR_BILLVALIDATOR_VALIDATION","Validation unsuccessful!!! Bill Validator Type is Not Accepted","Валидацията не е успешна!!! Модела на Банкното-Валидатора не се приема.","¡¡¡Validación fallida!!! El Tipo de Validador de Billetes No es Aceptado"
+"STR_CHANNELS_VALIDATION","Validation unsuccessful!!! At Least One Channel is Not Set","Валидацията не е успешна!!! Всички параметри са активни","¡¡¡Validación fallida!!! Al Menos Un Canal No Está Configurado"
+"STR_SETUP_MODE_VALIDATION","Validation unsuccessful!!! Setup Mode is Not Set","Валидацията не е успешна!!! Режимът на настройка не е зададен","¡¡¡Validación fallida!!! El Modo de Configuración No Está Configurado"
+"STR_INVALID_GAMBLE_LIMIT","Validation unsuccessful!!! Invalid gamble limit set","Валидацията не е успешна!!! Невалидна настройка на лимита за удвояване на печалба","¡¡¡Validación fallida!!! Límite de Apuesta Configurado Inválido"
+"STR_ALL_LANGUAGES_DISABLED","Validation unsuccessful!!! At least one language must be enabled","Валидацията не е успешна!!! Поне един език трябва да е настроен","¡¡¡Validación fallida!!! Al menos un idioma ha de estar activo"
+"STR_JURISDICTION_NOT_SET","Validation unsuccessful!!! Parameter Jurisdiction is Not Set","Валидацията не е успешна!!! Полето Юрисдикция не е настроено","¡¡¡Validación fallida!!! El Parámetro Jurisdicción No Está Configurado"
+"STR_SUBJURISDICTION_NOT_SET","Validation unsuccessful!!! Parameter Subjurisdiction is Not Set","Валидацията не е успешна!!! Полето  не е настроено","¡¡¡Validación fallida!!! El Parámetro Suburisdicción No Está Configurado"
+"STR_CASH_IN_OUT_BEHAVIOR_NOT_SET","Validation unsuccessful!!! Parameter Cash In/Out behavior is Not Set","Валидацията не е успешна!!! Полето  не е настроено","¡¡¡Validación fallida!!! El Parámetro Suburisdicción No Está Configurado"
+"STR_JURISDICTION_NOT_ALLOWED","Validation unsuccessful!!! This jurisdiction is not allowed","Валидацията не е успешна!!! Тази юрисдикция не е разрешена","¡¡¡Validación fallida!!! La jurisdicción no está permitida"
+"STR_LIMIT_MORE_NOT_ALLOWED","Validation unsuccessful!!! %1 > %2","Валидацията не е успешна!!! %1 > %2","¡¡¡Validación fallida!!! %1 > %2"
+"STR_LIMIT_ZERO_NOT_ALLOWED","Validation unsuccessful!!! %1 is Zero","Валидацията не е успешна!!! %1 е Нула","¡¡¡Validación fallida!!! %1 es Cero"
+"STR_LIMIT_INFINITE_NOT_ALLOWED","Validation unsuccessful!!! %1 is infinite. %2 is finite","Валидацията не е успешна!!! %1 е неограничено. %2 е ограничено","¡¡¡Validación fallida!!! %1 is infinito. %2 is finito"
+"STR_LIMIT_LESS_THAN_COIN","Validation unsuccessful!!! %1 is less than one coin value","Валидацията не е успешна!!! % 1 е по-малко от една една стотинка","¡¡¡Validación fallida!!! %1 es menor que el valor de una moneda"
+"STR_LIMIT_AFT_PAGE_IN_HOUSE_RESET_WARNING","WARNING!!! 'In-House In Limit' in AFT Page reset!",,"¡¡¡PELIGRO!!! ¡'Límite Interno de Entrada' en Página de AFT reiniciado!"
+"STR_SAS_VOUCHER_OUT_HANDPAY_BOTH_DISABLED","Validation unsuccessful!!! Both Voucher Out and Handpay Validation are disabled","Валидацията не е успешна!!! Изкарване на Ваучери и валидацията на изплащане на ръка са изключени","¡¡¡Validación fallida!!! Tanto Salida de Vale como Validación de Pago en Mano están desactivados"
+"STR_SAS_VOUCHER_IN_OUT_HANDPAY_CHANNELS","Validation unsuccessful!!! Voucher In/Out and Handpay Validation must be on one channel","Валидацията не е успешна!!! Вкарване/Изкарване на Ваучери и валидацията на изплащане на ръка са изключени","¡¡¡Validación fallida!!! Entrada/Salida de Vale y Validación de Pago en Mano han de estar en un canal"
+"STR_SAS_HANDPAY_REPORTING_DISABLED","Validation unsuccessful!!! Handpay Reporting should be enabled at least at one channel","Валидацията не е успешна!!! Докладване за изплащане на ръка трябва да бъде разрешено на поне един канал.","¡¡¡Validación fallida!!! El Reporte de Pago en Mano ha de estar activado en al menos un canal"
+"STR_SAS_INVALID_ADDRESS","Invalid SAS channel address!!! Enter a number between 0 and 127","Невалиден SAS канал адрес!!! Въведете число между 0 и 127","¡¡¡Dirección de canal SAS inválida!!! Introduzca un entero entre 0 y 127"
+"STR_SAS_INVALID_GROUP","Invalid SAS group!!! Enter a number between 1 and 255","Невалидна SAS група!!! Въведете число от 0 и 255","¡¡¡Grupo SAS inválido!!! Introduzca un entero entre 1 y 255"
+"STR_SAS_INVALID_VOUCHER_EXPIRATION","Invalid number of expiration days!!! Enter a number between 0 and 255","Невалиден номер за изтичащите дни!!! Въведете число между 0 и 255","¡¡¡Número de días de vencimiento inválido!!! Introduzca un entero entre 0 y 255"
+"STR_PPJS_INVALID_JACKPOT_ID","Invalid jackpot ID!!! Enter a number between 1 and 65535","Невалидно Джакпот ID!!! Въведете число между 1 и 65535","¡¡ID de jackpot inválido!!! Introduzca un entero entre 1 y 65535"
+"STR_MIN_DENOMINATIONS_REQUIRED_VALIDATION","The minimum number of allowed denominations is %1!!!","Минимален брой на разрешените деноминации е %1!!!","¡¡¡Mínimo %1 denominaciones permitidas!!!"
+"STR_MAX_DENOMINATIONS_REQUIRED_VALIDATION","The maximum number of allowed denominations is %1!!!","Максимален брой на разрешените деноминации е %1!!!","¡¡¡Máximo %1 denominaciones permitidas!!!"
+"STR_ROULETTE_INVALID_PLAY_STATION_ID","Invalid play station ID!!! Enter a number between 1 and 255","Невалидно ID на игрална станция!!! Въведете число между 1 и 255","¡¡¡ID de estación de juego inválido!!! Introduzca un entero entre 1 y 255"
+"STR_ROULETTE_INVALID_CHIP_VALUE_MIN","Validation unsuccessful!!! Chip Value %1 cannot be less than %2!","Валидацията не е успешна!!! Стойността на чип %1 не може да бъде по-малка от %2!","¡¡¡Validación fallida!!! ¡El Valor de Ficha %1 no puede ser inferior a %2!"
+"STR_ROULETTE_INVALID_CHIP_VALUE_MAX","Validation unsuccessful!!! Chip Value %1 cannot be more than %2!","Валидацията не е успешна!!! Стойността на чип %1 не може да бъде повече от %2!","¡¡¡Validación fallida!!! ¡El Valor de Ficha %1 no puede ser superior a %2!"
+"STR_ROULETTE_INVALID_CHIP_VALUES_ORDER","Validation unsuccessful!!! Chip Value %1 must be less than Chip Value %2!","Валидацията не е успешна!!! Стойността на чип %1 трябва да бъде по-малка от чип-стойност %2!","¡¡¡Validación fallida!!! ¡El Valor de Ficha %1 ha de ser inferior al Valor de Ficha %1!"
+"STR_ROULETTE_REPEAT_PARTIAL_NOT_SET","Validation unsuccessful!!! Repeat Partial is not set!!!","Валидацията не е успешна!!! Частично залагане не е настроено!!!","¡¡¡Validación fallida!!! ¡¡¡Repetri Parcial no está configurado!!!"
+"STR_ROULETTE_INVALID_MIN_BET_TO_VALUE","Validation unsuccessful!!! Min %1 cannot be %2 %3!","Валидацията не е успешна!!! Минималният %1 не може да бъде %2 %3!","¡¡¡Validación fallida!!! ¡El min %1 no puede ser %2 %3!"
+"STR_ROULETTE_INVALID_MIN_BET_TO_MAX_BET","Validation unsuccessful!!! Min %1 cannot be %2 Max %3!","Валидацията не е успешна!!! Минималният %1 не може да бъде %2 максималния %3!","¡¡¡Validación fallida!!! ¡El min %1 no puede ser %2 Máx %3!"
+"STR_ROULETTE_MAX_BET_NOT_MULTIPLE_OF_DENOM","Validation unsuccessful!!! Max %1 must be a multiple of denomination!","Валидацията не е успешна!!! Максималният %1 трябва да бъде кратно на деноминацията!","¡¡¡Validación fallida!!! ¡El máx %1 ha de ser un múltiplo de la denominación!"
+"STR_ROULETTE_INVALID_MAX_BET_TO_GAME_MAX_BET","Validation unsuccessful!!! Max %1 cannot be %2 Game Max Bet!","Валидацията не е успешна!!! Максималният %1 не може да бъде %2 Макс залог!","¡¡¡Validación fallida!!! ¡El máx %1 no puede ser %2 de la Apuesta Máx de Juego!"
+"STR_ROULETTE_INVALID_BET_TO_VALUE","Validation unsuccessful!!! %1 cannot be %2 %3","Валидацията не е успешна!!! %1 не може да бъде %2 %3","¡¡¡Validación fallida!!! %1 no puede ser %2 %3"
+"STR_ROULETTE_INVALID_SERVER_IP","Invalid server IP address!!!","Невалиден IP адрес на сървъра!!!","¡¡¡Dirección IP de servidor inválida!!!"
+"STR_ROULETTE_INVALID_MACHINE_IP","Invalid machine IP!!!","Невалидна IP машина!!!","¡¡¡IP de máquina inválida!!!"
+"STR_ROULETTE_INVALID_MACHINE_GATEWAY","Invalid gateway address!!!","Невалиден адрес на шлюза !!!","¡¡¡Dirección de puerta de enlace inválida!!!"
+"STR_ROULETTE_INVALID_MULTICAST_ADDRESS","Invalid multicast address!!!",,"¡¡¡Dirección de multicast inválida!!!"
+"STR_ROULETTE_INVALID_STREAMER_ADDRESS","Invalid streamer address!!!",,"¡¡¡Dirección de streamer inválida!!!"
+"STR_ROULETTE_INVALID_STREAMER_PORT","Invalid port!!! Enter a number between 0 and 65535","Невалиден порт!!! Въведете число между 0 и 65535","¡¡¡Puerto inválido!!! Introduzca un entero entre 0 y 65535"
+"STR_ROULETTE_INVALID_EMPTY_IP_FIELD","There is an empty IP field","Има празно IP поле","Hay un campo de IP vacío"
+"STR_ROULETTE_INVALID_DEFAULT_IP_FIELD","There is an IP field with default and meaningless value","Има IP поле с некоректна стойност по подразбиране","Hay un campo IP con valor predeterminado y sin significado"
+"STR_ROULETTE_INVALID_DUPLICATED_IP_FIELD","Machine IP, Gateway IP and Server IP addresses must be different","IP на машината, IP на шлюза и IP на сървъра трябва да бъдат различни помежду си","La dirección IP de la máquina, la dirección IP de la puerta de enlace y la dirección IP del servidor deben ser diferentes"
+"STR_ROULETTE_INVALID_STREAMER_IP_RANGE","The correct streamer IP address must be in range from %1.x.x.x to %2.x.x.x","Правилният IP адрес на стрийма трябва да е от  %1.x.x.x до %2.x.x.x","La dirección IP correcta de streamer ha de ir de un rango entre %1.x.x.x y %2.x.x.x"
+"STR_ROULETTE_ONE_DENOM_SHOULD_BE_ENABLED","Validation unsuccessful!!! At least one denomination should be enabled!","Валидацията не е успешна!!!Поне една деноминация трябва да е настроена!","¡¡¡Validación fallida!!! ¡Al menos una denominación ha de estar activa!"
+"STR_ROULETTE_TOTAL_TIP","Total Tip","Общо бакшиш","Punta Total"
+"STR_ROULETTE_LAST_PERIOD_CLEAR","Last Period Clear","Последно изчистване на Period","Ultimo Periodo Claro"
+"STR_ROULETTE_WHEEL_SETTINGS_CHANGED","Wheel network settings were changed. Please make the same changes in the Roulette Network Page","Сменете настройките в Roulette Network","Wheel network settings were changed. Please make the same changes in the Roulette Network Page"
+,,,
+"STR_ERROR_OPENING_TEST_PICTURE","ERROR OPENING TEST PICTURE","ГРЕШКА ПРИ ОТВАРЯНЕ НА ТЕСТОВА КАРТИНКА","ERROR ABRIENDO IMAGEN DE TEST"
+,,,
+"STR_VSYNC_BACKGROUND_COLOR","Background color:","Цвят на фона:","Color de Fondo:"
+"STR_VSYNC_LINES_COLOR","Lines color:","Цветове на линиите:","Color de Líneas:"
+"STR_VSYNC_SPEED","Speed:","Скорост:","Velocidad:"
+,,,
+"STR_TOP_LIGHTS_VISUAL_TEST","Visual test. Top lights have to blink: top lights 1 and 3 - in phase, top light 2 - in opposite phase.","Визуален тест. Горните лампи трябва да мигат: горните лампи 1 и 3 – във фаза, горна лапма 2 – в срещуположна фаза.","Test visual. Las luces superiores han de parpadear: luces superiores 1 y 3 - en fase, luz superior 2 - en fase opuesta."
+"STR_TOP_LIGHT","Top Light ","Горна Лапма","Luz Superior"
+,,,
+"STR_SETUPMODE","Setup Mode:","Режим на настройките:","Modo de Configuración:"
+"STR_AUTO","Auto","Автоматично","Auto"
+"STR_MANUAL","Manual","Ръчно","Manual"
+,,,
+"STR_AUTO_MODE","Auto Mode:","Автоматичен режим:","Modo Auto:"
+"STR_FAST_MODE","Fast Mode:",,
+"STR_SAS_LPOLL_AA_BEHAVIOUR","SAS LPOLL AA Behaviour:","SAS LPOLL AA Поведение:","Comportamiento SAS LPOLL AA:"
+"STR_GAMBLE_GAME","Gamble Game:","Удвояваща игра:","Juego Apuesta:"
+"STR_MAX_GAMBLE_ATTEMPTS","Max Gamble Attempts:","Максимални опити за удвояване:","Intentos de Apuesta Máx:"
+"STR_GAMBLE_LIMIT","Gamble Limit:","Лимит на удвояванията:","Límite de Apuesta:"
+,,,
+"STR_ENABLE_DISABLE_AUTO_MODE","Enable/Disable Auto Mode","Включване/Изключване на автоматичен режим","Activar/Desactivar Modo Auto"
+"STR_START_STOP_USER_AUTO_REBET","Start/Stop User Auto Rebet","Старт/Стоп на автоматично залагане","Start/Stop Auto Reapuesta de Usuario"
+,,,
+"STR_EMPTY"," "," "," "
+"STR_LANGUAGES","LANGUAGES","ЕЗИЦИ","IDIOMAS"
+,,,
+"STR_LANGUAGE_EN","English","Английски","Inglés"
+"STR_LANGUAGE_BG","Bulgarian","Български","Búlgaro"
+"STR_LANGUAGE_ESP","Spanish","Испански","Español"
+"STR_LANGUAGE_DE","German","Немски","Alemán"
+"STR_LANGUAGE_HUG","Hungarian","Унгарски","Húngaro"
+"STR_LANGUAGE_NL","Dutch","Холандки","Holandés"
+"STR_LANGUAGE_CH","Chinese","Китайски","China"
+"STR_LANGUAGE_RU","Russian","Руски","Ruso"
+"STR_LANGUAGE_UKR","Ukrainian","Украински","Ucranio"
+"STR_LANGUAGE_MK","Macedonian","Македонски","Macedonian"
+"STR_LANGUAGE_SRB","Serbian","Сръбски","Serbian"
+"STR_LANGUAGE_FR","French","Френски","Francés"
+"STR_LANGUAGE_PT","Portuguese","Португалски","Portuguese"
+,,,
+"DEF_STR_LANGUAGE_EN","English","Английски","Inglés"
+"DEF_STR_LANGUAGE_BG","Bulgarian","Български","Búlgaro"
+"DEF_STR_LANGUAGE_ESP","Spanish","Испански","Español"
+"DEF_STR_LANGUAGE_DE","German","Немски","Alemán"
+"DEF_STR_LANGUAGE_HUG","Hungarian","Унгарски","Húngaro"
+"DEF_STR_LANGUAGE_NL","Dutch","Холандки","Holandés"
+"DEF_STR_LANGUAGE_CH","Chinese","Китайски","China"
+"DEF_STR_LANGUAGE_RU","Russian","Руски:","Ruso:"
+"DEF_STR_LANGUAGE_UKR","Ukrainian","Украински:","Ucranio:"
+"DEF_STR_LANGUAGE_MK","Macedonian","Македонски","Macedonian"
+"DEF_STR_LANGUAGE_SRB","Serbian","Сръбски","Serbian"
+"DEF_STR_LANGUAGE_FR","French","Френски","Francés"
+"DEF_STR_LANGUAGE_PT","Portuguese","Португалски","Portuguese"
+,,,
+"STR_DEFAULT_LANGUAGE","Default Language","Език по подразбиране",""
+,,,
+"STR_LANGUAGE_FLAGS","FLAGS",,"BANDERAS"
+"STR_LANGUAGE_FLAG_UK","United Kingdom","Великобритания","Reino Unido"
+"STR_LANGUAGE_FLAG_US","USA","САЩ","USA"
+"STR_LANGUAGE_FLAG_IRELAND","Ireland","Ирландия","Ireland"
+"STR_LANGUAGE_FLAG_BULGARIA","Bulgaria","България","Bulgaria"
+"STR_LANGUAGE_FLAG_SPAIN","Spain","Испания ","España"
+"STR_LANGUAGE_FLAG_MEXICO","Mexico","Мексико","México"
+"STR_LANGUAGE_FLAG_COLOMBIA","Colombia","Колумбия","Colombia"
+"STR_LANGUAGE_FLAG_ARGENTINA","Argentina","Аржентина","Argentina"
+"STR_LANGUAGE_FLAG_PERU","Peru","Перу","Perú"
+"STR_LANGUAGE_FLAG_VENEZUELA","Venezuela","Венецуела","Venezuela"
+"STR_LANGUAGE_FLAG_CHILE","Chile","Чили","Chile"
+"STR_LANGUAGE_FLAG_ECUADOR","Ecuador","Еквадор","Ecuador"
+"STR_LANGUAGE_FLAG_GUATEMALA","Guatemala","Гватемала","Guatemala"
+"STR_LANGUAGE_FLAG_CUBA","Cuba","Куба","Cuba"
+"STR_LANGUAGE_FLAG_BOLIVIA","Bolivia","Боливия","Bolivia"
+"STR_LANGUAGE_FLAG_DOMINICAN_REPUBLIC","Dominican Republic","Доминиканска Република","República Dominicana"
+"STR_LANGUAGE_FLAG_HONDURAS","Honduras","Хондурас","Honduras"
+"STR_LANGUAGE_FLAG_PARAGUAY","Paraguay","Парагвай","Paraguay"
+"STR_LANGUAGE_FLAG_EL_SALVADOR","El Salvador","Ел Салвадор","El Salvador"
+"STR_LANGUAGE_FLAG_NICARAGUA","Nicaragua","Никарагуа","Nicaragua"
+"STR_LANGUAGE_FLAG_COSTA_RICA","Costa Rica","Коста Рика","Costa Rica"
+"STR_LANGUAGE_FLAG_PUERTO_RICO","Puerto Rico","Пуерто Рико","Puerto Rico"
+"STR_LANGUAGE_FLAG_PANAMA","Panama","Панама","Panamá"
+"STR_LANGUAGE_FLAG_URUGUAY","Uruguay","Уругвай","Uruguay"
+"STR_LANGUAGE_FLAG_EQUATORIAL_GUINEA","Equatorial Guinea","Екваториална Гвинея","Guinea Ecuatorial"
+"STR_LANGUAGE_FLAG_GERMANY","Germany","Германия","Alemania"
+"STR_LANGUAGE_FLAG_AUSTRIA","Austria","Австрия","Austria"
+"STR_LANGUAGE_FLAG_SWITZERLAND","Switzerland","Швейцария","Suiza"
+"STR_LANGUAGE_FLAG_LUXEMBOURG","Luxembourg","Люксембург","Luxemburgo"
+"STR_LANGUAGE_FLAG_LIECHTENSTEIN","Liechtenstein","Лихтенщайн","Liechtenstein"
+"STR_LANGUAGE_FLAG_BELGIUM","Belgium","Белгия","Bélgica"
+"STR_LANGUAGE_FLAG_HUNGARY","Hungary","Унгария","Hungría"
+"STR_LANGUAGE_FLAG_NETHERLANDS","The Netherlands","Холандия","Países Bajos"
+"STR_LANGUAGE_FLAG_CHINA","China","Китай",
+"STR_LANGUAGE_FLAG_RUSSIA","Russia","Русия",
+"STR_LANGUAGE_FLAG_UKRAINE","Ukraine","Украйна",
+"STR_LANGUAGE_FLAG_MACEDONIA","Macedonia","Македония","Macedonia"
+"STR_LANGUAGE_FLAG_SERBIA","Serbia","Сърбия","Serbia"
+"STR_LANGUAGE_FLAG_FRANCE","France","Франция",
+"STR_LANGUAGE_FLAG_PORTUGAL","Portugal","Португалия",
+,,,
+"STR_TICKETS","Tickets:","Билети:","Tickets:"
+"STR_COIN_IN","Coin In (Total Bet):","Вкарани монети (Общ залог):","Entrada Moneda (Apuesta Total):"
+"STR_COIN_OUT","Coin Out (Not Hand Paid Win):","Изкарани монети (Не е изплащане на ръка):","Salida Moneda (Premio sin Pago en Mano):"
+"STR_JACKPOT_HPW","Jackpot (Hand Paid Win):","Джакпот (Изплащане на ръка):","Jackpot (Premio con Pago en Mano):"
+"STR_TOTAL_IN","Total In:","Общо вкарани:","Total Entrada:"
+"STR_COIN_DROP","Coin Drop:","Сума от пари в жетоните в каса:","Caída de Moneda:"
+"STR_BILLS_IN","Bills In:","Записи:","Entrada Billetes:"
+"STR_KEYED_IN","Keyed In:","Включени:","Bloqueado:"
+"STR_TOTAL_OUT","Total OUT:","Общо изкарани:","Total SALIDA:"
+"STR_HAND_PAID_CANCELLED_CREDITS","Hand Paid Cancelled Credits:","Ръчно платени анулирани кредити:","Créditos Cancelados Pagados en Mano:"
+"STR_CANCELLED_CREDITS","Cancelled Credits:","Анулирани кредити:","Créditos Cancelados:"
+"STR_PROGR_JACKPOT","Progr. Jackpot:","Прог. Джакпот:","Progr. Jackpot:"
+"STR_PROGR_JACKPOT_HITS","Progr. Jackpot Hits:","Попадения на Прог. Джакпот:","Progr. Jackpots Conseguidos:"
+"STR_GAMES","Games:","Игри:","Juegos:"
+"STR_COUNTERS_POSITION","COUNTERS POSITION","ПОЗИЦИЯ НА БРОЯЧИ","POSICIÓN DE CONTADORES"
+"STR_ALL_TO_NONE","ALL TO NONE","ИЗКЛЮЧИ ВСИЧКИ",""
+"STR_ONE_TICK_PER_EVENT","1 tick per event","1 отметка за всяко събитие","1 tick por evento"
+"STR_ONE_TICK_PER","1 tick per %1","1 отметка за %1","1 tick por %1"
+"STR_MECHANICAL_METER_1","Mechanical Meter 1 Scale:","Механичен метър 1 Мащаб:","Escala Medidor Mecánico 1:"
+"STR_MECHANICAL_METER_2","Mechanical Meter 2 Scale:","Механичен метър 2 Мащаб:","Escala Medidor Mecánico 2:"
+"STR_MECHANICAL_METER_3","Mechanical Meter 3 Scale:","Механичен метър 3 Мащаб:","Escala Medidor Mecánico 3:"
+"STR_MECHANICAL_METER_4","Mechanical Meter 4 Scale:","Механичен метър 4 Мащаб:","Escala Medidor Mecánico 4:"
+"STR_MECHANICAL_METER_5","Mechanical Meter 5 Scale:","Механичен метър 5 Мащаб:","Escala Medidor Mecánico 5:"
+"STR_MECHANICAL_METER_6","Mechanical Meter 6 Scale:","Механичен метър 6 Мащаб:","Escala Medidor Mecánico 6:"
+,,,
+"STR_0_NO_LIMIT","0 = No Limit","0 = Без ограничение","0 = Sin Límite"
+"STR_CREDIT_LIMIT","Credit Limit","Кредитен Лимит","Límite de Crédito"
+"STR_PRINTER_LIMIT","Printer Limit","Лимит на Принтера","Límite de Impresión"
+"STR_JACKPOT_LIMIT","Jackpot Limit","Джакпот Лимит","Límite de Jackpot"
+"STR_UPPER_JACKPOT_LIMIT","Upper Jackpot Limit","Горна граница на Джакпота Лимита","Límite de Jackpot Superior"
+"STR_CELEBRATION_LOCK","Celebration Lock",,"Bloqueo de Celebración"
+"STR_JACKPOT_LOCK","Jackpot Lock",,"Bloqueo de Jackpot"
+"STR_HOPPER_LIMIT","Hopper Limit","Лимит на Хопъра","Límite de Tolva"
+"STR_ATTENDANT_LIMIT","Attendant Limit","Лимит на Крупието","Límite de Asistente"
+"STR_ATTENDANT_MULTIPLIER","Attendant hold button B1 adds","Задържайки бутон B1 в калкулатора се добавят пари","Mantener botón B1 Asistente añade"
+"STR_RAW_CREDIT_LIMIT","Raw Credit Limit",,"Límite de Crédito Bruto"
+"STR_ACCEPTOR_LIMIT","Acceptor Limit",,"Límite de Admisor"
+"STR_BILL_ACCEPTOR_LIMIT","Bill Acceptor Limit","Лимит на Апарата за Банкноти","Límite de Admisor de Billetes"
+"STR_TICKETS_LIMIT","Tickets In Limit","Лимит на Билетите:","Límite de Entrada de Tickets"
+"STR_LESS_OR_EQUAL","%1 <= %2","%1 <= %2","%1 <= %2"
+"STR_IS_INFINITE","%1 is infinite","%1 е неограничен","%1 es infinito"
+"STR_IS_VALUE","%1 is %2","%1 e %2","%1 es %2"
+"STR_1_COIN","1 coin","1 монета","1 moneda"
+"STR_ZERO","Zero","Нула","Cero"
+,,,
+"STR_MACHINE_ID","Machine ID:","ID на машината","ID de Máquina:"
+"STR_ASSET_ID","SAS Asset ID:",,"ID de Valor SAS:"
+,,,
+"STR_BILL_VALIDATOR_NOT_RESPONDING","Attempt to get data from Bill Validator failed (not responding)","Опитът да се получат данни от ""Банкното-Валидарот"" е неуспешен (не отговаря)","Intento de obtener información del Validador de Billetes fallido (no responde)"
+"STR_BILL_VALIDATOR_WAITING","Waiting for data from Bill Validator... Please wait!","В очакване на данни от Банкното-Валидатора ... Моля, изчакайте!","Esperando información de Validador de Billetes... ¡Por favor, espere!"
+"STR_BILL_VALIDATOR_CURRENCY_MISMATCH","Device/machine currency code mismatch. Machine code: %1 Device code: %2","Устройство/машина несъотвествие в кода на валутата. Код на машината: %1 Код на устройстово: %2","El código de divisa del dispositivo/máquina no coincide. Código de máquina: Código de dispositivo %1: % 2"
+"STR_TICKET_COINCIDES","Ticket channel coincides with bill channel","Каналът на билетите съвпада с канала за банкноти","El canal del ticket coincide con el del billete"
+"STR_BILL_VALIDATOR_CONFIRM","Please, confirm data received from Bill Validator","Моля, потвърдете данните, получени от Банкното-Валидатора","Por favor, confirme los datos recibidos Validador de Billetes"
+"STR_BILL_VALIDATOR_UNKNOWN_CURRENCY","Device responded with unknown currency code","Устройството не разпознава валутния код","El dispositivo ha respondido cn un código de divisa desconocido"
+"STR_BILL_VALIDATOR_WRONG_BILL_DENOMINATION","Device responded with wrong bill denomination value","Устройството не разпознава деноминацията на валутата","El dispositivo ha respondido con un valor de denominación de billete incorrecto"
+"STR_BILL_VALIDATOR_UNKNOWN_ERROR","Unknown error occurred in Bill Validator","Непозната грешка в Банкното-Валидатора","Ha ocurrido un error desconocido en el Validador de Billetes"
+,,,
+"STR_BILL_VALIDATOR_CHECKING","Checking the bill validator. Please wait...","Проверка на банкното-валидатора. Моля изчакайте …","Comprobando el validador de billetes. Por favor, espere..."
+"STR_SET_TIME_ERROR","Only superuser can set system time!","Само суперпотребител може да настрой времето!","¡Solo un superusuario puede ajustar la hora del sistema!"
+"STR_ERROR","Error message","Съобщение за грешка","Mensaje de error"
+"STR_OK","OK","ОК","OK"
+"STR_SAVE","SAVE","ЗАПИС","GUARDAR"
+"STR_BACK","BACK","НАЗАД","VOLVER"
+"STR_STYLE","STYLE","СТИЛ","ESTILO"
+"STR_SCREENSHOT","SCREENSHOT","Eкранна снимка","Captura de pantalla"
+,,,
+"STR_MECH_COUNTERS_TEST","Mech Counters lamp","Лампа на механичните броячи","Lámpara de Contadores Mec."
+"STR_LAMPS_TEST","Lamp Buttons Test","Тест на лампите на бутоните","Test de botones de lámpara"
+"STR_LAMPS_L1","Button L1 Lamp:","Бутон L1 Лампа:","Lámpara de  Botón L1:"
+"STR_LAMPS_L2","Button L2 Lamp:","Бутон L2 Лампа:","Lámpara de  Botón L2:"
+"STR_LAMPS_L3","Button L3 Lamp:","Бутон L3 Лампа:","Lámpara de  Botón L3:"
+"STR_LAMPS_L4","Button L4 Lamp:","Бутон L4 Лампа:","Lámpara de  Botón L4:"
+"STR_LAMPS_L5","Button L5 Lamp:","Бутон L5 Лампа:","Lámpara de  Botón L5:"
+"STR_LAMPS_B1","Button B1 Lamp:","Бутон B1 Лампа:","Lámpara de  Botón B1:"
+"STR_LAMPS_B2","Button B2 Lamp:","Бутон B2 Лампа:","Lámpara de  Botón B2:"
+"STR_LAMPS_B3","Button B3 Lamp:","Бутон B3 Лампа:","Lámpara de  Botón B3:"
+"STR_LAMPS_B4","Button B4 Lamp:","Бутон B4 Лампа:","Lámpara de  Botón B4:"
+"STR_LAMPS_B5","Button B5 Lamp:","Бутон B5 Лампа:","Lámpara de  Botón B5:"
+"STR_LAMPS_CASH_OUT","Cash Out Lamp:","Лампа Изплащане:","Lámpara de Cobrar:"
+"STR_LAMPS_SERVICE","Service Lamp:","Сервизна Лампа:","Lámpara de Servicio:"
+"STR_LAMPS_SELECT_GAME","More Games Lamp:","Лампа за избор на игра:","Lámpara de Selección de Juego:"
+"STR_LAMPS_AUTO_PLAY","Auto Play Lamp:","Лампа за автоматична игра:","Lámpara Auto Play:"
+"STR_LAMPS_SELECT_LINES","Select Lines Lamp:","Лампа за избор на линия:","Lámpara de Selección de Línea:"
+"STR_LAMPS_SELECT_BET","Select Bet Lamp:","Лампа за избор на залог:","Lámpara de Selección de Apuesta:"
+"STR_LAMPS_TO_POINTS","To Points Lamp:",,"Lámpara de A Puntos:"
+"STR_LAMPS_BET","Bet Lamp:","Лампа за залог","Lámpara de Apuesta:"
+"STR_LAMPS_TO_BANK","To Bank Lamp:",,"Lámpara de A Banco:"
+"STR_LAMPS_AUTOMATIC","Automatic Lamp:",,"Lámpara de Automatico:"
+"STR_LAMPS_TAKE_WIN","Take Win Lamp:","Лампа за взимане на печалба:","Lámpara de Tomar Ganancia:"
+"STR_LAMPS_START","Start Lamp:","Лампа за Старт:","Lámpara de Inicio:"
+"STR_LAMPS_GAMBLE_SELECT_LINE","Select Lines Lamp:","Лампа за избор на линия:","Lámpara de Seleccionar Líneas:"
+"STR_LAMPS_GAMBLE_SELECT_BET","Select Bet Lamp:","Лампа за избор на залог:","Lámpara de Seleccionar Apuesta:"
+,,,
+"STR_MOUNT_USB","Mount USB","Монтирано USB","Montar USB"
+"STR_MOUNTING_USB","Mounting USB please wait.","Монтиране на USB моля изчакайте","Montando USB, por favor, espere"
+"STR_USB_NOT_FOUND","Error! Proper USB flash drive not found!","Грешка! Подходящ USB  драйвер не е намерен!","¡Error! ¡Dispositivo USB adecuado no encontrado!"
+"STR_CANT_MOUNT_USB","Error! Cannot mount USB","Грешка! USB не може да бъде монтирано","¡Error! No se pudo montar el USB"
+"STR_DISMOUNT_PLEASE_WAIT","Dismounting please wait.","Демонтиране моля изчакайте.","Desmontando, por favor, espere..."
+"STR_GAME_VERSION","Game Version: ","Версия на играта:","Versión del Juego:"
+"STR_IMPORT","Import","Импортиране","Importar"
+"STR_EXPORT","Export","Експортиране","Exportar"
+"STR_FILE_TO_EXPORT","File to export: ","Файл за експортиране:","Archivo a exportar:"
+"STR_FILE_TO_IMPORT","File to import: ","Файл за импортиране:","Archivo a importar:"
+"STR_SERVICE_SETTINGS_FILES","Service Settings Files ","Файл за сервизни настройки","Archivos de Configuración de Servicio"
+"STR_PDF_FILES","PDF Files ","PDF Файлове","Archivos PDF"
+"STR_EXPORTED_UPDATE_FILES","Exported Update Files","Експортирани Файлове за Актуализация","Archivos Exportados para Actualizar"
+"STR_ARE_YOU_SURE_IMPORT","Are you sure you wish to import these settings?","Сигурен ли сте че искате да импортирате тези настройки?","¿Está seguro de que quiere importar esta configuración?"
+"STR_IMPORTING_SETTINGS","Importing settings: %1","Импортиране на настройки: %1","Importar configuración: %1"
+"STR_EXPORTING_SETTINGS","Exporting settings: %1","Експортиране на настройки: %1","Exportar configuración: %1"
+"STR_EXPORTING_ACCOUNTING","Exporting accounting: %1","Експортиране на отчета:% 1","Exportar contabilidad: %1"
+"STR_IMPORT_FAIL","Setting cannot be imported.","",""
+"STR_SETTINGS_IMPORTED_RESTART","%1 has been imported. Please restart the machine.","%1 беше импортиран. Моля рестартирайте машината.","%1 ha sido importado. Por favor, reinicie la máquina."
+"STR_MARKET_SETTINGS_IMPORTED","%1 has been imported.","%1 беше импортиран.","%1 ha sido importado."
+"STR_JACKPOT_ACTIVE_RESTART","Please restart the machine.","Моля рестартирайте машината.","Por favor, reinicie la máquina."
+"STR_IMPORTING_FAILED","Error while importing file %1!","Грешка при импортиране на файл %1!","¡Error al importar el archivo %1!"
+"STR_ONE_OR_MORE_SETTINGS_SET","You have saved at least one of the required parameters! Please clean NVRAM and try again.","Запаметили сте поне един от необходимите параметри! Моля нулирайте NVRAM и опитайте отново.","¡Ha guardado al menos uno de los parámetros solicitados! Por favor, limpie la NVRAM e inténtelo de nuevo."
+"STR_SETTINGS_EXPORTED","%1 has been exported","%1 беше експортиран","%1 ha sido exportado."
+"STR_EXPORT_FAILED","Error while exporting file %1!","Грешка при експортиране на файл %1!","¡Error al exportar el archivo %1!"
+"STR_ARE_YOU_SURE_EXPORT","Are you sure you wish to overwrite this file?","Сигурен ли сте че искате да презапишите този файл?","¿Está seguro de que quiere sobrescribir este archivo?"
+"STR_PDF_TITLE","Service Functions Data","Данни за сервизните функции","Datos de Funciones de Servicio"
+"STR_PDF_COMMON_INFO","No: %1; Date: %2","No: %1; Дата: %2","Nº: %1; Fecha %2"
+"STR_PDF_AUTHORIZATION_INFO","Time Left: %1 Day(s) %2 Hour(s)","Оставащо време: % Дни %2 Час",
+"STR_PDF_TIME_LEFT","Time Left: No Limit","Оставащо време: Без ограничение",
+"STR_VARIANT","Language Variant: ","Вариант за езика:","Variante de Idioma:"
+,,,
+"STR_REELS_FAST_STOP","Reels Fast Stop:","Бързо спиране на ролките:","Detención Rápida de Rodillos:"
+"STR_GAME_SPEED","Game Speed:","Скорост на играта:","Velocidad de Juego:"
+"STR_GAME_SPEED_STANDARD","Standard","Стандарт","Estándar"
+"STR_GAME_SPEED_3_SEC","3 seconds","3 секунди","3 segundos"
+"STR_GAME_SPEED_4_SEC","4 seconds","4 секунди","4 segundos"
+"STR_GAME_SPEED_5_SEC","5 seconds","5 секунди","5 segundos"
+"STR_GAME_SPEED_6_SEC","6 seconds","6 секунди","6 segundos"
+"STR_FAST_TURBO_HINT","Set Reels Fast Stop:Enable and Game Speed:Standard to enable Fast/Turbo fields","",""
+"STR_MAIN_GAME_FAST_TURBO_MODE","Main Game Fast/Turbo Mode:","",""
+"STR_GAME_FAST_TURBO_MODE","Game Fast/Turbo Mode:","",""
+"STR_AUTO_PLAY_FAST_TURBO_MODE","Auto Play Fast/Turbo Mode:","",""
+"STR_GAME_FAST_TURBO_HINT","Set Reels Fast Stop:Enable and Game Speed:Standard to enable Fast/Turbo field","",""
+,,,
+"STR_SHOW_GAME_RATING","Show Game Rating:","Показване на рейтинга на играта:","Mostrar Valoración de Juego:"
+"STR_BET_BUTTONS_PLAY","Bet Buttons:","Бутони за залагане:","Botones de Apuesta:"
+"STR_GAME_SELECT_MARKER","Game Select Marker:","Маркер за избор на игра:","Marcador de Selección de Juego:"
+"STR_PRODUCT_TYPE","Product Type:","Тип на продукта:","Tipo de Producto:"
+"STR_HIDE_PANEL_FIELDS","Panel Fields:","Полета на панела:","Campos del Panel:"
+"STR_THOUSAND_SEPARATOR","Thousand Separator:","Разделител за хилядни:","Separador de Miles:"
+"STR_YES","Yes","Да","Sí"
+"STR_NO","No","Не","No"
+"STR_PLAY","Play","Играй","Jugar"
+"STR_NOT_PLAY","Not Play","Не Играй","No Jugar"
+"STR_MULTI_GAME","Multi game","Мултигейм","Multijuego"
+"STR_SINGLE_GAME","Single game","Сингългейм","Juego Sencillo"
+"STR_ALWAYS_SHOW","Always Show","Показвай винаги","Mostrar Siempre"
+"STR_SHOW_HIDE","Show/Hide","Покажи/Скрий","Mostrar/Ocultar"
+"STR_SEPARATOR_SPACE","Space","Интервал","Espacio"
+"STR_SEPARATOR_COMMA","Comma","Запетая","Coma"
+"STR_SEPARATOR_DOT","Dot","Точка","Punto"
+"STR_CONFIRM","Are you sure?","Сигурен ли сте?","¿Está seguro?"
+"STR_MIN","Min","Минимален","Min"
+"STR_MAX","Max","Максимален","Max"
+,,,
+"STR_RESTART","Restart","Рестарт","Restart"
+"STR_RESTART_COMMON_TEXT","Press OK to restart the machine","Натиснете ОК за да рестартирате машината","Pulse OK para reiniciar la máquina"
+"STR_CONFIRM_TITLE","Confirm","Потвърдете","Confirmar"
+"STR_EXIT_SF_CONFIRMATION_TEXT","Do you want to exit?","Искате ли да излезете?","¿quieres irte?"
+,,,
+"STR_PARAM_GREATER_THAN","greater than","по – голям от","mayor que"
+"STR_PARAM_LESS_THAN","less than","по-малко от","menor que"
+"STR_PARAM_EQUAL_TO","equal to","равно на","igual a"
+,,,
+"STR_GREEN","GREEN","ЗЕЛЕН","VERDE"
+"STR_RED","RED","ЧЕРВЕН","ROJO"
+"STR_YELLOW","YELLOW","ЖЪЛТ","AMARILLO"
+"STR_BLUE","BLUE","СИН","AZUL"
+"STR_BLACK","BLACK","ЧЕРЕН","NEGRO"
+"STR_PURPLE","PURPLE","ЛИЛАВО","MORADO"
+,,,
+"STR_BONUS_AUTO_START_3_SEC","3 seconds","3 секунди","3 segundos"
+"STR_BONUS_AUTO_START_5_SEC","5 seconds","5 секунди","5 segundos"
+"STR_BONUS_AUTO_START_20_SEC","20 seconds","20 секунди","20 segundos"
+"STR_BONUS_AUTO_START_60_SEC","60 seconds","60 секунди","60 segundos"
+"STR_BONUS_AUTO_START_120_SEC","120 seconds","120 секунди","120 segundos"
+,,,
+"STR_LAST_100_GAMES","100 games","100 игри","100 juegos"
+"STR_LAST_200_GAMES","200 games","200 игри","200 juegos"
+"STR_LAST_300_GAMES","300 games","300 игри","300 juegos"
+"STR_LAST_400_GAMES","400 games","400 игри","400 juegos"
+"STR_LAST_500_GAMES","500 games","500 игри","500 juegos"
+,,,
+"STR_DAYS","days","дни","días"
+,,,
+"STR_ROULETTE_lAST_N_GAMES","Show statistics for: ","Показвай статистика за: ","Mostrar estadísticas para: "
+,,,
+"STR_ROULETTE_REPORT_GAME_START_ON_CYCLE_END","Report game start on cycle end:","",""
+,,,
+"STR_HOPPER_PAY_1_COIN","Press Button B1 to pay 1 coin.","Натиснете Бутон B1 да изплати една 1 монета.","Pulse el botón B1 para pagar 1 moneda."
+"STR_HOPPER_PAY_10_COIN","Press Button B2 to pay 10 coins.","Натиснете Бутон B1 да изплати една 10 монети.","Pulse el botón B2 para pagar 10 monedas."
+"STR_HOPPER_BUTTON_EMPTY","Press Button B3 in order to empty hopper.","Натиснете Бутон B3 за да изпразните хопъра.","Pulse el botón B3 para vaciar la tolva."
+"STR_HOPPER_NUMBER_OF_COINS","Number of coins paid: ","Брой изплатени монети:","Número de monedas pagadas:"
+"STR_HOPPER_NOT_SWITCHED_TO_DIAGNOSTIC_MODE","Hopper could not be switched to diagnostic mode!","Хопърът не може да бъде превключен в диагностичен режим!","¡No se ha podido cambiar la tolva a modo diagnóstico!"
+"STR_HOPPER_NOT_SWITCHED_TO_NON_DIAGNOSTIC_MODE","Hopper could not be switched to nondiagnostic mode!","Хопърът не може да бъде превключен в недиагностичен режим!","¡No se ha podido cambiar la tolva a modo de no-diagnóstico!"
+"STR_HOPPER_COULD_NOT_START_PAYMENT","Error. Could not start payment.","Грешка. Плащането не можа да започне.","Error. No se pudo iniciar el pago."
+"STR_HOPPER_COIN_OUT_TILT_ERROR","Coin Out Tilt Error!",,"¡Error de Inclinación Salida de Moneda!"
+"STR_HOPPER_COIN_OUT_UNJAM_EVENT","Coin Out Unjam Event!",,"¡Evento de Desatranque en Salida de Moneda!"
+"STR_HOPPER_FULL_ERROR","Hopper Full Error!","Грешка! Хопъра е пълен.","¡Error de Tolva Llena!"
+"STR_HOPPER_NOT_FULL_ERROR","Hopper Not Full!","Хопърът не е пълен!","¡Tolva No Llena!"
+"STR_HOPPER_EMPTY","Hopper Empty!","Хопърът е празен!","¡Tolva Vacía!"
+"STR_HOPPER_GENERAL_ERROR","General Hopper Error!","Главна грешка в Хопъра!","¡Error General de Tolva!"
+"STR_HOPPER_EXTRA_COIN_PAID_ERROR","Extra Coin Paid Error!","Грешка при изплащане на допълнителна монета!","¡Error de Moneda Extra Pagada!"
+"STR_HOPPER_WRONG_COIN_JAM_ERROR","Wrong Coin Jam Error (Coin Out Tilt)!",,"¡Error de Atasco de Moneda Incorrecta (Inclinación de Salida de Moneda)!"
+"STR_HOPPER_STOPPED_ERROR","Hopper Stopped Error!","Грешка! Хопъра е спрял!","¡Error de Tolva Detenida!"
+"STR_HOPPER_WRONG_UNPROCESSED_EVENT_ERROR","Wrong Unprocessed Event Error!",,"¡Error de Evento Incorrecto No Procesado!"
+"STR_HOPPER_FATAL_ERROR_PAYOUT_REQUEST","FATAL ERROR. Payout request while payout in progress.","ФАТАЛНА ГРЕШКА. Заявка за изплащане докато е в процес друго изплащане.","ERROR FALTA. Pago solicitado durante pago en proceso."
+"STR_HOPPER_EXTRA_COIN_ERROR","Extra coin paid error!","Грешка при изплащане на допълнителна монета!","¡Error de Moneda extra pagada!"
+"STR_HOPPER_COULD_NOT_GET_HOPPER_LEVEL","Error. Could not get hopper level.","Грешка. Не може да се вземе нивото на Хопъра","Error. No se pudo obtener el nivel de la tolva."
+"STR_HOPPER_IS_FULL","Hopper Full. Could Not Set Divertor To Hopper.",,"Tolva Llena. No Se Pudo Ajustar el Desviador a la Tolva."
+"STR_HOPPER_COULD_NOT_SET_DIVERTOR_TO_HOPPER","Error. Could Not Set Divertor To Hopper.",,"Error. No Se Pudo Ajustar el Desviador a la Tolva."
+"STR_HOPPER_COULD_NOT_SET_DIVERTOR_TO_DROPBOX","Error. Could Not Set Divertor To Drop Box.",,"Error. No Se Pudo Ajustar el Desviador a Caja de Caída."
+,,,
+"STR_COIN_ACCEPTOR_ENABLED","Coin Acceptor Test Enabled","Теста на апарата за монети е Включен","Test de Admisor de Moneda Activado"
+"STR_COIN_ACCEPTOR_DISABLED","Coin Acceptor Test Disabled","Теста на апарата за монети е Изключен","Test de Admisor de Moneda Desactivado"
+"STR_COIN_ACCEPTOR_DIVERTOR_TO_HOPPER","Divertor Set to Hopper",,"Desviador Ajustado a la Tolva"
+"STR_COIN_ACCEPTOR_DIVERTOR_TO_DROP","Divertor Set to Drop",,"Desviador Ajustado a Caída"
+"STR_COIN_ACCEPTOR_NOT_SWITCHED_TO_DIAGNOSTIC_MODE","Coin acceptor could not be switched to diagnostic mode!","Апарата за монети не може да се превключи в диагностичен режим!","¡No se ha podido cambiar el admisor de moneda a modo diagnóstico!"
+"STR_COIN_ACCEPTOR_NOT_SWITCHED_TO_NON_DIAGNOSTIC_MODE","Coin acceptor could not be switched to nondiagnostic mode!","Апарата за монети не може да превключи към не диагностициращ режим!","¡No se ha podido cambiar el admisor de moneda a modo de no-diagnóstico!"
+"STR_COIN_ACCEPTOR_STUCK_COIN_ERROR","Coin stuck error","Грешка! Заседнала монета","Error de moneda atascada"
+"STR_COIN_ACCEPTOR_WRONG_COIN_ERROR","Wrong coin in error","Грешка! Неправилна монета","Error de moneda introducida incorrecta"
+"STR_COIN_ACCEPTOR_UNSTUCK_COIN","Coin Unstuck!","Монетата се разхлаби!","¡Moneda Desatascada!"
+"STR_COIN_ACCEPTOR_IN_TILT_COIN_ERROR","Coin in tilt error!",,"¡Error de inclinación en entrada de moneda!"
+"STR_COIN_ACCEPTOR_DISCONNECTED","Coin acceptor disconnected!","Приемането на монети е прекъснато!","¡Admisor de moneda desconectado!"
+"STR_COIN_ACCEPTOR_CONNECTED","Coin acceptor connected!","Приемането на монети е възстановено!","¡Admisor de moneda conectado!"
+"STR_COIN_ACCEPTOR_DIVERTOR_MALFUNCTION","Divertor malfunction error!","Грешка! Повреда в превключвателя!","¡Error de mal funcionamiento de desviador!"
+"STR_COIN_ACCEPTOR_DIVERTOR_ACTUATED","Divertor actuated!","Превключвателя проработи!","¡Desviador accionado!"
+"STR_COIN_ACCEPTOR_HOPPER_IS_FULL","WARNING: Hopper Full. Divertor Set To Drop Box Automatically.","ВНИМАНИЕ: Хопърът е пълен. Превключвателя ще изкара кутията автоматично.","PELIGRO: Tolva Llena. Desviador Ajustado Automáticamente a Caja de Caída."
+"STR_COIN_ACCEPTOR_NUMBER_OF_COINS","Number of coins accepted: ","Брой на приетите монети:","Número de monedas aceptadas:"
+"STR_COIN_ACCEPTOR_TOTAL_AMOUNT","Total amount accepted: ","Total amount accepted: ","Importe total aceptado:"
+,,,
+"STR_PRINTER_INFO_TEST","Printer Test","Тест на Принтера","Test de Impresora"
+"STR_PRINTER_TICKET_PRESS_BUTTON","Print void voucher","Отпечатай невалиден билет","Imprimir comprobante anulado"
+"STR_PRINTER_VOID_TICKET","Printing void ticket...","Отпечатване на невалиден билет ...","Imprimiendo ticket nulo..."
+"STR_PRINTER_VOID_TICKET_PRINTED","Void ticket printed.","Отпечата се празен билет.","Ticket nulo impreso."
+"STR_VALIDATION_NUMBER_PRINTED_SUCCESSFULLY","Validation number printed successfully.","Коректно отпечатан валидационен код.","Número de validación impreso con éxito."
+"STR_PRINTER_TEST_FAILED","Test Failed!","Тестът не бе успешен!","¡Test fallado!"
+"STR_PRINTER_NOT_SWITCHED_TO_DIAGNOSTIC_MODE","Printer could not be switched to diagnostic mode!","Принтерът не може да бъде превключен в диагностичен режим!","¡No se ha podido cambiar la impresora a modo diagnóstico!"
+"STR_PRINTER_NOT_SWITCHED_TO_NON_DIAGNOSTIC_MODE","Printer could not be switched to nondiagnostic mode!","Принтерът не може да бъде превключен в не диагностичен режим!","¡No se ha podido cambiar la impresora a modo de no-diagnóstico!"
+"STR_PRINTER_PAPER_LOW","Printer paper low!","Недостатъчна хартия в принтера!","¡Papel de impresora bajo!"
+"STR_PRINTER_PAPER_NOT_LOW","Printer paper not low!","Налична е хартия в принтера!","¡Papel de impresora no bajo!"
+"STR_PRINTER_OUT_OF_PAPER","Printer out of paper error!","Грешка в принтера свързана с хартията!","¡Error de impresora sin papel!"
+"STR_PRINTER_PAPER_INSERTED","Printer paper inserted!","Поставена е хартия в принтера!","¡Papel de impresora insertado!"
+"STR_PRINTER_CARRIAGE_JAM_ERROR","Printer carriage jam error!","Грешка с касетата на принтера!","¡Error de atasco en vagón de impresora!"
+"STR_PRINTER_CARRIAGE_UNJAM_ERROR","Printer carriage unjam!","Касетата на принтера е оправена!","¡Vagón de impresora desatascado!"
+"STR_PRINTER_COMMUNICATION_ERROR","Printer communication error!","Грешка с комуникацията на принтера!","¡Error de comunicación de impresora!"
+"STR_PRINTER_COMMUNICATION_RESUMED","Printer communication resumed!","Комуникацията с принтера е възстановена!","¡Comunicación de impresora restablecida!"
+"STR_PRINTER_INTERNAL_ERROR","Printer internal error!","Грешка в хардуера на принтера!",""
+"STR_PRINTER_INTERNAL_ERROR_FIXED","Printer internal error handled!","Грешка в хардуера на принтера е отстранена!",""
+"STR_OLD_STATUS","Old status:","Предишен статус:","Аntiguo estado:"
+"STR_PRINTER_STATUS_NONE","None","N/A","Ninguno"
+"STR_PRINTER_STATUS_INITIAL","Initial","Начален","Inicial"
+"STR_PRINTER_STATUS_WAITING","Waiting","Изчакване","Esperando"
+"STR_PRINTER_STATUS_READY","Ready","Готов","Listo"
+"STR_PRINTER_STATUS_ERROR","Error!","Грешка!","Error!"
+,,,
+"STR_BILL_VALIDATOR_NOT_SWITCHED_TO_DIAGNOSTIC_MODE","Bill validator could not be switched to diagnostic mode!","Банкното-Валидатора не може да бъде превключена в диагностичен режим!","¡No se ha podido cambiar el validador de billete a modo diagnóstico!"
+"STR_BILL_VALIDATOR_NOT_SWITCHED_TO_NON_DIAGNOSTIC_MODE","Bill validator could not be switched to nondiagnostic mode!","Банкното-Валидатора не може да бъде превключена в режим без диагностика!","¡No se ha podido cambiar el validador de billete a modo de no-diagnóstico!"
+"STR_BILL_VALIDATOR_NOT_ESTABLISH_CONNECTION","Could not establish a connection with bill validator!","Не можа да се установи връзка с банкното-валидатора!","¡No se ha podido establecer una conexión con el validador de billete!"
+"STR_BILL_VALIDATOR_WAITING_RESPONSE","Waiting for Bill Validator Response. Please wait...","  Изчакване на отговор от банкното-валидатора. Моля изчакайте …","Esperando Respuesta del Validador de Billete. Por favor, espere..."
+"STR_BILL_VALIDATOR_INSERT_BILL_OR_TICKET","Insert Bill or Ticket to start Test","Поставете банкнотата или билета, за да започнете теста","Introduzca Billete o Ticket para iniciar el Test"
+"STR_BILL_VALIDATOR_INSERTED_BILL","The inserted bill is: %1 %2","Въведената банкнота е: %1 %2","El billete introducido es: %1 %2"
+"STR_BILL_VALIDATOR_BARCODE","The bar code is: %1","Баркодът е: %1","El código de barras es: %1"
+"STR_BILL_VALIDATOR_ERROR","Bill Validator Error!","Грешка при Банкното-Валидатора!","¡Error de Validador de Billetes!"
+"STR_BILL_VALIDATOR_WAITING_CONFIRMATION","Waiting for Bill Validator Confirmation. Please wait...","Изчакването на потвърждение от банкното-валидатора. Моля изчакайте ...","Esperando Confirmación del Validador de Billete. Por favor, espere..."
+"STR_BILL_VALIDATOR_BILL_RETURNED","Bill Returned!","Върната банкнота!","¡Billete Devuelto!"
+"STR_BILL_VALIDATOR_COUNTERFEIT_DETECTED","Counterfeit Bill Detected!","Открита е Фалшива Банкнота!","¡Billete Falso Detectado!"
+"STR_BILL_VALIDATOR_JAM_IN_ACCEPTOR","Jam in Acceptor!","Задръстване в приемника!","¡Atasco en Admisor!"
+"STR_BILL_VALIDATOR_BILL_UNJAM","Bill Unjam!","Отпушване!","¡Billete Desatascado!"
+"STR_BILL_VALIDATOR_STACKER_OPEN","Stacker open!","Стакера е отворен!","¡Apilador abierto!"
+"STR_BILL_VALIDATOR_STACKER_CLOSED","Bill Stacker Closed!","Стакера за банкноти е Затворен!","¡Apilador de Billete Cerrado!"
+"STR_BILL_VALIDATOR_STACKER_NOT_FULL","Bill Stacker Not Full!","Стакера за Банкноти не е Пълен!","¡Apilador de Billete No Lleno!"
+"STR_BILL_VALIDATOR_BILL_REJECTED","Bill Rejected!","Отхвърлена банкнота!","¡Billete Rechazado!"
+"STR_BILL_VALIDATOR_STACKER_FULL","Stacker full!","Стакера е пълен!","¡Apilador lleno!"
+"STR_BILL_VALIDATOR_HARDWARE_FAILURE","Bill validator hardware failure!","Проблем в хардуера на банкното-валидатора!","¡Fallo de hardware de validador de billete!"
+"STR_BILL_VALIDATOR_COMMUNICATION_ERROR","Bill validator communication error!","Грешка при свързването с банкното- валидатора!","¡Error de comunicación de Validador de Billetes!"
+"STR_BILL_VALIDATOR_COMMUNICATION_BLOCKED","Communication with bill validator is blocked. Restart is required!","Комуникацията с банкното-валидатора е блокирана. Изисква се рестартиране!","La comunicación con el validador de billetes está bloqueada. ¡Se necesita reiniciar!"
+,,,
+"STR_BILL_VALIDATOR_BILL_READING","Bill Reading ...",,
+"STR_BILL_VALIDATOR_BILL_RETURNING","Bill Returning ...",,
+"STR_BILL_VALIDATOR_PLEASE_GET_NOTE_BACK","Please get note back!",,
+"STR_BILL_VALIDATOR_RETURN_NOTE","Return Note",,
+"STR_NO_SENSORS_DETECTED","No sensors detected.","Не са открити сензори.","No se han detectado sensores."
+,,,
+"STR_MAIN_MENU_FOOTER_UP","'%1'-Up","'%1'-Горе","'%1'-Arriba"
+"STR_MAIN_MENU_FOOTER_DOWN","'%1'-Down","'%1'-Долу","'%1'-Abajo"
+"STR_MAIN_MENU_FOOTER_LEFT","'%1'-Left","'%1'-Ляво","'%1'-Izquierda"
+"STR_MAIN_MENU_FOOTER_RIGHT","'%1'-Right","'%1'-Дясно","'%1'-Derecha,"
+"STR_MAIN_MENU_FOOTER_BACK","'%1'-Back","'%1'-Назад","'%1'-Volver"
+"STR_KEYBOARD_MENU_FOOTER_BACK","'%1' x3 -Back","'%1' x3 -Назад","'%1' x3 -Volver"
+"STR_MAIN_MENU_FOOTER_SELECT","'%1'-Select","'%1'-Избери","'%1'-Seleccionar"
+"STR_MAIN_MENU_FOOTER_MG_LEFT","'%1'-Prev game","'%1'-Предишна игра","'%1'-Izquierda"
+"STR_MAIN_MENU_FOOTER_MG_RIGHT","'%1'-Next game","'%1'-Следваща игра","'%1'-Derecha,"
+"STR_MAIN_MENU_FOOTER_FG_LEFT","'%1'-Prev page","'%1'-Предишна страница","'%1'-Izquierda"
+"STR_MAIN_MENU_FOOTER_FG_RIGHT","'%1'-Next page","'%1'-Следваща страница","'%1'-Derecha,"
+,,,
+"STR_SERVICE_FILL_AMOUNT","Service Fill Amount:",,"Importe de Llenado de Servicio:"
+,,,
+"STR_GAMBLE_ENTERED","Gamble Entered","Влизане в Удвояването","Apuesta Introducida"
+"STR_GAMBLE_EXITED","Gamble Exited","Излизане от Удвояването","Apuesta Extraída"
+"STR_LOGIN_FROM_PPC","Login from PPC","Влизане от PPC","Login desde PPC"
+"STR_COMMUNICATION_ERROR","Communication Error","Комуникационна грешка","Error de Comunicación"
+"STR_LOGOUT_FROM_PPC","Logout from PPC","Излизане от PPC","Logout desde PPC"
+"STR_GAME_NAME_NUMBER","Game Name %1 | Game Number %2","Име на Игра %1 | Номер на игра %2","Nombre de Juego %1 | Número de Juego %2"
+"STR_MAIN","MAIN","ГЛАВЕН","PRINCIPAL"
+"STR_SECONDARY","SECONDARY","ВТОРОСТЕПЕНЕН","SECUNDARIO"
+"STR_COUNT","count %1","Брой %1","Cuenta %1"
+"STR_NACK_ERROR","NACK Error","NACK Грешка","Error NACK"
+"STR_WRONG_COMMAND_ERROR","Wrong Command Error","Грешка! Грешна команда","Error de Comando Incorrecto"
+"STR_UNKNOWN_COMMAND_ERROR","Unknown Error","Неизвестна грешка","Error Desconocido"
+"STR_ATTENDANT","Attendant","Крупие","Asistente"
+"STR_CASHIER","Cashier","Касиер","Cajero"
+"STR_ADMIN","Admin","Админ","Admin"
+"STR_OWNER","Owner","Собственик","Propietario"
+"STR_CASHIER_VOUCHER_IN","Cashable Voucher In","Вкарани разплащателни ваучери","Introducción de Vale Reembolsable"
+"STR_NONCASH_VOUCHER_IN","Non-cashable Voucher In","Вкарани не разплащателни ваучери","Introducción de Vale No-Reembolsable"
+"STR_PROMO_VOUCHER_IN","Promotional Voucher In","Вкарани промоционални ваучери","Introducción de Vale Promocional"
+"STR_VOUCHER_REJECTED","Voucher In Rejected","Отхвърлени ваучери","Introducción de Vale Rechazada"
+"STR_VALIDATION_DATA","Validation data: %1 Casino name: %2 Expiration %3 Sequence %4","Валидиране на данни: %1","Datos de validación: % 1"
+"STR_VALIDATION_SINGLE_ARG_DATA","Validation data: %1","Валидиране на данни: %1","Datos de validación: % 1"
+"STR_CASHABLE_VOUCHER_OUT","Cashable Voucher OUT","Изкарани разплащателни ваучери","Salida de Vale Reembolsable"
+"STR_NONE_CASHABLE_VOUCHER_OUT","Non-cashable Voucher Out","Изкарани не разплащателни ваучери","Salida de Vale No-Reembolsable"
+"STR_HOST_CASHABLE_VOUCHER_OUT","Cashable Host to Voucher Out",,"Salida de Vale Reembolsable de Host"
+"STR_NON_HOST_CASHABLE_VOUCHER_OUT","Non-cashable Host to Voucher Out",,"Salida de Vale No-Reembolsable de Host"
+"STR_JACKPOT_RECEIPT","Jackpot Receipt","Джакпотна бележка","Recibo de Jackpot"
+"STR_CASH_OUT_RECEIPT","Cash out Receipt","Изплащателна бележка","Recibo de Cobro"
+"STR_UNKNOWN","UNKNOWN","НЕИЗВЕСТЕН","DESCONOCIDO"
+"STR_VOUCHER_OUT_FAILED","Voucher Out failed ","Провален изкаран ваучер","Salida de Vale fallida"
+"STR_AFT_TRANSFER_ID","AFT_Transfer Transfer ID = %1",,"AFT_Transfer ID Transferencia = %1"
+"STR_EXCEPTION_69","Exception 69","Изключение 69","Excepción 69"
+"STR_INHOUSE_IN","InHouse in %1",,"InHouse en %1"
+"STR_BONUS_COIN_OUT","Bonus coin out %1","Изкарани бонус монети %1","Bonus en monedas %1"
+"STR_BONUS_JACKPOT","Bonus jackpot %1","Джакпот Бонус %1","Bonus jackpot %1"
+"STR_INHOUSE_TO_VOUCHER","InHouse to Voucher %1",,"InHouse a Vale%1"
+"STR_DEBIT_TO_GM","Debit to GM %1",,"Débito a GM %1"
+"STR_DEBIT_TO_VOUCHER","Debit to Voucher %1",,"Débito a Vale %1"
+"STR_INHOUSE_OUT_CASHOUT","InHouse out cashout %1",,"InHouse a cobro %1"
+"STR_INHOUSE_OUT_WIN","InHouse out win %1",,"InHouse a premio %1"
+"STR_UNKNOWN_ARGS","UNKNOWN %1","НЕИЗВЕСТЕН %1","DESCONOCIDO %1"
+"STR_HANDPAY_WAS_RESET","Handpay was reset",,"El pago en mano se ha reiniciado"
+"STR_HANDPAID_UNKNOWN_TYPE","Hand paid UNKNOWN TYPE",,"Tipo de pago en mano DESCONOCIDO"
+"STR_COIN_ALARM","Coin Alarm","Монетна аларма","Alarma de Moneda"
+"STR_HOPPER_ERROR","Hopper Error","Грешка в Хопъра","Error de Tolva"
+"STR_GROUP_LEVEL","GROUP: %1    LEVEL: %2","ГРУПА: %1 НИВО: %2","GRUPO %1 NIVEL: %2"
+"STR_JP_INVALID_GAME_DENOM_PAIR","JP settings wrong for game %1 and denomination %2","Грешна Джакпотна настройка за игра %1 и деноминация %2","Configuración JP incorrecta para juego %1 y denominación %2"
+"STR_COUNTS","%1 COINS","МОНЕТИ %1","%1 MONEDAS"
+"STR_SELECT_ALL","Select All","Избери всички","Seleccionar todo"
+"STR_UNSELECT_ALL","Unselect All",,"Deselecciona todo"
+"STR_GENERAL","General","Общо","General"
+"STR_EXTERNAL_BONUS","External Bonus","Външен бонус","Bonus Externo"
+"STR_CASHLESS_IN","Cashless In","Вкарани пари в машината по електронен път:","Intr. Cashless"
+"STR_CASHLESS_OUT","Cashless Out","Изкарани пари от машината по електронен път:","Sacar Cahless"
+"STR_CASHOUT","Cashout","Изплащане","Cobrar"
+"STR_CREDIT_IN","Credit In","Вкарани кредити","Intr. Crédito"
+"STR_HANDPAY","Handpay","Изплащане на ръка","Pago en Mano"
+"STR_VOUCHER_IN","Voucher In","Вкарани ваучери","Intr. Vale"
+"STR_VOUCHER_OUT","Voucher Out","Изкарани ваучери","Sacar Vale"
+"STR_PROGRESSIVE","Progressive","Прогресивен","Progresivo"
+"STR_BILL_ACCEPT","Bill Accepted","Приета банкнота","Bill aceptado"
+"STR_EXCHANGE_CURRENCY_BILL_ACCEPTED","%1 equals to: %2","%1 се равнява на: %2","%1 => %2"
+"STR_EXCHANGE_CURRENCY_RATE_CHANGED","1 %1 equals to: %2 %3","1 %1 се равнява на: %2 %3","1 %1 => %2 %3"
+"STR_ID","ID:","ID:","ID:"
+"STR_DATE","Date:","Дата:","Fecha:"
+"STR_DATA","Data:","Данни:","Datos:"
+"STR_UP","Up","Нагоре","Arriba"
+"STR_DOWN","Down","Надолу","Abajo"
+"STR_LEFT","Left","Наляво","Izquierda"
+"STR_RIGHT","Right","Надясно","Derecha"
+"STR_RTC_DATE","Date:","Дата:","Fecha:"
+"STR_RTC_TIME","Time:","Час:","Hora:"
+,,,
+"STR_AUTHORIZE","AUTHORIZE","ОТОРИЗАЦИЯ","AUTORIZAR"
+"STR_DEAUTHORIZE","DEAUTHORIZE","ДЕОТОРИЗАЦИЯ","DESAUTORIZAR"
+"STR_DEAUTHORIZATION_SUCCESS","Successfully Deauthorized!!!","Успешна деоторизация!!!","¡¡¡Desautorizado con Éxito!!!"
+"STR_DEAUTHORIZATION_FAIL","Deauthorization FAIL!!!","Провалена деоторизация!!!","¡¡¡FALLO en Desautorización!!!"
+"STR_LIFETIME_TOTAL_IN","LIFETIME TOTAL IN:","ОБЩО ВКАРАНИ ПАРИ ОТ ПУСКАНЕ НА МАШИНАТА ","TOTAL INTRODUCIDO DESDE ORIGEN:"
+"STR_LIFETIME_TOTAL_OUT","LIFETIME TOTAL OUT:","ОБЩО ИЗКАРАНИ ПАРИ ОТ ПУСКАНЕ НА МАШИНАТА ","TOTAL EXTRAÍDO DESDE ORIGEN:"
+"STR_AUTO_PLAYED_GAMES","Auto played games:",,
+"STR_SET_RANDOM_SEED","Set random seed:",,
+"STR_USB_KEY","usb key:",,
+"STR_BASE_CODE","Base code:%1",,
+,,,
+"STR_STATUS","Status:","Статус:","Estado:"
+"STR_SASLOGS","SAS Progressive","SAS Прогресивен","SAS Progresivo"
+"STR_PPCLOGS","PPC Jackpots","PPC Джакпоти","Jackpots PPC"
+"STR_ROULLETTE_1_LOGS","Roulette 1","Рулетка 1","Ruleta 1"
+"STR_ROULLETTE_2_LOGS","Roulette 2","Рулетка 2","Ruleta 2"
+"STR_ROULLETTE_3_LOGS","Roulette 3","Рулетка 3","Ruleta 3"
+"STR_SAS_VOUCHER_IN","Voucher in:","Вкарани ваучери:","Introducir vale:"
+"STR_SAS_VOUCHER_OUT","Voucher out:","Изкарани ваучери","Sacar vale:"
+"STR_SAS_LEGACY_BONUSING","Legacy Bonusing:",,"Bonificación Legacy:"
+"STR_SAS_AFT","AFT:","AFT:","AFT:"
+"STR_SAS_HANDPAY_VALIDATION","Handpay Validation:","Валидация на плащане на ръка:","Validación de Pago en Mano:"
+"STR_SAS_DATA_FORMAT","Voucher Date Format:","Формат за датата на ваучера:","Formato de Fecha de Vale:"
+"STR_SAS_VALIDATION","Cashout Validation:","Валидация:","Validación:"
+"STR_SAS_HANDPAY_RECEIPT","Handpay Receipt:","Изплатена на ръка бележка:","Recibo de Pago en Mano:"
+"STR_SAS_NONCASHABLE_CREDITS","Playable Only Voucher Out:","Изкарани Ваучери само за игра:","Salida de Vale Solo Jugable:"
+"STR_SAS_CREDITS_IN","Playable Only Voucher In:","Вкарани Ваучери само за игра:","Entrada de Vale Solo Jugable:"
+"STR_SAS_REMOTE_HANDPAY_RESET","Remote Handpay Reset:","Отдалечено рестартиране на ръчното плащане:","Reinicio Remoto de Pago en Mano:"
+"STR_SAS_ENABLE_DISABLE_MACHINE_GAMES","Enable/Disable Machine/Games from SAS Host:","Включване/Изключване Машина/Игри от SAS:","Activar/Desactivar Máquina/Juegos de Host SAS:"
+"STR_SAS_CHANNEL_1","Channel 1","Канал 1","Canal 1"
+"STR_SAS_CHANNEL_2","Channel 2","Канал 2","Canal 2"
+"STR_SAS_BOTH_CHANNELS","Both","И двете","Ambos"
+"STR_NO_VALIDATION","No Validation","Няма валидация","Sin Validación"
+"STR_SYSTEM","System","Система","Sistema"
+"STR_STANDARD","Standard","Стандарт","Estándar"
+"STR_ENHANCED","Enhanced","Повишен","Mejorado"
+"STR_DATE_DAY_FIRST","DD/MM/YYYY","ДД/ММ/ГГГГ","DD/MM/YYYY"
+"STR_DATE_MONTH_FIRST","MM/DD/YYYY","ДД/ММ/ГГГГ","MM/DD/YYYY"
+,,,
+"STR_SAS_HEADER_CHANNEL_1","CHANNEL 1","КАНАЛ 1","CANAL 1"
+"STR_SAS_HEADER_CHANNEL_2","CHANNEL 2","КАНАЛ 2","CANAL 2"
+"STR_SAS_ADDRESS","Address:","Адрес:","Dirección:"
+"STR_SAS_GAME_PLAY_EXCEPTIONS","Game Play Exceptions:","Изключения за игри:","Excepciones de Juego:"
+"STR_SAS_HANDPAY_REPORTING","Handpay Reporting:","Отчитане за плащането на ръка:","Reporte de Pago en Mano:"
+"STR_SAS_RESEND_HANDPAY_REPORTING","Resend Handpay Reporting:","Отчитане за повторно плащането на ръка:","Reporte de Pago en Mano:"
+"STR_SAS_LINK_DOWN_ALLOW_GAME_PLAY","Link Down Allow Game Play:","Връзката е прекъсната разреши игра:","El Enlace Inf. Permite el Juego:"
+"STR_VOUCHER_LOCATION","Location:","Локация:","Ubicación:"
+"STR_VOUCHER_ADDRESS_1","Address 1:","Адрес 1:","Dirección 1:"
+"STR_VOUCHER_ADDRESS_2","Address 2:","Адрес 2:","Dirección 2:"
+"STR_VOUCHER_EXPIRATION","Expiration:","Краен срок:","Vencimiento:"
+"STR_VOUCHER_PLAYABLE_ONLY_EXPIRATION","Playable Only Voucher Expiration:","Ваучерите само за игра изтичат:","Vencimiento de Vale Solo Jugable:"
+"STR_VOUCHER_CURRENCY_UNIT","Currency Name:","Име на валутата:","Nombre de Divisa:"
+"STR_VOUCHER_CURRENCY_SUBUNIT","Currency Subunit (1/100) Name:","Име на Валутна подединица (1/100):","Nombre de Subunidad (1/100) de Divisa:"
+"STR_VOUCHER_CURRENCY_CODE","Currency Prefix:","Префикс на валута:","Prefijo de Divisa:"
+"STR_VOUCHER_BARCODE_TYPE","Gaming voucher type:","Видове ваучери за игри:","Tipo de Vale de juego:"
+"STR_VOUCHER_BARCODE_FIRMWARE","Firmware","Фърмуер","Firmware"
+,,,
+"STR_HOST_CONTROLLED","Host Controlled",,"Host Controlado"
+"STR_SOFT","Soft","Меко","Blando"
+"STR_HARD","Hard","Твърдо","Duro"
+,,,
+"STR_PARTIAL_TRANSFER","Partial Transfer:","Частичен Трансфер:","Transferencia Parcial:"
+"STR_BONUS_TRANSFER","Bonus Transfer:","Бонус Трансфер:","Transferencia de Bonus:"
+"STR_TRANSFER_TO_GAMING_MACHINE","Transfer to Gaming Machine:","Трансфер към игралната машина:","Transferencia a Máquina de Juego:"
+"STR_TRANSFER_FROM_GAMING_MACHINE","Transfer from Gaming Machine:","Трансфер от игралната машина:","Transferencia desde Máquina de Juego:"
+"STR_HOST_TO_TICKET_TRANSFER","Host to Ticket Transfer:",,"Transferencia de Host a Ticket:"
+"STR_DEBIT_TRANSFER","Debit Transfer:","Дебитен трансфер:","Transferencia de Débito:"
+"STR_CASH_OUT_TO_HOST_CONTROL","Cash Out to Host Control:","Изплащане до хост контрол:","Control del Cobro a Host:"
+"STR_ANSWER_TO_REGISTRATION","Answer to Registration Poll:",,"Respuesta a Encuesta de Registro:"
+"STR_IN_HOUSE_IN_LIMIT_LABEL","In-house In Limit:",,"Límite de Entrada Interna:"
+"STR_IN_HOUSE_OUT_LIMIT_LABEL","In-house Out Limit:",,"Límite de Salida Interna:"
+"STR_IN_HOUSE_IN_LIMIT","In-house In Limit",,"Límite de Entrada Interna"
+"STR_IN_HOUSE_OUT_LIMIT","In-house Out Limit",,"Límite de Salida Interna"
+"STR_PARTIAL_CASH_OUT_LIMIT","Partial Cash Out Limit",,
+,,,
+"STR_SELECT_GAME_FROM_LIST","Select Game:","Избор на игра:","Seleccionar Juego:"
+,,,
+"STR_JP_SS_PROGRESSIVE_HEADER","PPJS/Server Settings for Progressive","PPJS/Сървърни настройки на Прогресива","PPJS/Configuración de Servidor para Progresivo"
+"STR_JP_SS_PRIMARY_HEADER","PPJS/Server Settings for Primary","PPJS/Сървърни настройки на Главния","PPJS/Configuración de Servidor para Principal"
+"STR_JP_SS_SECONDARY_HEADER","Server Settings for Secondary","Сървърни настройки на Второстипенния","Configuración de Servidor para Secundario"
+"STR_JP_SETUP_PROGRESSIVE_HEADER","PPJS/Jackpot Setup for Progressive","PPJS/Джакпотни настройки на Прогресива","PPJS/Configuración de Jackpot para Progresivo"
+"STR_JP_SETUP_STD_MYSTERY_HEADER","PPJS/Jackpot Setup for Standard Mystery","PPJS/Джакпотни настройки на Стандартна Мистерия","PPJS/Configuración de Jackpot para Misterio Estándar"
+"STR_JP_SETUP_BONUS_MYSTERY_HEADER","PPJS/Jackpot Setup for Bonus Mystery","PPJS/Джакпотни настройки на Бонус Мистерия","PPJS/Configuración de Jackpot para Bonus Misterio"
+"STR_JP_SECOND_MONITOR_HEADER","Second Monitor Settings","Настройки на втория монитор","Ajuste de Segundo Monitor"
+"STR_SAS_PROGRESSIVE_HEADER","SAS Progressive","SAS Прогресивен","SAS Progresivo"
+,,,
+"STR_GAME_ACTIVE","Game Active:","Активна игра:","Juego Activo:"
+"STR_VARIANT_FOR_PLAYER_DENOMINATION","Game Variant for Player Denomination: %1 ","Вариант на играта за деноминация: %1","Variante de Juego para Denominación de Jugador: %1"
+"STR_VARIANT_FOR_ALL_PLAYER_DENOMINATIONS","Game Variant for All Player Denominations:","Вариант на играта за всички  деноминации:","Variante de Juego para Todas las Denominaciones de Jugador:"
+"STR_LINES_BEHAVIOUR","Lines behaviour:","Поведение на линиите:","Comportamiento de líneas:"
+"STR_KENO_BALLS_STOP","Balls Fast Stop:","Бързо спиране на топките:",
+"STR_KENO_LAST_N_GAMES","Show Statistics for: ","Показвай статистика за: ","Mostrar estadísticas para: "
+"STR_KENO_BALLS_SPEED","Balls Speed:","Бързина на топките:",
+"STR_KENO_HITS","%1 Hits","%1 Попадения","%1 Apariciones"
+"STR_KENO_HIT","%1 Hit","%1 Попадениe","%1 Aparicione"
+"STR_REEL_WAYS_BEHAVIOUR","Reel Ways Pay Behaviour:","Поведение на комбинациите на печалбите:","Comportamiento de Ways Pay de Rodillo:"
+"STR_GAME_TOTAL_MIN_BET_IN_CREDITS","Game Total Min Bet in credits:","Общ игрови минимален залог в кредити:","Apuesta Total Min de Juego en créditos:"
+"STR_GAME_TOTAL_MAX_BET_IN_CREDITS","Game Total Max Bet in credits:","Общ игрови максимален залог в кредити:","Apuesta Total Máx de Juego en créditos:"
+"STR_MAX_BET_IN_LINE_CREDITS","Max Bet/Line in credits:","Максимален залог/линия в кредити:","Máx Apuesta/Línea en créditos:"
+"STR_MAX_BET_MULTIPLIER_IN_CREDITS","Max Bet Multiplier in credits:","Максимален множител на залог в кредити:","Máx Multiplicador de Apuesta en créditos:"
+"STR_MAX_BET_PER_2_LINES_IN_CREDITS","Max Bet Per 2 Lines in credits:","Максимален залог за 2 линии в кредити:","Máx Apuesta por 2 Líneas en créditos:"
+"STR_BET_SCHEME_INDEX","Bet scheme index:","Индекс на схемата на залозите:","Índice de esquema de Apuesta:"
+"STR_NA","n/a","n/a","n/a"
+"STR_N/A","N/A","N/A","N/A"
+,,,
+"STR_TABLE_SELECTED_LINES","Selected Lines","Избрани линии","Líneas"
+"STR_TABLE_SELECTED_WAYS","Selected Ways","Избрани комбинации","Direcciones Seleccionadas"
+"STR_TABLE_PAY_SCATTER","Pay Scatter","",""
+"STR_TABLE_PAY_CLUSTER","Pay Cluster","",""
+"STR_TABLE_BET_LINE","Bet/Line","Залог/Линия","Apuesta/Línea"
+"STR_TABLE_BET_KENO","Bet","Залог","Apuesta"
+"STR_TABLE_BET_2_LINES","Bet Per 2 Lines","Залог за 2 Линии","Apuesta/2 Líneas"
+"STR_TABLE_BET_MULTIPLIER","Bet Multiplier","Множител на залозите","Multiplicador de Apuesta"
+"STR_TABLE_TOTAL_BET","Total Bet","Общ залог","Apuesta Total"
+"STR_TABLE_BET_FOR_LINES","Bet per %1 Lines","Залог на %1 Линии","Apuesta por %1 Líneas"
+"STR_TABLE_REEL_WAYS_TO_PAY","Reel Ways Pay","Комбинации на печалби","Ways Pay de Rodillo:"
+"STR_TABLE_JUMBOWAYS_TO_PAY","Jumboways",,
+,,,
+"STR_SAS","SAS","SAS","SAS"
+"STR_PROGRESSIVES","Progressives","Прогресивен","Progresivos"
+"STR_PRIMARY_MYSTERY","Primary Mystery","Главно Мистери","Misterio Principal"
+"STR_SECONDARY_MYSTERY","Secondary","Второстепенно","Secundario"
+"STR_PROGRESSIVE_LABEL","Progressive:","Прогресивен:","Progresivo:"
+"STR_PRIMARY_MYSTERY_LABEL","Primary Mystery:","Главно Мистери:","Misterio Principal:"
+"STR_SECONDARY_MYSTERY_LABEL","Secondary:","Второстепенно:","Secundario:"
+"STR_ALL_GAMES","All Games","Всички Игри","Todos los Juegos"
+,,,
+"STR_JP_SAS_SPLASH_CLEAR","Jackpot Splash Clear:","Изчистване на Джакпотния Сплаш:","Limpieza de Jackpot Splash:"
+"STR_JP_SAS_CHANNEL","SAS Channel:","SAS Канал:","Canal SAS:"
+"STR_JP_SAS_GROUP","Group:","Група:","Grupo:"
+"STR_JP_SPLASH_AUTO","Auto","Автоматичен","Auto"
+"STR_JP_SPLASH_KEY","Key","Ключ","Llave"
+"STR_SAS_GAME_GROUP","Group:","Група:","Grupo:"
+"STR_SAS_LEVEL_FOR_PLAYER_DENOMINATION","Progressive Level for Player Denomination: %1 ",,"Nivel Progresivo para Denominación de Jugador: %1"
+,,,
+"STR_JACKPOT_SETUP","Jackpot Setup","Настройка на Джакпота","Ajuste de Jackpot"
+"STR_SERVER_SETTINGS","Server Settings","Настройки на Сървъра","Configuración de Servidor"
+"STR_VARIANT_TYPE_HEADER","Variant Type","Тип вариант","Tipo de Variante"
+"STR_JACKPOT_ID_HEADER","Jackpot ID","Джакпот ID","ID de Jackpot"
+"STR_DENOM","Denom %1","Деноминация %1","Denom %1"
+"STR_DENOM_1","Denom 1:","Деноминация 1:","Denom 1:"
+"STR_DENOM_2","Denom 2:","Деноминация 2:","Denom 2:"
+"STR_DENOM_3","Denom 3:","Деноминация 3:","Denom 3:"
+"STR_DENOM_4","Denom 4:","Деноминация 4:","Denom 4:"
+"STR_VARIANT_TYPE_PDF_LABEL","Variant Type:","Тип вариант:","Tipo de Variante:"
+"STR_JACKPOT_ID_PDF_LABEL","Jackpot ID:","Джакпот ID:","D de Jackpot:"
+"STR_JACKPOT_ID","Jackpot ID:","Джакпот ID:","ID de Jackpot:"
+"STR_VARIANT_TYPE","Variant Type:","Тип вариант:","Tipo de Variante:"
+"STR_DEACTIVATION_ALLOWED","Deactivation Allowed:","Деактивиране Позволено:","Desactivación Permitida:"
+"STR_JACKPOT_ACTIVE","Jackpot Active:","Джакпот Активен:","Jackpot Activo:"
+"STR_LIST_PPC_SERIAL_NUMBERS","List of PPC Serial Numbers:","Списък на серийните номера на PPC:","Lista de Números de Serie PPC:"
+"STR_SELECTED_PPC_SERIAL_NUMBER","Selected PPC Serial Number:","Избрани серийни номера на PPC:","Número de Serie PPC Seleccionado:"
+"STR_JP_VARIANT_LC","Lady's Cards","Lady's Cards","Lady's Cards"
+"STR_JP_VARIANT_PLM","PLM","PLM","PLM"
+"STR_JP_VARIANT_CARDS","Jackpot Cards","Jackpot Cards","Jackpot Cards"
+"STR_JP_VARIANT_2HH_1","2 Happy Hits - 1","2 Happy Hits - 1","2 Happy Hits - 1"
+"STR_JP_VARIANT_2HH_2","2 Happy Hits - 2","2 Happy Hits - 2","2 Happy Hits - 2"
+"STR_JP_VARIANT_2HH_3","2 Happy Hits - 3","2 Happy Hits - 3","2 Happy Hits - 3"
+"STR_JP_VARIANT_2HH_4","2 Happy Hits - 4","2 Happy Hits - 4","2 Happy Hits - 4"
+"STR_JP_VARIANT_2HH_5","2 Happy Hits - 5","2 Happy Hits - 5","2 Happy Hits - 5"
+"STR_JP_VARIANT_2HH_6","2 Happy Hits - 6","2 Happy Hits - 6","2 Happy Hits - 6"
+"STR_JP_VARIANT_2HH_7","2 Happy Hits - 7","2 Happy Hits - 7","2 Happy Hits - 7"
+"STR_JP_VARIANT_COINS","Coin Jackpot","Coin Jackpot","Coin Jackpot"
+"STR_JP_VARIANT_DTPROGRESSIVE_1","Dragons Turn_1","Dragons Turn_1","Dragons Turn_1"
+"STR_JP_VARIANT_DTPROGRESSIVE_2","Dragons Turn_2","Dragons Turn_2","Dragons Turn_2"
+"STR_JP_VARIANT_DTPROGRESSIVE_3","Dragons Turn_3","Dragons Turn_3","Dragons Turn_3"
+"STR_JP_VARIANT_DTPROGRESSIVE_4","Dragons Turn_4","Dragons Turn_4","Dragons Turn_4"
+"STR_JP_VARIANT_DTPROGRESSIVE_5","Dragons Turn_5","Dragons Turn_5","Dragons Turn_5"
+"STR_JP_VARIANT_DTPROGRESSIVE_6","Dragons Turn_6","Dragons Turn_6","Dragons Turn_6"
+"STR_JP_VARIANT_DTPROGRESSIVE_7","Dragons Turn_7","Dragons Turn_7","Dragons Turn_7"
+,,,
+"STR_JP_PROGRESSIVE_SPLASH_CLEAR","Progressive Jackpot splash clear:","Изчистване сплаша на Прогресивния Джакпот:","Limpieza de Jackpot Splash Progresivo:"
+"STR_JP_MYSTERY_SPLASH_CLEAR","Mystery Jackpot Splash Clear:","Изчистване сплаша на Мистери Джакпота:","Limpieza de Jackpot Splash Misterio:"
+"STR_JP_TIMER_AUTO_SELECT_IN_BONUS_GAME","Jackpot Bonus Auto Start Time:","Време за автоматично стартиране на Джакпотния Бонус:","Tiempo de Inicio Auto en Juego Jackpot:"
+"STR_JP_MYSTERY_BONUS_GAME","Jackpot Bonus Game:","Джакпотна Бонусна Игра:","Juego Bonus Jackpot:"
+"STR_JP_MYSTERY_BONUS_AUTO_START_TIME","Jackpot Bonus Auto Start Time:","Време за автоматично стартиране на Джакпотния Бонус:","Tiempo de Inicio Auto en Juego Jackpot:"
+"STR_JP_MYSTERY_ROULETTE_BONUS_GAME_BEHAVIOUR","Roulette JP Bonus Game Behaviour:","Поведенияе на Рулетния JP Бонус:","Comportamiento de Juego Bonus en Ruleta JP:"
+"STR_JP_MYSTERY_BONUS_AUTO","Jackpot Bonus Auto:",,"Bonus Jackpot Auto:"
+"STR_JP_ASSIGNED_GAMES_LIST","Assigned Games List:","Списък на зададените игри:","Lista de Juegos Asignados:"
+"STR_JP_MYSTERY_ACTIVE_VALID_FOR_FOLLOWING_GAMES","Jackpot Active Option is Valid for the Following Games Only:","Активната опция за Джакпот е валидна само за следните игри:","La Opción Activa de Jackpot es Válida Solo para los Siguientes Juegos:"
+,,,
+"STR_SECOND_MONITOR_SHOW_PPJS_VALUES","Show PPJS Jackpot Values:","Показване на стойностите на PPJS джакпота:","Mostrar los Valores de Jackpot PPJS:"
+"STR_SECOND_MONITOR_DEFAULT_PAGE","Second Monitor Default Page:","Подразбираща страница на втория монитор:","Página por defecto del Segundo Monitor:"
+"STR_JP_DEFAULT_PAGE_PAYTABLE","Paytable","Печалби","Tabla de Pagos"
+"STR_JP_DEFAULT_PAGE_PPJS_VALUES","PPJS Jackpot Values","Стойностите на PPJS джакпота:","Valores de Jackpot PPJS"
+,,,
+"STR_ROULETTE_CLIENT","Roulette %1","Рулетка %1","Cliente %1 de Ruleta"
+"STR_ROULETTE_CLIENT_EXTENDED","Roulette  %1 - %2","Рулеткa %1 - %2","Ruleta %1 - %2"
+"STR_ROULETTE_CLIENT_TYPE","Client type:","Тип клиент:","Tipo de cliente:"
+"STR_ROULETTE_COLOR_TYPE","Color type:","Тип на цвета:","Tipo de color:"
+"STR_ROULETTE_PROTOCOL_TYPE","Protocol type:","Тип на протокола:","Tipo de protocolo:"
+"STR_ROULETTE_FAST_PLAY","Fast Play:","Бърза игра:","Juego rapido:"
+"STR_ROULETTE_VOICE_ANNOUNCEMENTS","Voice Announcements:","",""
+,,,
+"STR_EUROPEAN","European","Европейска","Europea"
+"STR_EUROPEAN_LIVE","European Live","Европейска Жива","Europea Live"
+"STR_EUROPEAN_AUTOMATIC","European Automatic","Европейска Автоматична","Europea Automática"
+"STR_EUROPEAN_VIRTUAL","European Linked Virtual","Европейска Свързана Виртуална","Europea Vinculado Virtual"
+"STR_EUROPEAN_LOCAL","European Stand-Alone Virtual","Европейска Самостоятелна Виртуална","Europea ser único Local"
+"STR_AMERICAN","American","Американска","Americana"
+"STR_AMERICAN_LIVE","American Live","Американска Жива","Americana Live"
+"STR_AMERICAN_AUTOMATIC","American Automatic","Американска Автоматична","Americana Automática"
+"STR_AMERICAN_VIRTUAL","American Virtual","Американска Виртуална","Americana Virtual"
+"STR_AMERICAN_LOCAL","American Local","Американска Локална","Americana Local"
+,,,
+"STR_PROTOCOL_STANDARD","Standard","Стандарт","Estándar"
+"STR_PROTOCOL_RIGEL","Rigel","Ригел","Rigel"
+"STR_PROTOCOL_GENERAL","General","Генерал","General"
+,,,
+"STR_ROULETTE_DENOMINATION_SETTINGS","Denomination Settings","Настройки на деноминациите","Ajustes de Denominación"
+"STR_ROULETTE_BET_LIMITS_SETTINGS","Bet Limits and Settings","Лимит на залога и Настройки","Límites de Apuesta y Ajustes"
+"STR_ROULETTE_NETWORK_SETTINGS","Network Settings","Мрежови настройки","Ajustes de Red"
+"STR_ROULETTE_DYNAMIC_PAYTABLE_SETTINGS","Dynamic Paytable","",""
+"STR_ROULETTE_WHEEL_SETTINGS","Wheel Settings","Настройки на колелото","Ajustes de Ruleta"
+"STR_BET_TIME","Bet Time","Време за залог","Tiempo de Apuesta"
+"STR_IDLE_TIME","Idle Time","Свободно време","Тiempo de Inactividad"
+,,,
+"STR_NVRAM_ROULETTE_DYNAMIC_PAYTABLE","Dynamic Paytable:","",""
+"STR_NVRAM_ROULETTE_GOLD_PAYTABLE","33x/48x/72x - RTP:","",""
+"STR_NVRAM_ROULETTE_EVOLUTION_PAYTABLE","30x/50x/100x/150x/200x/250x/500x - RTP:","",""
+"STR_NVRAM_ROULETTE_DIAMOND_PAYTABLE","30x/60x/90x/120x - RTP:","",""
+"STR_PAYTABLE","Paytable","Paytable","Paytable"
+,,,
+"STR_ROULETTE_MACHINE_IP","Machine IP address:","IP на машината:","Dirección IP de máquina:"
+"STR_ROULETTE_MACHINE_GATEWAY","Machine Gateway address:","Шлюз на машината:","Dirección de Puerta de Enlace de máquina:"
+"STR_ROULETTE_SERVER_IP","Roulette Server IP:","IP на рулетния сървър:","IP de Servidor de Ruleta:"
+"STR_ROULETTE_SERVER_IP_LABEL","default server ip: 10.0.0.1","адрес по подразбиране: 10.0.0.1","ip del servidor por defecto: 10.0.0.1"
+"STR_ROULETTE_PLAY_STATION_ID","Play Station Id:","ID на игрално място:","ID de Estación de Juego:"
+"STR_ROULETTE_STREAMER_ADDRESS","Streamer Address:","Адрес на Стримъра:","Dirección de Streamer:"
+"STR_ROULETTE_MULTICAST_MODE","Set multicast:",,"Ajustar multicast:"
+"STR_ROULETTE_MULTICAST_ADDRESS","Multicast Address:",,"Dirección de Multicast:"
+"STR_ROULETTE_MULTICAST_PORT","PORT:","ПОРТ:","PORT:"
+"STR_ROULETTE_SERVER_VERSION","Server version:","Версия на сървъра:","Versión de servidor:"
+"STR_ROULETTE_SERVER_PROTOCOL_VERSION","Protocol version:","Версия на протокола:","Versión de protocolo:"
+"STR_ROULETTE_IDENTITY","Identity: ","Identity: ","Identity: "
+"STR_ROULETTE_FINGERPRINT","Fingerprint (UID): ","Fingerprint (UID): ","Fingerprint (UID): "
+"STR_ROULETTE_HWID","HW ID: ","HW ID: ","HW ID: "
+"STR_ROULETTE_IMAGECHECKSUMMD5","Image checksum MD5: ","Image checksum MD5 ","Image checksum MD5: "
+"STR_ROULETTE_IMAGECHECKSUMSHA1","Image checksum SHA1: ","Image checksum SHA1: ","Image checksum SHA1: "
+"STR_ROULETTE_GAMECFSERIALNUMBER","Game CF Serial Number: ","Game CF Serial Number: ","Game CF Serial Number: "
+"STR_ROULETTE_CFCHECKSUMMD5","CF checksum MD5: ","CF checksum MD5 ","CF checksum MD5: "
+"STR_ROULETTE_CFCHECKSUMSHA1","CF checksum SHA1: ","CF checksum SHA1: ","CF checksum SHA1: "
+"STR_ROULETTE_CLEARCFSERIALNUMBER","Clear CF Serial Number: ","Clear CF Serial Number: ","Borrar número de serie de CF: "
+"STR_ROULETTE_CLEARED","Cleared: ","Изчистено: ","Despejado: "
+"STR_ROULETTE_UPTIME","Uptime: ","Uptime: ","Tiempo de actividad: "
+"STR_ROULETTE_PICVERSION","PIC version: ","PIC версия: ","PIC version:"
+"STR_ROULETTE_SERVERTIME","Server time: ","Сървърно време: ","server time: "
+"STR_ROULETTE_REVISION","Revision: ","Ревизия: ","Revision: "
+,,,
+"STR_ROULETTE_STREAMER_IP_TYPE","Address type:","Тип адрес:","Tipo de address:"
+"STR_IPV4","IPv4","IPv4","IPv4"
+"STR_IPV6","Auto","Auto","Auto"
+,,,
+"STR_ROULETTE_STREAMER_TYPE","Streamer type:","Тип стриймър:","Tipo de streamer:"
+"STR_ANALOG_CAMERA","Analog Camera","Аналогова Камера","Analog Camera"
+"STR_DIGITAL_CAMERA","Digital Camera","Цифрова Камера","Digital Camera"
+,,,
+"STR_ROULETTE_CLIENT_SUBTYPE","Client Subtype:","Тип подклиент:","Client Subtype:"
+"STR_FULL_SIZE_VIDEO_STREAM","Full Size Video Stream","Видео Стриймър на целия екран","Full Size Video Stream"
+"STR_RESIZABLE_VIDEO_STREAM","Resizable Video Stream","Променящ се Видео Стриймър","Resizable Video Stream"
+,,,
+"STR_ROULETTE_STREAMER_VIEW_ZOOM","Streamer view zoom:","Увеличение на стриймър изгледа:","Streamer view zoom:"
+"STR_STREAMER_ZOOM_NONE","No Zoom","Без увеличение","No Zoom"
+"STR_STREAMER_ZOOM_X1_2","x1.2","x1.2","x1.2"
+"STR_STREAMER_ZOOM_X1_5","x1.5","x1.5","x1.5"
+"STR_STREAMER_ZOOM_X2","x2","x2","x2"
+,,,
+"STR_ROULETTE_STREAMER_OFFSET_LEFT","Streamer view offset left:","Отместване на стриймър изгледа от ляво:","Streamer view offset left:"
+"STR_ROULETTE_STREAMER_OFFSET_TOP","Streamer view offset top:","Отместване на стриймър изгледа от горе:","Streamer view offset top:"
+"STR_ROULETTE_STREAMER_WIDTH","Streamer view width:","Широчина на стриймър изгледа:","Streamer view width:"
+"STR_ROULETTE_STREAMER_HEIGHT","Streamer view height:","Височина на стриймър изгледа:","Streamer view height:"
+,,,
+"STR_ROULETTE_NETWORK_CHECK","Check Network","Проверка на мрежата","Comprobar Red"
+"STR_ROULETTE_NETWORK_GET_WHEEL_HASH","Get Wheel Hash","Вземи хеша на колелото","Obtener Hash de Ruleta"
+"STR_ROULETTE_NETWORK_VALIDATE_WHEEL","Validate Wheel","Валидация на колелото","Validar Ruleta"
+,,,
+"STR_ROULETTE_NETWORK_DISCOVER_ROULETTE_SERVER","Discover Roulette Server","Намери Рулетен Сървър","Descubrir el servidor de ruleta"
+"STR_ROULETTE_NETWORK_DISCOVER_ROULETTE_SERVER_IP","IP","IP","IP"
+"STR_ROULETTE_NETWORK_DISCOVER_ROULETTE_SERVER_PROTOCOL_TYPE","Protocol Type","Тип на Протокола","Tipo de protocolo"
+"STR_ROULETTE_NETWORK_DISCOVER_ROULETTE_SERVER_WHEEL_NAME","Wheel Name","Име на колело","Nombre de la rueda"
+"STR_ROULETTE_NETWORK_DISCOVER_ROULETTE_SERVER_TIME_STAMP","Time Stamp","Време на събитието","Marca Temporal"
+"STR_ROULETTE_NETWORK_VIDEO_STREAM_SETTINGS","Video Stream Settings","Настройки на Видео Стримърa","Ajustes de Vídeo Streaming"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_SETTINGS","Server Settings","Настройки на сървъра","Configuración de Servidor"
+"STR_ROULLETTE_NETWORK_RIGEL_NETWORK_SETTINGS","Network Settings","Мрежови настройки","Ajustes de Red"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_CONTROL","Controls","Контроли","Control del servidor"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_ACCOUNTING","Accounting","Отчет","Servidor de contabilidad"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_STATISTICS","Statistics","Статистика","Estadísticas del servidor"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_EVENT_LOG","Event Logs","Списък със събития","Registro de eventos del servidor"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_INFO","Server Info","Сървърна информация","Información del servidor"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_AUTHORIZATION","Authorization","Ауторизация","Autorización del servidor"
+"STR_ROULETTE_NETWORK_RIGEL_SERVER_JACKPOT_DN","JP Diamond Number","Джакпот Диамантено Число","Número de diamante del bote del servidor"
+"STR_RIGEL_ROULETTE_LABEL_JACKPOT","Diamond Number JP:","Diamond Number JP:","Diamond Number JP:"
+"STR_RIGEL_ROULETTE_BASE_CODE","Base code:","Базов код:","Base code:"
+"STR_RIGEL_ROULETTE_TIME_LEFT","Time left:","",""
+"STR_RIGEL_ROULETTE_TIME_TO_ENTER_CODE","Time to enter code:","",""
+"STR_RIGEL_ROULETTE_REMAINING_ATTEMPTS","Remaining attempts:","",""
+"STR_RIGEL_ROULETTE_ENTER_CODE","Enter code:","",""
+"STR_RIGEL_ERROR_DIAMOND_JP_NOT_SUPPORTED","Warning 'Diamonds and Sapphires' and 'Diamonds Only' options are NOT supported","",""
+,,,
+"STR_RIGEL_ROULETTE_TYPE","Roulette Type:"," "," "
+"STR_RIGEL_ROULETTE_TYPE_OPTION_1","Single Zero"," "," "
+"STR_RIGEL_ROULETTE_TYPE_OPTION_2","Double Zero"," "," "
+"STR_RIGEL_WHEEL_TYPE","Wheel Type:"," "," "
+"STR_RIGEL_WHEEL_TYPE_OPTION_1","Automatic"," "," "
+"STR_RIGEL_WHEEL_TYPE_OPTION_2","Live"," "," "
+"STR_RIGEL_INTRUSION_BEHAVIOUR","Intrusion Behaviour:"," "," "
+"STR_RIGEL_INTRUSION_BEHAVIOUR_OPTION_1","Do Nothing"," "," "
+"STR_RIGEL_INTRUSION_BEHAVIOUR_OPTION_2","Invalid Game"," "," "
+"STR_RIGEL_WHEEL_MALFUNCTION_TIMEOUT","Wheel Malfunction Timeout:"," "," "
+"STR_RIGEL_BLOW_SPEED","Blow Speed:"," "," "
+"STR_RIGEL_PLAYER_READY_OPTION","Fast play:"," "," "
+"STR_RIGEL_PLAYER_READY_TIMEOUT","Fast play timeout:"," "," "
+"STR_RIGEL_DYNAMIC_PAYTABLE","Dynamic paytable:"," "," "
+"STR_RIGEL_STREAM_URL_SEC","Secondary stream:"," "," "
+"STR_RIGEL_LOCK","Lock"," "," "
+"STR_RIGEL_BLOW_BALL","Blow Ball:"," "," "
+"STR_RIGEL_BLOW_BALL_OPTION_1","Before NMB"," "," "
+"STR_RIGEL_BLOW_BALL_OPTION_2","After NMB"," "," "
+"STR_RIGEL_VOICE","Voice:"," "," "
+"STR_RIGEL_VOICE_OPTION_1","English"," "," "
+"STR_RIGEL_VOICE_OPTION_2","French"," "," "
+"STR_RIGEL_VOICE_OPTION_3","Spanish"," "," "
+"STR_RIGEL_VOICE_OPTION_4","Romanian"," "," "
+"STR_RIGEL_VOICE_OPTION_5","Hungarian"," "," "
+"STR_RIGEL_VOICE_OPTION_6","Georgian"," "," "
+"STR_RIGEL_VOICE_OPTION_7","German"," "," "
+"STR_RIGEL_BET_TIME","Bet Time:"," "," "
+"STR_RIGEL_LAST_BETS_TIME","Last Bets Time:"," "," "
+"STR_RIGEL_IDLE_LAUNCH","Idle Launch:"," "," "
+"STR_RIGEL_VOLUME_CENTER","Volume Center:"," "," "
+"STR_RIGEL_PLAYSTATION_VOICE","Playstation Voice:"," "," "
+"STR_RIGEL_COLOR_SCHEME","Color Scheme:"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_1","Green"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_2","Blue"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_3","Red"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_4","Black"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_5","Yellow"," "," "
+"STR_RIGEL_COLOR_SCHEME_OPTION_6","Classic"," "," "
+"STR_RIGEL_AUTO_MAXIMIZE_VIDEO","Auto-Maximize Video:"," "," "
+"STR_RIGEL_STREAM_URL","Stream URL:"," "," "
+"STR_RIGEL_SHOW_VIDEO_ON_STATISTICS","Show Video On Statistics:"," "," "
+"STR_RIGEL_CURRENCY_CODE","Currency Code:"," "," "
+"STR_RIGEL_LABEL","Label:"," "," "
+"STR_RIGEL_ROTOR_SPEED","Rotor Speed:"," "," "
+"STR_RIGEL_SHOW_BET_WIN_TOTALS","Show Bet/Win Totals:"," "," "
+"STR_RIGEL_SHOW_BET_WIN_TOTALS_OPTION_1","Don't Show"," "," "
+"STR_RIGEL_SHOW_BET_WIN_TOTALS_OPTION_2","Show only Bet"," "," "
+"STR_RIGEL_SHOW_BET_WIN_TOTALS_OPTION_3","Show only Win"," "," "
+"STR_RIGEL_SHOW_BET_WIN_TOTALS_OPTION_4","Show Both"," "," "
+"STR_RIGEL_STATISTICS_ORIENTATION","Statistics Orientation:"," "," "
+"STR_RIGEL_STATISTICS_ORIENTATION_OPTION_1","FullHD Vertical"," "," "
+"STR_RIGEL_STATISTICS_ORIENTATION_OPTION_2","FullHD Horizontal"," "," "
+"STR_RIGEL_STATISTICS_ORIENTATION_OPTION_3","HD Vertical"," "," "
+"STR_RIGEL_STATISTICS_ORIENTATION_OPTION_4","HD Horizonral"," "," "
+"STR_RIGEL_HEARTBEAT","Heartbeat:"," "," "
+"STR_RIGEL_NUMBER","No:"," "," "
+"STR_RIGEL_HITS","Hits:"," "," "
+"STR_RIGEL_PERCENT","Percent:"," "," "
+,,,
+"STR_RIGEL_MCS_ADDRESS","MCS Address:"," "," "
+"STR_RIGEL_WHEEL_IP_ADDRESS","Wheel IP Address:"," "," "
+"STR_RIGEL_SUBNET_MASK","Subnet Mask:"," "," "
+"STR_RIGEL_DEFAULT_GATEWAY","Default Gateway:"," "," "
+"STR_RIGEL_INTERFACE_ETH","Interface eth:"," "," "
+"STR_RIGEL_REQUIRE_MCS","Require MCS:"," "," "
+"STR_RIGEL_MECHANICAL_COUNTERS","Mechanical Counters:"," "," "
+,,,
+"STR_RIGEL_DISABLED","Disabled"," "," "
+"STR_RIGEL_ENABLED","Enabled"," "," "
+,,,
+"STR_ROULETTE_SERVER_SERIAL_NUMBER","Roulette Server Serial Number","Сериен Номер на Рулетния Сървър","Número de Serie de Servidor de Ruleta"
+"STR_LIST_SERIAL_NUMBERS","List of Serial Numbers:","Списък на серийните номера:","Lista de Números de Serie:"
+"STR_SELECTED_SERIAL_NUMBER","Selected Serial Number:","Избран сериен номер:","Número de Serie Seleccionado:"
+,,,
+"STR_ROULETTE_NETWORK_PLEASE_WAIT","Please wait...","Моля, изчакайте ...","Por favor, espere..."
+"STR_ROULETTE_NETWORK_SETTINGS_OK","Network settings are OK","Мрежовите настройки са наред","La configuración de red es OK"
+"STR_ROULETTE_NETWORK_ERRORS","Network error: %1","Грешка в мрежата: %1","Error de red: %1"
+"STR_ROULETTE_NETWORK_ERROR_CABLE","Cable Connection","Кабелна връзка","Conexión por Cable"
+"STR_ROULETTE_NETWORK_ERROR_PING","PING - %1","PING - %1","PING - %1"
+"STR_ROULETTE_NETWORK_CANNOT_CONNECT_TO_SERVER","Could not connect to server.","Не може да се свърже със сървъра.","No se pudo conectar al servidor."
+"STR_ROULETTE_NETWORK_WHEEL_HASH","Wheel Hash: %1","Хеш на колелото: %1","Hash de Ruleta: %1"
+,,,
+"STR_ROULETTE_CHIP_VALUE","Chip %1 Value in credits:","Чип %1 Стойност в кредити:","Valor de Ficha %1 en créditos:"
+"STR_ROULETTE_REPEAT_PARTIAL","Repeat Partial:",,"Repetir Parcial:"
+"STR_ROULETTE_LIMITS_INFO","If %1 is assigned %2 <= %3","Ако %1 е присвоена %2 <= %3","Si %1 es asignado %2 <= %3"
+"STR_ROULETTE_MYSTERY_JP_NAME","CBJS/VJS Mystery","CBJS/VJS Мистири","Misterio CBJS/VJS"
+"STR_ROULETTE_GAME_MAX_BET","Game Max Bet","Максимален залог на игра","Apuesta Máx de Juego"
+"STR_ROULETTE_TOTAL_GAME_BET","Total Game Bet","Общ залог на игра","Apuesta Total de Juego"
+"STR_ROULETTE_STRAIGHT_UP_BET","Straight Up Bet",,"Apuesta Directa"
+"STR_ROULETTE_SPLIT_BET","Split Bet","Разделен залог","Apuesta Dividida"
+"STR_ROULETTE_STREET_BET","Street Bet",,"Apuesta Esquina"
+"STR_ROULETTE_CORNER_BASKET_BET","Corner & Basket Bet",,"Apuesta Esquina & Basket"
+"STR_ROULETTE_CORNER_TOP_LINE_BET","Corner & Top Line Bet","Корнер залог и залог на горна линия","Apuesta Esquina & Línea Superior"
+"STR_ROULETTE_LINE_BET","Line Bet","Залог на линия","Apuesta de Línea"
+"STR_ROULETTE_COLUMN_DOZEN_BET","Column & Dozen Bet","Колона и залог на дозина","Apuesta a Columna & Docena"
+"STR_ROULETTE_ODD_HIGH_BLACK_BET","Even/Odd & Low/High & Red/Black Bet","Четно/Нечетно и Ниско/Високо и Червено/Черно Залог","Apuesta Par/Impar & Alto/Bajo & Rojo/Negro"
+"STR_ROULETTE_SET_PROPORTIONAL_TO_STRAIGHT_UP_MAX_BET","Set Proportional to Straight Up Max Bet",,"Ajustar Proporcional a Apuesta Directa Máx"
+"STR_ROULETTE_SET_DEFAULT_LIMITS","Set Default Limits","Настройка на базови лимити","Ajustar Límites por Defecto"
+"STR_ROULETTE_CONFIGURATION_UPDATED","Configuration updated!!!","Конфигурирането се актуализира!!!","¡¡¡Configuración actualizada!!!"
+,,,
+"STR_ROULETTE_DENOMINATION_SETTINGS_TITLE","%1 Roulette - Denomination Settings","%1 Рулетка - Настройки на деноминация","%1 Ruleta - Ajustes de Denominación"
+"STR_ROULETTE_CHOOSE_ONE_DENOMINATION","Choose one of the following denominations:","Изберете едно от следните деноминации:","Elija una de las siguientes denominaciones:"
+"STR_ROULETTE_PLAYER_DENOMINATION","%1 Player Denomination %2:","%1 Деноминация на играч %2:","Jugador %1 Denominación %2:"
+,,,
+"STR_CASHABLE_VOUCHER_IN_LABEL","Cashable Voucher In: ","Ваучер за разплащане в:","Entrada de Vales Reembolsables:"
+"STR_CASHABLE_VOUCHER_IN_COUNT_LABEL","Cashable Voucher In count: ","Ваучер за разплащане в брой:","Cuenta de Entrada de Vales Reembolsables:"
+"STR_PROMOTIONAL_VOUCHER_IN_LABEL","Promotional Voucher In: ","Промоционален ваучер в:","Entrada de Vale Promocional:"
+"STR_PROMOTIONAL_VOUCHER_IN_COUNT_LABEL","Promotional Voucher In count: ","Промоционален ваучер в брой:","Cuenta de Entrada de Vales Promocionales:"
+"STR_NON_CASHABLE_VOUCHER_IN_LABEL","Non-cashable Voucher In: ","Вкарани неизплатими ваучери:","Entrada de Vales No-Reembolsables:"
+"STR_NON_CASHABLE_VOUCHER_IN_COUNT_LABEL","Non-cashable Voucher In count: ",,"Cuenta de Entrada de de Vales No-Reembolsables:"
+"STR_CASHABLE_VOUCHER_OUT_LABEL","Cashable Voucher Out: ","Изкарани ваучери за разплащане:","Salida de Vales Reembolsables:"
+"STR_CASHABLE_VOUCHER_OUT_COUNT_LABEL","Cashable Voucher Out count: ",,"Cuenta de Salida de Vales Reembolsables:"
+"STR_NON_CASHABLE_VOUCHER_OUT_LABEL","Non-cashable Voucher Out: ","Изкарване на ваучери неизплатими в брой:","Salida de Vales No-Reembolsables:"
+"STR_NON_CASHABLE_VOUCHER_OUT_COUNT_LABEL","Non-cashable Voucher Out count: ",,"Cuenta de Salida de de Vales No-Reembolsables:"
+,,,
+"STR_COIN_IN_JAMS","Coin in jams: ","Монети заседнали:","Atascos de entrada de moneda:"
+"STR_COIN_ALARMS","Coin Alarm: ","Монетна аларма:","Alarma de Moneda:"
+"STR_BILL_IN_JAMS","Bill In Jams: ","Банкноти в контейнер:","Atascos de Entrada de Billete:"
+"STR_BILLS_REJECTED","Bills Rejected: ","Отхвърлени банкноти:","Billetes Rechazados:"
+"STR_COUNTERFEIT_BILL_DETECTED","Counterfeit Bill Detected: ","Открити фалшиви банкноти:","Billetes Falsos Detectados:"
+"STR_BILL_VALIDATOR_ERRORS","Bill Validator Errors: ","Грешки при Банкното- валидатора:","Errores de Validador de Billetes:"
+"STR_HOPPER_EMPTY_LABEL","Hopper Empty: ","Хопъра е пазен:","Vaciado de Tolva:"
+"STR_HOPPER_COINT_OUT_JAMS","Hopper Coin Out Jams: ",,"Atascos de Salida de Moneda en Tolva:"
+"STR_COINT_PAID","Extra Coin Paid: ","Изплащане на допълнителна монета:","Moneda Extra Pagada:"
+"STR_PRINTER_JAMS","Printer Jams: ","Регистрира колко пъти е имало смачкан билет:","Atascos de Impresora:"
+"STR_PRINTER_ERRORS","Printer Errors: ","Грешки в принтера:","Errores de Impresora:"
+"STR_PRINTER_DISCONNECTS","Printer Disconnects: ","Принтера прекъсва:","Desconexiones de Impresora:"
+"STR_MECHANICAL_METER_DISCONNECTS","Mechanical Meter Disconnects: ","Електромеханичния брояч прекъсва:","Desconexiones de Medidor Mecánico:"
+"STR_TOUCH_SCREEN_ERRORS","Touch Screen Errors: ","Грешка в тъчскрина:","Errores de Pantalla Táctil:"
+"STR_RUNTIME_RESET","Runtime Reset: ","Рестартиране по време на изпълнение:","Reinicio de tiempo de ejecución:"
+"STR_BOOT_BOOT_TIME_RESET","Boot Time Reset: ","Начално време за стартиране:","Reinicio de Tiempo de Arranque:"
+"STR_IDREADER_DEVICE_DISCONNECTED","Id Card Scanner Device Disconnected: ",,
+"STR_IDREADER_SCAN_ERROR","Id Card Scanner Scan Error: ",,
+"STR_IDREADER_FAILED_READ_EXP_DATE","Id Card Scanner Failed To Read Expiration Date: ",,
+"STR_IDREADER_FAILED_READ_BIRTH_DATE","Id Card Scanner Failed To Read Date Of Birth: ",,
+"STR_IDREADER_SCANNED_UNDER_LEGAL_AGE","Id Card Scanner Scanned Under Legal Age: ",,
+,,,
+"STR_MASTER_ACCOUNTING","Master Accounting","Главно Отчитане","Contabilidad Master"
+"STR_PERIOD_ACCOUNTING","Period Accounting","Периодично Отчитане","Periodo de Contabilidad"
+"STR_NUMBER_OF_BILLS","%1Number of Bills: ","%1Номер на банкнотите:","%1Número de Billetes:"
+"STR_TOTAL_VALUE_OF_BILLS","%1Total Value of Bills: ","%1Общи стойности на банкнотите:","%1Valor Total de Billetes:"
+"STR_ADD_BILLS","%1 bills","%1 банкноти","%1 billetes"
+"STR_BILL_CURRENCY_CODE_BILLS","Currency Code Bills:",,
+"STR_BILL_EXCHANGE_CURRENCY_CODE_BILLS","Exchange Currency Code Bills:",,
+,,,
+"STR_NUMBER_OF_COINS","Number of Coins: ","Брой на монети:","Número de Monedas:"
+"STR_TOTAL_VALUE_OF_COINS","Total Value of Coins: ","Обща стойност на монетите:","Valor Total de Monedas:"
+"STR_ADD_COINS","%1 coins","%1 монети","%1 monedas"
+,,,
+"STR_LOGIC_BOARD_DOOR","Logic board door","Вратата на ексайтера","Puerta de placa lógica"
+"STR_BILL_STACKER_ACCESS","Bill Stacker access","Достъп до Стакера на Банкноти","Acceso a apilador de billete"
+"STR_POWER_INFORMATION","Power information","Информация за захранването","Información de energía"
+"STR_DROP_DOOR_POWER_OFF","Drop door (power off)","Разкачена врата ( изключване)","Puerta de caída (apagar)"
+"STR_LOGIC_BILL_VALIDATOR_DOOR_POWER_OFF","Bill validator door (power off)","Вратата на банкното-валидатора (изключване)","Puerta de validador de billetes (apagar)"
+"STR_LOGIC_BILL_STACKER_BOX_DOOR_POWER_OFF","Bill stacker box door (power off)","Вратата на кутията на Стакера на банкноти (изключване)","Puerta de apilador de billetes (apagar)"
+"STR_LOGIC_MAIN_DOOR_POWER_OFF","Main door (power off)","Главна врата (изключване)","Puerta principal (apagar)"
+"STR_LOGIC_LOGIC_BOARD_DOOR_POWER_OFF","Logic board door (power off)","Вратата на ексайтера (изключване)","Puerta de placa lógica (apagar)"
+"STR_LOGIC_BELLY_DOOR_POWER_OFF","Belly door (power off)","Предна врата (Изключване)","Puerta central (apagar)"
+"STR_LOGIC_TOP_BOX_DOOR_POWER_OFF","Top Box door (power off)","Врата на горна кутия (изключване)","Puerta de Caja Superior (apagar)"
+"STR_LOGIC_DROP_EXT_DOOR_POWER_OFF","Door Ext (power off)","Външна врата ( изключване)","Puerta Ext (apagar)"
+,,,
+"STR_LAST_OPEN_LABEL"," - Last open"," - Последно отворен","- Última apertura"
+"STR_LAST_CLOSE_LABEL"," - Last close"," - Последно затворен","- Último cierre"
+"STR_LAST_OPEN_COUNT_LABEL"," - Open count"," - Брой Отворени","- Recuento aperturas"
+"STR_LAST_CLOSE_COUNT_LABEL"," - Close count"," - Брой Затворени",""
+"STR_GAMES_SINCE_LAST_CLOSE_LABEL"," - Games since last close"," - Игри от споледно затваряне","- Juegos desde último cierre"
+"STR_LAST_POWER_FAILED_LABEL"," - Last power failed"," - Последно прекъсване на захранването","- Último fallo de energía"
+"STR_LAST_TURNED_ON_LABEL"," - Last turned on"," - Последно включване","- Último encendido"
+"STR_POWER_OFF_DURATION_LABEL"," - Power off duration"," - Време на изключена машина","- Duración de apagado"
+"STR_POWER_FAILURES_LABEL"," - Power failures"," - Провалени захранвания","- Fallos de energía"
+"STR_GAMES_SINCE_LAST_POWER_ON_LABEL"," - Games since last power on"," - Игри от последното включване","- Juegos desde último encendido"
+"STR_LAST_REMOVE_LABEL"," - Last remove"," - Последно изкарване","- Última retirada"
+"STR_LAST_INSERT_LABEL"," - Last insert"," - Последно вкарване","- Última inserción"
+"STR_REMOVE_COUNT_LABEL"," - Remove count"," - Изтрит брояч","- Cuenta de retiradas"
+,,,
+"STR_DENOMINATION_ACCOUNTING_DENOMINATION_LABEL","DENOMINATION: %1","ДЕНОМИНАЦИЯ: %1","DENOMINACIÓN %1"
+"STR_DENOMINATION_ACCOUNTING_TOTAL_BET","Total Bet (Coin In): ","Всички залози (Вкарани жетони):","Apuesta total (Moneda Introducida):"
+,,,
+"STR_SORT_BY_PLAYED_GAMES_LABEL","Sort by played games",,"Sort by played games"
+"STR_SORT_BY_TOTAL_BET_LABEL","Sort by total bet ",,"Sort by total bet"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_WAN","Total Won: ","Общо спечелени:","Total Ganado:"
+"STR_TOTAL_WINNINGS_TO_CREDIT_LABEL","  -Total Winnings to Credit: ","- Общо спечелени в кредити:","  - Total Ganancias a Crédito:"
+"STR_WINNINGS_FROM_PAYTABLE_LABEL","   -- Winnings from Paytable (Coin Out): ","-- Печалби от таблицата с печалби (Изкарани пари)","   -- Tabla de Pagos (Salida Moneda):"
+"STR_WINNINGS_FROM_PROGRESSIVES_LABEL","   -- Winnings from Progressives: ","-- Печалбите в пари от Прогресиви:","   -- Progresivos:"
+"STR_WINNINGS_FROM_EXTERNAL_BONUS_LABEL","   -- Winnings from External Bonuses: ","-- Печалби от външен бонус:","   -- Bonus Externos:"
+"STR_TOTAL_WINNINGS_PAID_BY_ATTENDANT_LABEL","  -Total Winnings Paid by Attendant: ","- Общи печалби, изплатени от крупие:","  -Ganancias Totales Pagadas por Asistentes:"
+"STR_TOTAL_ATTENDANT_PAID_PAYTABLE_WINNINGS_LABEL","   -- Attendant Paid Paytable Winnings: ","-- Изплатими печалби което крупието изплати:","   -- Tabla de Pagos Pagadas por Asistente:"
+"STR_TOTAL_ATTENDANT_PAID_PROGRESSIVES_LABEL","   -- Attendant Paid Progressives: ","-- Изплатени от крупие Прогресиви:","   -- Progresivos Pagados por Asistente:"
+"STR_TOTAL_ATTENDANT_PAID_EXTERNAL_BONUSES_LABEL","   -- Attendant Paid External Bonuses: ","-- Изплатени от крупие Външни Бонуси:","   -- Bonus Externos Pagados por Asistente:"
+"STR_TOTAL_GAMES_PLAYED_LABEL","Total Games Played: ","Общо изиграни игри:","Total Juegos Jugados:"
+"STR_TOTAL_GAMES_WON_LABEL","  - Total Games Won: ","- Общо спечелени игри:","  - Total Juegos Ganados:"
+"STR_TOTAL_GAMES_LOST_LABEL","  - Total Games Lost: ","- Общо загубени игри:","  - Total Juegos Perdidos:"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_CASHTABLE_PLAYED","  - Total Cashable Played: ","- Общо изплатими в брой игри:","  - Total Reembolsables Jugados:"
+"STR_MACHINE_ACCOUNTING_TOTAL_PROMOTIONAL_PLAYED","  - Total Promotional Played: ","- Общо Промоционално Изиграни:","  - Total Promocionales Jugados:"
+"STR_MACHINE_ACCOUNTING_TOTAL_NON_CASHTABLE_PLAYED","  - Total Non-cashable Played: ","- Общо не изплатими в брой игри:","  - Total No-Reembolsables Jugados:"
+,,,
+"STR_MACHINE_ACCOUNTING_MACHINE_HOLD","Machine hold %: ","Паузиране на машината %:","Retención de máquina %:"
+"STR_MACHINE_ACCOUNTING_MACHINE_YIELD","Machine yield %: ","Доходност на машината %:","Cesión de máquina %:"
+"STR_GAME_ACCOUNTING_GAME_HOLD","Game hold %: ","Паузиране на играта %:","Retención de juego %:"
+"STR_GAME_ACCOUNTING_GAME_YIELD","Game yield %: ","Доходност на играта %:","Cesión de juego %:"
+"STR_GAME_ACCOUNTING_BASE_GAME_CURRENT","Base Game Current %: ","Основна игра Текущ %:","% Actual Juego Base:"
+"STR_MACHINE_ACCOUNTING_WEIGHTED_AVERAGE_TRTP","Weighted Average TRTP %: ",,"Ponderación de TRTP Media %:"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_IN","Total In: ","Общо вкарани:","Entrada Total:"
+"STR_MACHINE_ACCOUNTING_PHYSICAL_COIN_IN","  - Physical Coin In: ","- Вкарани жетони","  - Entrada Moneda Física:"
+"STR_MACHINE_ACCOUNTING_BILL_IN","  - Bill In: ","- Вкарани банкноти","  - Entrada Billete:"
+"STR_MACHINE_ACCOUNTING_CASHLESS_IN","  - Cashless In: ","- Вкарани пари в машината по електронен път:","  - Entrada Cashless:"
+"STR_MACHINE_ACCOUNTING_CASHABLE_ELECTRONIC_IN","   -- Cashable Electronic In: ","-- Вкарани пари в машината с електронен трансфер:","   -- Entrada Electrónica de Reembolsable:"
+"STR_MACHINE_ACCOUNTING_KEYED_IN","    --- Keyed In: ","--- Пари добавени чрез калкулатор","    --- Entrada de Bloqueado:"
+"STR_MACHINE_ACCOUNTING_PROMOTIONAL_ELECTRONIC_IN","   -- Promotional Electronic In: ","-- Вкарани промоционални електронни трансфери:","   -- Entrada Electrónica Promocional:"
+"STR_MACHINE_ACCOUNTING_NON_CASHABLE_ELECTRONIC_IN","   -- Non-cashable Electronic In: ","-- Вкарани по електронен път неизплатими в брой:","   -- Entrada Electrónica de No-Reembolsable:"
+"STR_MACHINE_ACCOUNTING_VOUCHER_IN","  - Voucher In: ","- Вкарани Ваучери:","  - Entrada Vales:"
+"STR_MACHINE_ACCOUNTING_CASHABLE_VOUCHER_IN","   -- Cashable Voucher In: ","-- Вкарани Ваучери за разплащане","   -- Entrada Vales Reembolsables:"
+"STR_MACHINE_ACCOUNTING_PROMOTIONAL_VOUCHER_IN","   -- Promotional Voucher In: ","-- Вкарани промоционални Ваучери","   -- Entrada Vales Promocionales:"
+"STR_MACHINE_ACCOUNTING_NON_CASHABLE_VOUCHER_IN","   -- Non-cashable Voucher In: ","-- Вкарани неизплатими ваучери:","   -- Entrada de Vale No-Reembolsable:"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_OUT","Total Out: ","Общо Изкарани:","Salida Total:"
+"STR_MACHINE_ACCOUNTING_PHYSICAL_COIN_OUT","  - Physical Coin Out: ","- Изкарани реални монети:","  - Salida Moneda Física:"
+"STR_MACHINE_ACCOUNTING_TOTAL_WINNINGS_PAYED_BY_ATTENDANT","  - Total Winnings Paid by Attendant: ","- Всички печалби изплатени от крупие:","  - Ganancias Totales Pagadas por Asistente:"
+"STR_MACHINE_ACCOUNTING_CANCELLED_CREDIT_PAID_BY_ATTENDANT","  - Cancelled Credits Paid by Attendant: ","- Отказани кредити изплатени от крупие:","  - Créditos Cancelados Pagados por Asistente:"
+"STR_MACHINE_ACCOUNTING_VOUCHER_OUT","  - Voucher Out: ","- Изкарани Ваучери:","  - Salida de Vales:"
+"STR_MACHINE_ACCOUNTING_CASHABLE_VOUCHER_OUT","   -- Cashable Voucher Out: ","-- Изкарани Ваучери за разплащане","   -- Salida de Vale Reembolsable:"
+"STR_MACHINE_ACCOUNTING_NON_CASHABLE_VOUCHER_OUT","   -- Non-cashable Voucher Out: ","-- Изкарване на ваучери неизплатими в брой:","   -- Salida de Vale No-Reembolsable"
+"STR_MACHINE_ACCOUNTING_CASHLESS_OUT","  - Cashless Out: ","- Изкарани пари от машината по електронен път:","  - Salida de Cashless:"
+"STR_MACHINE_ACCOUNTING_CASHABLE_ELECTRONIC_OUT","   -- Cashable Electronic Out: ","-- Изкарване по електронен път изплатими в брой:","   -- Salida Electrónica de Reembolsable:"
+"STR_MACHINE_ACCOUNTING_PROMOTIONAL_ELECTRONIC_OUT","   -- Promotional Electronic Out: ","-- Изкарани промоционални електронни трансфери:","   -- Salida Electrónica Promocional:"
+"STR_MACHINE_ACCOUNTING_NON_CASHABLE_ELECTRONIC_OUT","   -- Non-cashable Electronic Out: ","-- Изкарани по електронен път неизплатими в брой:","   -- Salida Electrónica de No-Reembolsable:"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_CANCELLED_CREDITS","Total Cancelled Credits: ","Общо отменени кредити:","Total Créditos Cancelados:"
+"STR_MACHINE_ACCOUNTING_TOTAL_HANDPAY_RECEIPT","Total Handpay Receipt: ","Общо изплатени на ръка бележки:","Total Recibos Pago en Mano:"
+"STR_MACHINE_ACCOUNTING_CANCELLED_CREDITS_RECEIPT","  - Cancelled Credits Receipt: ","- Отказана кредитна бележка:","  - Recibo de Créditos Cancelados:"
+"STR_MACHINE_ACCOUNTING_JACKPOT_RECEIPT","  - Jackpot Receipt: ","- Джакпотна бележка:","  - Recibo de Jackpot:"
+,,,
+"STR_MACHINE_ACCOUNTING_COIN_DROP","Coin Drop: ","Жетони паднали в каса:","Caída de Moneda:"
+"STR_MACHINE_ACCOUNTING_EXTRA_COINS_OUT","Extra Coins Out: ","Допълнителни изкарани монети:","Salida de Monedas Extra:"
+"STR_MACHINE_ACCOUNTING_HOPPER_FILL","Hopper Fill: ","Запълване на Хопъра:","Llenado de Tolva:"
+"STR_MACHINE_ACCOUNTING_QUANTITY_OF_PHYSICAL_COINS_IN","Quantity of Physical Coins In: ","Количество на вкараните  физични монети:","Cantidad de Monedas Físicas de Entrada:"
+"STR_MACHINE_ACCOUNTING_QUANTITY_OF_PHYSICAL_COINS_OUT","Quantity of Physical Coins Out: ","Брой на изплатените от машината жетони:","Cantidad de Monedas Físicas de Salida:"
+"STR_MACHINE_ACCOUNTING_QUANTITY_OF_PHYSICAL_COINS_IN_DROP","Quantity of Physical Coins In Drop: ","Брой на жетоните попаднали в касата","Cantidad de Monedas Físicas en Caída:"
+,,,
+"STR_MACHINE_ACCOUNTING_TOTAL_GAMES_PLAYED","Total Games Played: ","Общо изиграни игри:","Total Juegos Jugados:"
+"STR_MACHINE_ACCOUNTING_TOTAL_GAMES_WON","  - Total Games Won: ","- Общо спечелени игри:","  - Total Juegos Ganados:"
+"STR_MACHINE_ACCOUNTING_TATAL_GAMES_LOST","  - Total Games Lost: ","- Общо загубени игри:","  - Total Juegos Perdidos:"
+"STR_MACHINE_ACCOUNTING_MAIN_GAMES_LOST","   -- Main Games Lost: ","-- Загубени основни игри:","   -- Juegos Principales Perdidos:"
+"STR_MACHINE_ACCOUNTING_GAMES_LOST_IN_GAMBLE","   -- Games Lost In Gamble: ","-- Загубени игри при удвояването:","   -- Juegos Perdidos en Apuesta:"
+"STR_DETAILS","Details","Детайли","Detalles"
+"STR_SHOW_DETAILS","Show Details",,
+"STR_HIDE_DETAILS","Hide Details",,
+"STR_SHOW_ALL_DETAILS","Show All Details",,
+"STR_HIDE_ALL_DETAILS","Hide All Details",,
+,,,
+"STR_WINS_OVER_JP_LIMIT","Wins Over Jackpot Limit:","Печалби над Джакпотния лимит:",
+"STR_FRENCH_ACCOUNTING_BILL_IN","Bill In: ","Вкарани банкноти","Entrada Billete:"
+"STR_FRENCH_ACCOUNTING_PHYSICAL_COIN_OUT","Physical Coin Out: ","Изкарани реални монети:","Salida Moneda Física:"
+"STR_FRENCH_AFT_IN","AFT In:","Автоматизирано вкарване на пари:","Entada AFT"
+"STR_FRENCH_AFT_OUT","AFT Out:","Автоматизирано изкарване на пари:","Entada AFT"
+"STR_FRENCH_CREDITS_PAID","Inserted Credits Paid:",,
+,,,
+"STR_HITS_LABEL","Hits",,"Apariciones"
+"STR_WINS_LABEL","Wins",,"Gana"
+"STR_LEVEL_LABEL","Level",,"Nivel"
+,,,
+"STR_MINI_LABEL","MINI","МАЛКО","MINI"
+"STR_MIDDLE_LABEL","MIDDLE","СРЕДЕН","MEDIO"
+"STR_SUPER_LABEL","SUPER","СУПЕР","SUPERIOR"
+"STR_TOTAL_LABEL","Total: ","Общо:","Total: "
+"STR_CLUBS_LABEL","CLUBS","СПАТИЯ","TRÉBOLES"
+"STR_DIAMONDS_LABEL","DIAMONDS","КАРО","DIAMANTES"
+"STR_HEARTS_LABEL","HEARTS","КУПА","CORAZONES"
+"STR_SPADES_LABEL","SPADES","ПИКА","PICAS"
+"STR_MINOR_LABEL","MINOR","НЕЗНАЧИТЕЛЕН","MENOR"
+"STR_MAJOR_LABEL","MAJOR","ЗНАЧИТЕЛЕН","MAYOR"
+"STR_GRAND_LABEL","GRAND","ГРАНДИОЗЕН","GRAN"
+"STR_WHITE_LABEL","WHITE","БЯЛ","BLANCO"
+"STR_GREEN_LABEL","GREEN","ЗЕЛЕН","VERDE"
+"STR_RED_LABEL","RED","ЧЕРВЕН","ROJO"
+"STR_BLUE_LABEL","BLUE","СИН","AZUL"
+"STR_MAJOR_AD_LABEL","MAJOR ADDITIONAL REWARD","СРЕДНО ДОПЪЛНИТЕЛНО ВЪЗНАГРАЖДЕНИЕ","RECOMPENSA ADICIONAL MAYOR"
+"STR_GRAND_AD_LABEL","GRAND ADDITIONAL REWARD","ГОЛЯМО ДОПЪЛНИТЕЛНО ВЪЗНАГРАЖДЕНИЕ","GRAN RECOMPENSA ADICIONAL"
+"STR_MINAR_AD_LABEL","MINOR ADDITIONAL REWARD","МАЛКО ДОПЪЛНИТЕЛНО ВЪЗНАГРАЖДЕНИЕ","RECOMPENSA ADICIONAL MENOR"
+,,,
+"STR_PREMIUM_LINK_JACKPOT_STATISTICS_TITLE","Premium Link Jackpot Statistics","Джакпотна статистика на Premium Link","Enlace Premium a Estadísticas de Jackpot"
+"STR_LADY_CARDS_JACKPOT_STATISTICS_TITLE","Lady's Cards Jackpot Statistics","Джакпотна статистика на Lady's Cadrs","Estadísticas de Jackpot Lady's Card"
+"STR_JACKPOT_CARDS_STATISTICS_TITLE","Jackpot Cards Statistics","Джакпотна статистика на Jackpot Cards","Estadísticas de Jackpot Cards"
+"STR_COIN_JACKPOT_STATISTICS_TITLE","Coin Jackpot Statistics","Джакпотна статистика на Coin Jackpot","Estadísticas de Coin Jackpot"
+"STR_3_HAPPY_HITS_JACKPOT_STATISTICS_TITLE","3 Happy Hits Jackpot Statistics","Джакпотна статистика на 3 Happy Hits","Estadísticas de Jackpot 3 Happy Hits"
+"STR_CHINA_JACKPOT_STATISTICS_TITLE","Fu Gui Rong Hua Jackpot Statistics","Джакпотна статистика на Fu Gui Rong Hua","Estadísticas de Jackpot Fu Gui Rong Hua"
+"STR_DIAMOND_LIVE_JACKPOT_STATISTICS_TITLE","Diamond Life Jackpot Statistics","Джакпотна статистика на Diamond Life","Estadísticas de Jackpot Diamond Life"
+"STR_4_HAPPY_HITS_JACKPOT_STATISTICS_TITLE","4 Happy Hits Jackpot Statistics","Джакпотна статистика на 4 Happy Hits","Estadísticas de Jackpot 4 Happy Hits"
+"STR_TWO_HAPPY_HITS_JACKPOT_STATISTICS_TITLE","2 Happy Hits Jackpot Statistics","Джакпотна статистика на 2 Happy Hits","Enlace 2 Happy Hits a Estadísticas de Jackpot"
+"STR_DRAGONS_TURN_PROGRESSIVE_JACKPOT_STATISTICS_TITLE"," Dragons Turn Jackpot Statistics","Джакпотна статистика на Dragons Turn","Enlace Dragons Turn a Estadísticas de Jackpot"
+,,,
+"STR_PRESS_TO_RESET_PERIOD_ACCOUNTING","Press the button to clear all period meters","Натиснете бутона за да изчистите всички данни за периода","Pulse el botón 'Start' para limpiar todos los medidores de periodos"
+"STR_CLEARING_PERIOD_ACCOUNTING","Clear period accounting please wait.","Изчистване на отчета за периода, моля изчакайте.","Limpiar periodo de contabilidad, por favor, espere."
+"STR_CLEARING_PERCENTS","%1% complete","%1% завършен","%1%"
+"STR_PERIOD_METERS_CLEARED","Period meters are cleared","Данните за периода са изчистени","Los medidores de periodos se han limpiado"
+"STR_CLEAR_PERIOD_ACCOUNTING_FOOTER","'Take Win' To Navigate Back, 'Start' Clear Accounting Period","'Вземане на печалбата' Връщане в главното меню, 'Старт' Изчистване на отчета за периода","'Cobrar Premio' Volver al Menú Principal, 'Inicial' Limpieza de Periodo de Contabilidad"
+"STR_TOTAL","Total","Общо","Total"
+,,,
+"STR_GAMBLE_SESSIONS_PLAYED","Gamble Sessions Played:",,"Sesiones de Apuesta Jugadas:"
+"STR_GAMBLE_SESSIONS_WON","Gamble Sessions Won:","Спечелени удвоителни сесии:","Sesiones de Apuesta Ganadas:"
+"STR_GAMBLE_SESSIONS_IN","Gamble Sessions In:","Влизане в удвоителна сесия:","Entrada de Sesiones de Apuesta:"
+"STR_GAMBLE_SESSIONS_OUT","Gamble Sessions Out:","Излизане от удвоителна сесия:","Salida de Sesiones de Apuesta:"
+"STR_GAMBLE_GAMES_PLAYED","Gamble Games Played:","Изиграни игри на удвояване:","Juegos de Apuesta Jugados:"
+"STR_GAMBLE_GAMES_WON","Gamble Games Won:","Спечелени игри при удвояване:","Juegos de Apuesta Ganados:"
+"STR_GAMBLE_GAMES_LOST","Gamble Games Lost:","Загубени игри при удвояване:","Juegos de Apuesta Perdidos:"
+"STR_VARIANT_RTP","Variant %1","Вариант %1","Variante %1"
+"STR_PROGRESSIVE_HITS","Progressive Hits:","Попадения на Прогресивен:","Progresivos Conseguidos:"
+"STR_HOST_BONUS_HITS","Host Bonus Hits:","Брой на получените от хоста бонуси:","Bonus Host Conseguidos:"
+"STR_MYSTERY_JACKPOT_HITS","Mystery Jackpot Hits:","Попадения на Мистири Джакпот:","Jackpots Misterioso Conseguidos:"
+,,,
+"STR_PH_NAV_MAIN_GAME","Main Game","Основна Игра","Juego Principal"
+"STR_PH_NAV_FREE_GAMES","Free Games","Свободни Игри","Juegos Gratis"
+"STR_PH_NAV_GAMBLE","Gamble","Удвояване","Apostar"
+"STR_PH_NAV_JP","Jackpot","Джакпот","Jackpot"
+"STR_PH_NAV_GAMES","Games","Игри","Juegos"
+"STR_PH_NAV_N_GAMES","%1 Games","%1 Игри","%1 Juegos"
+"STR_PH_NO_GAME_INFO","NO GAME AVAILABLE","НЯМА ЗАРЕДЕНА ИГРА","NO HAY JUEGOS DISPONIBLES"
+"STR_PH_GAME_INFO","Game %1 of %2 - %3","Игра %1 от %2 - %3","Juego %1 de %2 - %3"
+"STR_PH_GAME_INFO_SHORT","Game %1 of %2","Игра %1 от %2","Juego %1 de %2"
+"STR_PH_ID_VARIANT_TYPE","Type: %1-%2","Тип: %1-%2","Tipo: %1-%2"
+"STR_PH_FREE_SPIN_INFO","Free Spin %1 of %2","Свободни игри %1 от %2","Free Spin %1 de %2"
+"STR_PH_FREE_RESPIN_INFO","Free Respin %1 of %2","Допълнително завъртане %1 от %2","Free Respin %1 of %2"
+"STR_PH_GRAND_SPIN_INFO","Grand Spin %1 of %2","Допълнително завъртане %1 от %2","Grand Spin %1 of %2"
+"STR_PH_MEGA_SPIN_INFO","Mega Spin %1 of %2","Мега завъртане %1 от %2","Mega Spin %1 of %2"
+"STR_PH_CASCADE_SPIN_INFO","Cascade Spin %1","Каскадна Врътка %1","Cascada Girar %1"
+"STR_PH_SUPER_SPIN_INFO","Super Spin %1 of %2",,"Super Spin %1 de %2"
+"STR_PH_BONUS_PRIZE_SPIN_INFO","Bonus Prize Spin %1 of %2",,
+"STR_PH_LINE_NUM","Line %1","Линия %1","Línea %1"
+"STR_PH_LINE_LEFT_NUM","Line %1 Left",,"Línea %1 Izquierda"
+"STR_PH_LINE_RIGHT_NUM","Line %1 Right",,"Línea %1 Derecha"
+"STR_PH_LINE_EXPAND_NUM","Line %1 Exp.",,"Línea %1"
+"STR_PH_LINE_EXPAND_LEFT_NUM","Line %1 Exp. Left",,"Línea %1 Izquierda"
+"STR_PH_LINE_EXPAND_RIGHT_NUM","Line %1 Exp. Right",,"Línea %1 Derecha"
+"STR_PH_REEL_NUM","Reel %1","Ролка %1","Rodillo %1"
+"STR_PH_WAY_NUM","Way %1","Комбинация %1",
+"STR_PH_SCATTER","Scatter","Скатер","Scatter"
+"STR_PH_MYSTERY_SCATTER","Mystery Scatter","Мистериозен Скатер","Scatter Misterio"
+"STR_PH_CLUSTER","Cluster x%1","Група x%1","Cluster x%1"
+"STR_PH_COMBINATION","Combination","Комбинация","Combinación"
+"STR_PH_COMBINATION_LEFT","Combination Left","Лява комбинация","Combinación Izq"
+"STR_PH_COMBINATION_RIGHT","Combination Right","Дясна комбинация","Combinación Der"
+"STR_PH_WILD_CREDITS","Wild Feature","Wild Feature","Wild Feature"
+"STR_PH_MEGA_SPIN_TITLE","Mega Spin Game",,
+"STR_PH_COLLECTED_CLOVERS","Number of Collected Clovers","Брой събрани детелини","Número de Tréboles Recogidos"
+"STR_PH_FREE_SPIN_EXPANDING_SYMBOL","Free Spins Expanding Symbol","Разпъващ символ в свободни игри","Símbolo Desplegable de Giro Libre"
+"STR_PH_CURRENT_MULTIPLIER","Current Multiplier","Текущ множител","Multiplicador Actual"
+"STR_PH_FREE_SPIN_MULTIPLIER","Free Spin Multiplier","Множител на Свободните Игри","Multiplicador de Free Spin"
+"STR_PH_FREE_RESPIN_MULTIPLIER","Free Respin Multiplier",,"Multiplicador de Free Respin"
+"STR_PH_SUPER_SPIN_MULTIPLIER","Super Spin Multiplier","Множител на Супер Игри","Multiplicador de Super Respin"
+"STR_PH_MEGA_SPIN_MULTIPLIER","Mega Spin Multiplier","Множител на Мега Игри",
+"STR_PH_CURRENT_MAXIMUM_AWARD_SPIN","Maximum Award Reached",,
+"STR_PH_CURRENT_FREE_SPIN_WIN","Current Free Spin Win","Текуща печалба от Свободни Игри","Premio Actual de Free Spin"
+"STR_PH_CURRENT_FREE_RESPIN_WIN","Current Free Respin Win","Текуща печалба от допълнително завъртане","Premio Actual de Free Respin"
+"STR_PH_CURRENT_GRAND_SPIN_WIN","Current Grand Spin Win","Текуща печалба от допълнително завъртане","Premio Actual de Grand Spin"
+"STR_PH_CURRENT_MEGA_SPIN_WIN","Current Mega Spin Win",,
+"STR_PH_CURRENT_CASCADE_SPIN_WIN","Current Cascade Spin Win","Множител на текущата Каскадна Врътка","Cascade Actual Girar Ganar"
+"STR_PH_CURRENT_SUPER_SPIN_WIN","Current Super Spin Win",,"Super Actual Girar Ganar"
+"STR_PH_TOTAL_BONUS_PRIZE_WIN","Total Bonus Prize Won",,
+"STR_PH_COINS_WIN","Coins Won",,
+"STR_PH_MINI_LEVEL_WIN","Mini Prize Won",,
+"STR_PH_MINOR_LEVEL_WIN","Minor Prize Won",,
+"STR_PH_MAJOR_LEVEL_WIN","Major Prize Won",,
+"STR_PH_GRAND_LEVEL_WIN","Grand Prize Won",,
+"STR_PH_SUB_COINS_WIN","- Coins Won",,
+"STR_PH_SUB_MINI_LEVEL_WIN","- Mini Prize Won",,
+"STR_PH_SUB_MINOR_LEVEL_WIN","- Minor Prize Won",,
+"STR_PH_SUB_MAJOR_LEVEL_WIN","- Major Prize Won",,
+"STR_PH_SUB_GRAND_LEVEL_WIN","- Grand Prize Won",,
+"STR_PH_MAJOR_JACKPOT_SPIN_WIN", "Major Prize Won",,
+"STR_PH_CURRENT_CASCADE_SPIN_MULTIPLIER","Current Cascade Spin Multiplier","Множител на текущата Каскадна Врътка","Cascade Actual Girar Multiplicador"
+"STR_PH_FREE_SPINS_ADDED","Plus %1 New Free Spins Added","Плюс %1 Нова Добавена Свободна Игра","Más %1 Nuevos Free Spins Añadidos"
+"STR_PH_FREE_SPIN_ADDED","Plus 1 New Free Spin Added","Плюс 1 Нова Добавена Свободна Игра","Más 1 Nuevos Free Spins Añadidos"
+"STR_PH_FREE_RESPINS_ADDED","Plus %1 New Respins Added",,"Más %1 Nuevos Respin Añadidos"
+"STR_PH_FREE_RESPIN_ADDED","Plus %1 New Respin Added",,"Más %1 Nuevos Respin Añadidos"
+"STR_PH_WON_FEATURE","Won Feature",,
+"STR_PH_DATE","Date","Дата","Fecha"
+"STR_PH_GAME_START_CREDIT","Game Start %1","%1 за начало на играта","%1 de Inicio de Juego"
+"STR_PH_GAME_END_CREDIT","Game End %1","%1 за край на играта","%1 de Finde Juego"
+"STR_PH_LINES_PLAYED","Lines Played","Брой Линии","Líneas Jugadas"
+"STR_PH_SPOTS_PLAYED","Spots Played","Брой Спотове","Líneas Jugadas"
+"STR_PH_BET_PER_LINE","Bet per Line","Залог на Линия","Apuesta por Líneas"
+"STR_PH_BET_PER_LINE_EXTRA_BET","Extra Bet",,
+"STR_PH_BET_PER_MORE_LINES","Bet per %1 Lines","Залог на %1 Линии","Apuesta por %1 Líneas"
+"STR_PH_WAYS_PAY_BET","Reel Ways Pay Bet",,
+"STR_PH_JUMBOWAYS_BET","Jumboways Bet",
+"STR_PH_WAYS_PAY_EXTRA_BET","Reel Ways Pay Bet + Extra Bet",,
+"STR_PH_BET_MULTIPLIER","Bet Multiplier","Множител на залозите",
+"STR_PH_DENOMINATION","Denomination","Деноминация","Denominación"
+"STR_PH_BET_OPTION","Bet Option","",""
+"STR_PH_BUY_FREE_SPINS_BET","Buy Free Spins Bet"
+"STR_PH_TOTAL_BET","Total Bet","Общ залог","Apuesta Total"
+"STR_PH_TOTAL_WIN","Total Win","Обща Печалба","Premio total"
+"STR_PH_MAXIMUM_AWARD_REACHED","Maximum Award x%1 Reached",,
+"STR_PH_LINES_WIN","- Lines Win","- Печалба от линиите","- Premio de Líneas"
+"STR_PH_WAYS_WIN","- Reel Ways Pay Win","- Печалба от комбинациите на печалби",
+"STR_PH_JUMBOWAYS_WIN","- Jumboways Win"
+"STR_PH_KENO_WIN","- Win","- Печалба","- Premio"
+"STR_PH_MIRROR_FEATURE_WIN","Mirror Feature","Огледален бонус",
+"STR_PH_HIDDEN_SYMBOL_WIN","Hidden Symbol","Скрит символ",
+"STR_PH_JUGGLE_FEATURE_WIN","Juggle Feature","Линеен бонус",
+"STR_PH_STACKS_PAY_WIN_SEPARATOR","Stacks Pay Win","Линеен бонус",
+"STR_PH_HIDDEN_SIMBOL_SEPARATOR","Hidden Symbol Win","Линеен бонус",
+"STR_PH_SCATTER_WIN","- Scatter Win","- Печалба от скатери","- Premio de Scatter"
+"STR_PH_MYSTERY_SCATTER_WIN","- Mystery Scatter Win","- Печалба от мистериозни скатери","- Premio de Scatter Misterio"
+"STR_PH_EXPAND_WIN","- Exp. Win","- Печалба от разпъване",
+"STR_PH_JUGGLE_WIN","- Juggle Feature Win","- Печалба от Бонус",
+"STR_PH_CLUSTER_WIN","- Cluster Win",,"- Premio de Cluster"
+"STR_PH_CLUSTER_BONUS","Cluster x20",,
+"STR_PH_BONUS_PRIZE_WIN","- Bonus Prize Win",,
+"STR_PH_CURENT_FS_PROGRESSIVE_JP_WIN","Progressive Jackpot Win",,"Premio de Progresive Jackpot"
+"STR_PH_WILD_CREDITS_WIN","- Wild Feature Win",,
+"STR_PH_RESPINS_WIN","- Free Respins Win",,
+"STR_PH_GRAND_SPINS_WIN","- Grand Spins Win",,
+"STR_PH_CASCADING_WIN","- Cascading Win","- Каскадни печалби","- Premio de Cascading"
+"STR_PH_COMBINATION_WIN","- Combination Win",,
+"STR_PH_RESPIN_LINES_WIN","    - Respin Lines Win",,"- Premio de Respin de Líneas"
+"STR_PH_RESPIN_WAYS_WIN","    - Respin Ways Win",,"- Premio de Respin de Combinación"
+"STR_PH_RESPIN_SCATTER_WIN","- Respin Scatter Win","- Печалба от Скатер при допълнително завъртане","- Premio de Respin de Scatter"
+"STR_PH_RESPIN_WILD_CREDITS_WIN","    - Respin Wild Feature Win","- Respin печалба от Wild Feature","- Premio de Respin de Wild"
+"STR_PH_CASCADING_LINES_WIN","- Cascading Lines Win","- Каскадна печалба от линия","- Premio de Cascading de Líneas"
+"STR_PH_CASCADING_WAYS_WIN","- Cascading Reel Ways Win","- Каскадна печалба от комбинация","- Premio de Cascading de Combinación"
+"STR_PH_CASCADING_COMBINATION_WIN","- Cascading Combination Win","- Каскадна печалба от комбинация","- Premio de Cascading de Combinación"
+"STR_PH_CASCADING_SCATTER_WIN","- Cascading Scatter Win","- Каскадна печалба от Скатер","- Premio de Cascading de Scatter"
+"STR_PH_STACKS_PAY_WIN","- Stacks Pay Win","- Каскадна печалба от Скатер","- Premio de Cascading de Scatter"
+"STR_PH_CASCADING_WILD_CREDITS_WIN","- Cascading Wild %1 Win","- Каскадна печалба от Wild %1","- Premio de Cascading de Wild %1"
+"STR_PH_FREE_SPINS_WIN","- Free Spins Win","- Печалба от свободни игри","- Premio de Free Spins"
+"STR_PH_FREE_SPIN_IN_GRAND_RESPIN_WIN","-- Free Spins Win","-- Печалба от свободни игри","-- Premio de Free Spins"
+"STR_PH_SUPER_SPINS_WIN","- Super Spins Win","- Печалба от супер игри","- Premio de Super Spins"
+"STR_PH_SUPER_SPIN_IN_FREE_SPIN_WIN","-- Super Spins Win","-- Печалба от супер игри","-- Premio de Super Spins"
+"STR_PH_CASCADING_SPINS_WIN","- Cascading Spins Win","- Печалба от каскадни игри","- Premio de Super Spins"
+"STR_PH_PROGRESSIVE_JP_WIN","- Progressive Jackpot Win",,"- Premio de Progresive Jackpot"
+"STR_PH_COLLECT_FEATURE_WIN","- Collect Feature Win",,
+"STR_PH_FEATURE_WIN","- Feature Win",,
+"STR_PH_HIGH_CASH_JP_WIN","- High Cash Jackpot Win",,
+"STR_PH_HIGH_CASH_MINOR_JP_WIN_MG","High Cash Minor Jackpot Win",,
+"STR_PH_HIGH_CASH_MINI_JP_WIN_MG","High Cash Mini Jackpot Win",,
+"STR_PH_HIGH_CASH_MAJOR_JP_WIN_MG","High Cash Major Jackpot Win",,
+"STR_PH_HIGH_CASH_GRAND_JP_WIN_MG","High Cash Grand Jackpot Win",,
+"STR_PH_HIGH_CASH_MINOR_JP_WIN","- High Cash Minor Jackpot Win",,
+"STR_PH_HIGH_CASH_MINI_JP_WIN","- High Cash Mini Jackpot Win",,
+"STR_PH_HIGH_CASH_MAJOR_JP_WIN","- High Cash Major Jackpot Win",,
+"STR_PH_HIGH_CASH_GRAND_JP_WIN","- High Cash Grand Jackpot Win",,
+"STR_PH_COLLECT_COINS_JP_WIN"," - Coins Won",,
+"STR_PH_COLLECT_MINOR_JP_WIN"," - Minor Prize Won",,
+"STR_PH_COLLECT_MINI_JP_WIN"," - Mini Prize Won",,
+"STR_PH_COLLECT_MAJOR_JP_WIN"," - Major Prize Won",,
+"STR_PH_COLLECT_GRAND_JP_WIN"," - Grand Prize Won",,
+"STR_PH_MINOR_JP_WIN"," - Minor Jackpot Win",,
+"STR_PH_MINI_JP_WIN"," - Mini Jackpot Win",,
+"STR_PH_MAJOR_JP_WIN"," - Major Jackpot Win",,
+"STR_PH_GRAND_JP_WIN"," - Grand Jackpot Win",,
+"STR_PH_RESPIN_FEATURE","- Respin Feature Triggered",,
+"STR_PH_HIGH_CASH_JACKPOT_FEATURE","- High Cash Jackpot Feature",,
+"STR_PH_RESPIN_FEATURE_MG","Respin Feature Triggered",,
+"STR_PH_HIGH_CASH_JACKPOT_FEATURE_MG","High Cash Jackpot Feature",,
+"STR_PH_GAMBLE_WIN","Gamble","Удвояване","Apostar"
+"STR_PH_SPECIAL_EVENTS","Since This Game:","От тази игра:","Desde Este Juego:"
+"STR_PH_JP_PLM_WIN","- Premium Link Mystery","- Premium Link Мистири","- Misterio Premium Link"
+"STR_PH_JP_LC_WIN","- Lady's Cards Mystery","- Lady's Cards Мистири","- Misterio Lady's Cards"
+"STR_PH_JP_CARDS_WIN","- Jackpot Cards Mystery","- Jackpot Cards Мистири","- Misterio Jackpot Cards"
+"STR_PH_COIN_JP_WIN","- Coin Jackpot Mystery","- Coin Jackpot Мистири","- Misterio Coin Jackpot"
+"STR_PH_JP_2HH_MAJOR_WIN","- 2 Happy Hits Mystery Major Win","- Печалба от 2 Happy Hits Major Мистири","- Premio de Major Misterio 2 Happy Hits"
+"STR_PH_JP_2HH_GRAND_WIN","- 2 Happy Hits Mystery Grand Win","- Печалба от 2 Happy Hits Grand Мистири","- Premio de Grand Misterio 2 Happy Hits"
+"STR_PH_CREDIT_COLLECTED","- Collected","- Събран","- Recaudado"
+"STR_PH_CREDIT_KEYED_IN","- Keyed In","- Вкарани пари чрез ключ","- Bloqueado"
+"STR_PH_CREDIT_BILL_IN","- Bill In","- Вкарани банкноти","- Entrada Billete"
+"STR_PH_CREDIT_COIN_IN","- Coin In","- Вкарани монети","- Entrada Moneda"
+"STR_PH_CREDIT_AFT_IN","- AFT In","- Автоматизирано вкарване на пари","- Entada AFT"
+"STR_PH_CREDIT_TICKET_IN","- Ticket In","- Вкаран билет","- Entrada Ticket"
+"STR_PH_HOST_AWARD","- Host Award",,"- Premio de Anfitrión"
+"STR_PH_MYSTERY_AWARD","- Mystery",,
+"STR_PH_SCATTER_FEATURE","Scatter Feature:",,
+"STR_PH_SPECAIL_FEATURE","Feature Retriggered",,
+"STR_PH_FREE_SPIN_OPTION_CHOSEN","Chosen:",,"Escogido:"
+"STR_PH_FREE_SPINS_SELECTED","%1 Free Spins with",,"%1 Juegos Gratis con"
+"STR_PH_SUPER_STACKED_SYMBOL","as super stacked symbol",,"como símbolo super apilable"
+"STR_PH_FREE_SPINS_WITH","%1 Free Spins",,"%1 Juegos Gratis"
+"STR_PH_FREE_SPINS_WITH_ALL_WINS","%1 Free Spins All Wins With",,
+"STR_PH_WINS_MULTIPLIER","x%1, x%2 or x%3", "x%1, x%2 or x%3", "x%1, x%2 or x%3"
+"STR_PH_WINS_MULTIPLIER_SYMBOL","Are Multiplied x%1, x%2 or x%3",,
+"STR_PH_FILLED_REELS_5","with reels 1, 3 and 5 whole filled with wild symbols",,
+"STR_PH_FILLED_REELS_10","with reels 2 and 4 whole filled with wild symbols",,
+"STR_PH_FILLED_REELS_15","with reel 3 whole filled with wild symbols",,
+"STR_PH_FOUR_MULT","x%1, x%2, x%3 or x%4", "x%1, x%2, x%3 or x%4", "x%1, x%2, x%3 or x%4"
+"STR_PH_GAMBLE_GAME","Gamble Game %1","Игра Удвояване %1","Juego de Apuesta %1"
+"STR_PH_GAMBLE_PLAYER_CHOICE","Player's Choice","Изборът на играча","Elección del Jugador"
+"STR_PH_GAMBLE_CARD","Card","Карта","Carta"
+"STR_PH_GAMBLE_RESULT","Result","Резултат","Resultado"
+"STR_PH_GAMBLE_BLACK","BLACK","ЧЕРЕН","NEGRO"
+"STR_PH_GAMBLE_RED","RED","ЧЕРВЕН","ROJO"
+"STR_PH_GAMBLE_WON","WON","СПЕЧЕЛЕНИ","HA GANADO"
+"STR_PH_GAMBLE_LOST","LOST","ИЗГУБЕНИ","PERDIDO"
+"STR_PH_JP_LEVEL_WON","%1 Level Won - %2","%1 спечелено ниво - %2","%1 Nivel Ganado- %2"
+"STR_PH_JP_NO_WIN_GAME","No Win Game","Игра без печалба","Juego de no ganar"
+"STR_PH_JP_LEGEND_SELECTED","Item selected","Елементът е избран","Elemento seleccionado"
+"STR_PH_JP_LEGEND_NOT_SELECTED","Item not selected","Елементът не е избран","Elemento no seleccionado"
+"STR_PH_FIGURES_COUNT","%1 figures ","%1 фигури ","%1 "
+"STR_PH_FIGURES_COUNT_X","%1 x ","%1 x ","%1 x "
+"STR_PH_FIGURES_COUNT_CLEAN","%1 ","%1 ","%1 "
+,,,
+"STR_PH_BET","Bet","Залог","Apuesta"
+"STR_PH_PRIZE","Prize","Печалба","Premio"
+"STR_PH_POINTS_PRIZE","Points Prize","Печалба от точки","Puntos Premios"
+"STR_PH_CONV_RESERVE","Reserve","Резерва","Reserva"
+"STR_PH_CONV_CREDITS","Credits","Кредити","Créditos"
+"STR_PH_CONV_BANK","Bank","Банка","Banco"
+"STR_PH_CONV_POINTS","Points","Точки","Puntos"
+,,,
+"STR_CLUBS","Clubs","Спатия","Tréboles"
+"STR_DIAMONDS","Diamonds","Каро","Diamantes"
+"STR_HEARTS","Hearts","Купа","Corazones"
+"STR_SPADES","Spades","Пика","Picas"
+,,,
+"STR_MINI","Mini","Мини","Mini"
+"STR_MINOR","Minor","Минор","Menor"
+"STR_MAJOR","Major","Мажор","Mayor"
+"STR_GRAND","Grand","Гранд","Grandioso"
+,,,
+"STR_VAN_PROTOCOL","VAN protocol","VAN протокол","Protocolo VAN"
+"STR_VAN_CHANNEL","Channel","Канал ","Canal"
+"STR_VAN_CHANNEL_NET_1","NET1","NET1","NET1"
+"STR_VAN_CHANNEL_NET_2","NET2","NET2","NET2"
+"STR_VAN_CHANNEL_COM_1","COM1","COM1","COM1"
+"STR_VAN_CHANNEL_COM_2","COM2","COM2","COM2"
+"STR_VAN_MODE","Mode","Мод","Modo"
+"STR_VAN_MODE_CASH","Cash","В брой","Efectivo"
+"STR_VAN_MODE_CASHLESS","Cashless","Не в брой","Cashless"
+,,,
+"STR_CCTALK_COINACCEPTOR_SETUP","CCTalk Coin Acceptor Settings","CCTalk Настройки на приемника на монети","Ajustes de Admisor de Moneda CCTalk"
+"STR_CCTALK_COINACCEPTOR_DEVICE_NAME","Device Name: %1","Име на устройството: %1","Nombre de Dispositivo: %1"
+"STR_CCTALK_COINACCEPTOR_MANUFACTURER","Manufacturer: %1","Производител: %1","Fabricante: %1"
+"STR_CCTALK_COINACCEPTOR_REVISION","Software Revision: %1","Ревизия на софтуера: %1","Revisión de Software: %1"
+"STR_CCTALK_COINACCEPTOR_PRODUCT_CODE","Product code: %1","Код на продукта: %1","Código de producto: %1"
+"STR_CCTALK_COINACCEPTOR_SERIAL_NUMBER","Serial Number: %1","Сериен номер: %1","Número de Serie: %1"
+"STR_CCTALK_COINACCEPTOR_DATABASE_VERSION","Database version: %1","Версия на база данни: %1","Versión de base de datos: %1"
+"STR_CCTALK_COINACCEPTOR_COINID","Coin Id: ","ID на монетата: %1","ID de Moneda: "
+"STR_CCTALK_COINACCEPTOR_ACCEPTED_COINS","Number of accepted coins: %1","Брой на приетите монети: %1","Número de monedas aceptadas: %1"
+"STR_CCTALK_COINACCEPTOR_COIN_VALUE","Coin Value: ","Стойността на монетата: %1","Valor de Moneda: "
+"STR_CCTALK_COINACCEPTOR_COIN_ROUTE","Coin Route: %1","Път на монетата: %1","Ruta de Moneda: %1"
+"STR_COIN_STUCK","Coin stuck","Заседнала монета","Atasco de moneda"
+,,,
+"STR_CCTALK_HOPPER_SETUP","CCTalk Hopper Settings","CCTalk Настройки на Хопър","Ajustes de Tolva CCTalk"
+"STR_CCTALK_HOPPER_DEVICE_NAME","Device Name: %1","Име на устройството: %1","Nombre de Dispositivo: %1"
+"STR_CCTALK_HOPPER_MANUFACTURER","Manufacturer: %1","Производител: %1","Fabricante: %1"
+"STR_CCTALK_HOPPER_EQUIPMENTCATEGORY","Equipment Category: %1","Категория на оборудването: %1","Categoría de Equipo: %1"
+"STR_CCTALK_HOPPER_PRODUCT_CODE","Product Code: %1","Код на продукта: %1","Código de producto: %1"
+"STR_CCTALK_HOPPER_BUILTCODE","Build code: %1","Код на билда: %1","Código de Construcción: %1"
+"STR_CCTALK_HOPPER_SERIALNUMBER","Serial number: %1","Сериен Номер: %1","Número de Serie: %1"
+"STR_CCTALK_HOPPER_ROMCHECKSUM","ROM checksum: %1","Проверена сумма на ROM: %1","ROM checksum: %1"
+"STR_CCTALK_HOPPER_COMMSREVISION","Comms revision: %1","Комуникационна ревизия: %1","Revisión comms: %1"
+,,,
+"STR_CYCLE_ACCOUNTING","Cycle Accounting","Циклично отчитане","Ciclo de Contabilidad"
+"STR_CYCLE_DATES","Cycle (Start Date - End Date)","Цикл (Начална дата – Крайна дата)","Ciclo (Fecha Inicio - Fecha Fin)"
+"STR_CYCLE_PLAYED","Played","Изигран","Jugado"
+"STR_CYCLE_COLLECTED","Collected","Събран","Recaudado"
+"STR_CYCLE_RTP","RTP","RTP","RTP"
+"STR_CYCLE_GAMES","Games","Игри","Juegos"
+"STR_CURRENT_CYCLE","Current","Текущ","Actual"
+"STR_CYCLE_LOCATION","Location","Локация","Ubicación"
+"STR_CYCLE_NO_LOCATION","No Location","Няма локация","No Hay Ubicación "
+"STR_CYCLE_LOCATION_GAMES","Games","Игри","Juegos"
+"STR_CREDITS_ABREVIATION","cr","cr","cr"
+"STR_COIN_ACCEPTOR_DIAGNOSTIC","Coin acceptor diagnostic","Апарат за монети","Diagnóstico de admisor de moneda"
+"STR_INSERT_COIN","Please insert coin","Моля, поставете монета","Por favor, inserte moneda"
+"STR_SUPPORTED_COINS","Supported coins","Поддържани монети","Monedas soportadas"
+"STR_LAST_REGISTERED_COIN","Last coin registered: ","Последна монета е регистрирана:","Última moneda registrada:"
+"STR_CYCLE_GAMES_CREDITS","Credits","Кредити","Créditos"
+,,,
+"STR_SET_PHYSICAL_LOCATION","Set Physical Location","Задайте физическо местоположение","Establecer ubicación física"
+,,,
+"STR_LANGUAGES_LABEL","Languages","Език","Idiomas"
+"STR_SET_ENGLISH","English","English","English"
+"STR_SET_BULGARIAN","Български","Български","Български"
+"STR_SET_SPANISH","Español","Español","Español"
+"STR_NO_LIMIT","No Limit","Няма ограничение",
+,,,
+"STR_GET","Get",,"Obtener"
+"STR_CANCEL_CALLIBRATION_AND_EXIT","'%1' To Cancel Calibration and Navigate Back","'%1' за анулиране на калибрацията и връщане назад","'%1' para cancelar la calibración y navegar de nuevo"
+"STR_CLEAR","Clear",,
+,,,
+"STR_SAS_COMMON_PDF_TITLE","SAS Setup/Common","Настройка на SAS/Често срещани","Ajuste SAS/Común"
+"STR_SAS_CHANNELS_PDF_TITLE","SAS Setup/Channels","Настройка на SAS/Канали","Ajuste SAS/Canales"
+"STR_SAS_VOUCHER_DATA_PDF_TITLE","SAS Setup/Voucher Data","Настройка на SAS/Данни за ваучерите","Ajuste SAS/Datos de Vale"
+"STR_SAS_AFT_SETUP_PDF_TITLE","SAS Setup/AFT","Настройка на SAS/AFT","Ajuste SAS//AFT"
+,,,
+"STR_SAS_GAME_ID","SAS Game ID","SAS ID на играта","ID del juego SAS"
+"STR_SAS_GAME_NAME","Game Name","Име на играта","Nombre del juego"
+"STR_SAS_GAME_VARIANT","Game Variant","Вариант на играта","Variante del juego"
+"STR_SAS_DENOMINATION","Denomination","Деноминация","Denominación"
+"STR_SAS_MAX_BET_LINE","Max Bet/Line","Макс залог/линия","Máxima apuesta/línea"
+,,,
+"STR_HEADER_CURRENT_TIME","Time: ","Време: ","Hora: "
+"STR_HEADER_GAME_VERSION","Game Version: %1","Версия: %1","Versión del Juego: %1"
+"STR_METER_VALUES","Meter Values",,
+"STR_RESTART_THE_MACHINE","Please restart the machine.",,
+"STR_RESTART_TEXT_KENO_MANIA_GAME","Configuration updated!!! Restart is required for changing Show Statististics for / Fast Play !!!",,
+"STR_RESTART_TEXT_ROULETTE_GAME","Configuration updated!!! Restart is required for changing Game active / Fast Play !!!",,
+"STR_RESTART_TEXT_BACCARAT_GAME","Configuration updated!!! Restart is required for changing Baccarat Type / Side Bets !!!",,
+"STR_RESTART_FAST_PLAY_TEXT","Configuration updated!!! Restart is required for changing Fast Play !!!","Конфигурацията е актуализирана !!! Рестартирането е необходимо за промяна на типа цвят / тип игра / протокол !!!","Configuración actualizada !!! Se requiere reiniciar para cambiar el tipo de color / juego activo / tipo de protocolo."
+"STR_RESTART_TEXT_ROULETTE_LOCAL_GAME","Configuration updated!!! Restart is required for changing Game active / Fast Play !!!","Конфигурацията е актуализирана !!! Рестартирането е необходимо за промяна на типа цвят / тип игра / бързо изиграване !!!","Configuración actualizada !!! Se requiere reiniciar para cambiar el tipo de color / juego activo / juego rapido."
+"STR_RESTART_NOW","Restart Now","Рестартиране Сега",
+"STR_RESTART_CHIPS_BET_LIMITS","Configuration updated!!! Restart is required for changing the bet limits and settings!!!","Конфигурацията е актуализирана !!! Рестартирането е необходимо за промяна на лимитите на залагане и настройките !!!","Configuración actualizada !!! Se requiere reiniciar para cambiar los límites de apuesta y los ajustes."
+"STR_RESTART_SIDEBET","Configuration updated!!! Restart is required for changing the sidebet settings!!!","Конфигурацията е актуализирана !!! Рестартирането е необходимо за промяна на типа на страничните залози и настройките !!!","Configuración actualizada !!! Se requiere reiniciar para cambiar los secundarias apuestas y los ajustes."
+,,,
+"STR_BILLACCEPTOR","Bill Validator",,
+"STR_BILL_ACCEPTOR_INIT_FAIL","Validation unsuccessful !!! Bill Validator Type is not Accepted",,
+"STR_OTHER_DEVICES","Other Devices","Други Устройства",
+"STR_TO_STACKER","To Stacker",,
+"STR_TO_PAYOUT","To Payout",,
+"STR_AUTODETECT","Auto detect","Автоматично откриване",
+"STR_DETECTING_PLEASE_WAIT","Detecting bill validator, please wait ...",,
+"STR_CHOOSE_MANUAL","Choose Manual: ",,
+"STR_BILLACCEPTOR_SETUP","Bill Validator Settings",,
+"STR_BILL_CHANNEL", "%1",,
+"STR_DIAGNOSTIC_BILL_CHANNEL", "Channel %1 %2",,
+"STR_BILL_TICKET", "Ticket",,
+"STR_CHANNEL","Channel %1: %2 %3",,
+"STR_BILL_VALIDATOR_NO_PROPER_INFORMATION", "No information from bill validator",,
+"STR_BILL_VALIDATOR_DISABLED_CHANNELS", "All channels are disabled",,
+"STR_BILL_DIAGNOSTIC_CURR_STATE", "Current state:",,
+"STR_BILL_DIAGNOSTIC_ENABLED_CHANNELS", "Enabled channels:",,
+"STR_BILL_DIAGNOSTIC_OLD_STATE", "Old states:",,
+"STR_DIFFERENT_CURRENCY_CODE", "Different currency code! Selected - %1",,
+"STR_FIRMWARE_VERSION","Firmware version: ",,
+"STR_SERIAL_NUMBER","Serial number: ","Сериен номер: ","Número de Serie: "
+"STR_ENABLE_ALL_CHANNELS","ENABLE ALL CHANNELS","ВКЛЮЧИ ВСИЧКИ КАНАЛИ",""
+"STR_DISABLE_ALL_CHANNELS","DISABLE ALL CHANNELS","ИЗКЛЮЧИ ВСИЧКИ КАНАЛИ",""
+"STR_BILL_INAPPROPRIATE_STATE","Inapropriate state to set channels. (%1)", "Неизпълнени условия за запазване на каналите. (%1)",""
+,,,
+"STR_IDREADER","Id Card Scanner",,
+"STR_IDREADER_SETUP","Id Card Scanner Setup",,
+"STR_IDREADER_TEST","Id Card Scanner Test",,
+"STR_IDREADER_DETECTING","Detecting Id Card Scanner, please wait ...",,
+"STR_IDREADER_USE_ID_CARD","Use the Id Card Scanner to scan an ID.",,
+"STR_IDREADER_RAW_STRING","Raw String:",,
+"STR_IDREADER_DOCUMENT_NUMBER","Document Number:",,
+"STR_IDREADER_COUNTRY_NAME","Country Name:",,
+"STR_IDREADER_HOLDER_NAME","Holder Name:",,
+"STR_IDREADER_DATE_OF_BIRTH","Date Of Birth:",,
+"STR_IDREADER_EXPIRATION_DATE","Expiration Date:",,
+"STR_IDREADER_DOCUMENT_TYPE","Document Type:",,
+"STR_ID_TYPE_PASSPORT_BOOKLET","Passport Booklet",,
+"STR_ID_TYPE_OFFICIAL_TRAVEL_DOCUMENT","Official Travel Document",,
+"STR_ID_TYPE_MACHINE_VISA_A","Machine Readable Visas type A",,
+"STR_ID_TYPE_MACGINE_VISA_B","Machine Readable Visas type B",,
+"STR_ID_TYPE_UNKNOWN","Unknown Type",,
+,,,
+"STR_RIGEL_CONNECTING","Connecting...","Свързване...","Conectando..."
+"STR_RIGEL_SAVING","Saving...","Записване...","El Ahorro..."
+"STR_RIGEL_SETTINGS","Rigel Settings",,
+"STR_RIGEL_SETTINGS_PAGE_SELECT","Select Rigel Settings Page",,
+,,,
+"STR_SERVER_CONTROL_SEND_WHEEL_TIME","Send time to wheel","Прати времето към колелото","Enviar tiempo a la rueda"
+"STR_SERVER_CONTROL_STORE_CF", "Store CF serial number","Запамети CF сериен номер","Número de serie de la tienda CF"
+"STR_SERVER_CONTROL_OPEN_DOME", "Open the dome","Отвори купола","Abre la cúpula"
+"STR_SERVER_CONTROL_CLOSE_DOME","Close the dome","Затвори купола","Cierra la cúpula"
+"STR_SERVER_CONTROL_START_WHEEL", "Start the wheel","Пусни колелото","Arrancar la rueda"
+"STR_SERVER_CONTROL_STOP_WHEEL","Stop the wheel","Спри колелото","Parar la rueda"
+"STR_SERVER_CONTROL_SWALLOW_BALL","Swallow the ball","Глътни топчето","Tragar la pelota"
+"STR_SERVER_CONTROL_BLOW_BALL", "Blow the ball","Изстреляй топчето","Sopla la pelota"
+"STR_SERVER_CONTROL_AFTER", "After","След",
+"STR_BET_AND_CHIPS", "Bet and Chips Settings", "Бет и Чип настройки",
+"STR_SIDEBET", "Side Bet Settings", "Странични залагания настройки",
+"STR_MP_CHIP_ONE_MIN_BET", "Chip one must be equal to min bet!", "Чип едно трявба да бъде равен на минимален залог!",
+"STR_MP_INVALID_CHIP_VALUES_ORDER", "Validation unsuccessful!!! Chip Value %1 must be less than Chip Value %2!", "Валидацията не е успешна!!! Стойността на чип %1 трябва да бъде по-малка от чип-стойност %2!",
+"STR_MP_INVALID_BET_ENTRY", "Validation unsuccessful!!! Value of %1 %2 cannot be %3 %4 or %5 %6!", "Валидацията не е успешна!!! Стойността нa %1 %2 не може да бъде %3 %4 или %5 %6!",
+"STR_MP_NOT_EVEN", "Validation unsuccessful!!! Value of %1 %2 cannot be odd number!", "Валидацията не е успешна!!! Стойността на %1 %2 не може да бъде нечетно число!",
+"STR_BLACKJACK_MIN_MAX", "%1 bet in credits: ", "%1 залог в кредити: ",
+"STR_BLACKJACK_CHIP_VALUE", "Chip %1 Value in credits:", "Чип %1 Стойност в кредити:",
+"STR_MP_CHIP", "Chip", "Чип",
+,,,
+"STR_CURRENT","Current","Текущ","Corriente"
+"STR_EXPORT_NO_SETTINGS_SET","No settings to export",,
+"STR_FILENAME_MISSING","Filename missing",,
+"STR_FILE_ERROR","File cannot be opened",,
+"STR_DIFFERENT_VERSION","Different Product Version",,
+"STR_DIFFERENT_JURISDICTION","Different Jurisdiction",,
+"STR_DIFFERENT_MARKET","Different market file was imported on this machine",,
+"STR_MARKET_MISMATCH","Market ID mismatch in import file",,
+"STR_SERIES_MISMATCH","Series mismatch in import file",,
+"STR_PRODUCT_MISMATCH","Product mismatch in import file",,
+"STR_DIFFERENT_PRODUCT","Settings file is not intended for product %1",,
+"STR_DIFFERENT_SERIES","Settings file is not intended for series %1",,
+"STR_VERIFICATION_DATA_NOT_FOUND","Verification Data Not Found",,
+"STR_VERIFICATION_DATA_NOT_EXPECTED","Unexpected Verification Data Found",,
+"STR_VERIFICATION_DATA_VALUE_NOT_FOUND","Verification Data Value Not Found",,
+"STR_VERIFICATION_DATA_VALUE_NOT_EXPECTED","Unexpected Verification Data Value Found",,
+"STR_VERIFICATION_DATA_COUNT_MISMATCH","Verification Data Count Mismatch",,
+"STR_GO_TO_NEWEST","Go to Newest","Най-нов","Más nuevo"
+"STR_GO_TO_OLDEST","Go to Oldest","Най-стар","Más antiguo"
+"STR_MARKET_ID_CHANGE","Market ID Change", "Смяна на маркет ID","Cambio de Mercado"
+"STR_MARKET_ID","Market ID:","Маркет ID:","Versión de Mercado"
+"STR_DIFFERENT_MARKET_ID","Machine not intended for market %1",,
+"STR_SAME_MARKET_ID","Settings file has the same Market ID as the machine",,
+"STR_MARKET_SERIAL_NUMBER_VERIFICATION_FAILED", "Market file not intended for this machine",,
+"STR_GAMES_SETTINGS_VERIFICATION_FAILED","Invalid Games Settings Configuration",,
+"STR_SETTINGS_IMPORTED","%1 has been imported.","%1 беше импортиран.","%1 ha sido importado."
+"STR_FILE_DECRYPTION_ERROR","File cannot be decrypted",,
+"STR_FILE_ENCRYPTION_ERROR","File cannot be encrypted",,
+"STR_SERIAL_NUMBER_VERIFICATION_FAILED","Settings file not intended for this machine",,
+"STR_INVALID_EXPORT_TYPE","Settings file not compatible with this operation",,
+"STR_SOFTWARE_UPDATE","Software Update",,
+"STR_TERMINAL","Terminal",,
+"STR_USE_GATEWAY","Use gateway",,
+"JACKPOT_LIMIT","JACKPOT_LIMIT","JACKPOT_LIMIT","JACKPOT_LIMIT"
+"CELEBRATION_LOCK","CELEBRATION_LOCK","CELEBRATION_LOCK","CELEBRATION_LOCK"
+"UPPER_JACKPOT_LIMIT","UPPER_JACKPOT_LIMIT","UPPER_JACKPOT_LIMIT","UPPER_JACKPOT_LIMIT"
+"JACKPOT_LOCK","JACKPOT_LOCK","JACKPOT_LOCK","JACKPOT_LOCK"
+,,,
+"STR_R_STAT_GAME_ZERO","Zero Game %1%","Нулев Сектор %1%","Juego al Cero %1%"
+"STR_R_STAT_NEIGHBOURS","Big Series %1%","Голяма Серия %1%","Vacinos del Cero %1%"
+"STR_R_STAT_ORPHANS","Orphelins %1%","Орфалайн %1%","Huerfanos %1%"
+"STR_R_STAT_THIRDS","Small Series %1%","Малка Серия %1%","Tercios %1%"
+"STR_R_STAT_WHEEL_ZERO"," Zero %1%"," Нула %1%"," Cero %1%"
+"STR_R_STAT_WHEEL_ODD"," Odd %1%"," Нечетен %1%"," Impar %1%"
+"STR_R_STAT_WHEEL_EVEN"," Even %1%"," Четен %1%"," Incluso %1%"
+"STR_R_STAT_WHEEL_RED"," Red %1%"," Червено %1%"," Rojo %1%"
+"STR_R_STAT_WHEEL_BLACK"," Black %1%"," Черно %1%"," Negro %1%"
+"STR_R_STAT_WHEEL_1ST"," 1st 12 %1%"," 1ви 12 %1%"," 1st 12 %1%"
+"STR_R_STAT_WHEEL_2ND"," 2nd 12 %1%"," 2ри 12 %1%"," 2do 12 %1%"
+"STR_R_STAT_WHEEL_3RD"," 3rd 12 %1%"," 3ти 12 %1%"," 3er 12 %1%"
+"STR_R_STAT_WHEEL_1_18","1-18 %1%","1-18 %1%","1-18 %1%"
+"STR_R_STAT_WHEEL_19_36","19-36 %1%","19-36 %1%","19-36 %1%"
+"STR_R_STAT_MALFUNC","MALFUNCION VOIDS ALL PAYS AND PLAYS","MALFUNCION VOIDS ALL PAYS AND PLAYS","MALFUNCION VOIDS ALL PAYS AND PLAYS"
+,,,
+"STR_JP_VARIANT_CJPROGRESSIVE_1","High Cash Jackpot - 1",,
+"STR_PH_BONUS_MAIN_RESPIN_INFO","Main Game Respin %1 of %2","Допълнително завъртане %1 от %2","Main Game Respin %1 of %2"
+"STR_PH_BONUS_FREE_RESPIN_INFO","Free Spin Respin %1 of %2","Допълнително завъртане %1 от %2","Free Spin Respin %1 of %2"
+,,,
+"STR_SIDEBET_HIGH13LOW","Low 13, Exactly 13, High 13","",""
+"STR_SIDEBET_PERFECT","21+3, Super7, Perfect Pair","",""
+"STR_SIDEBET_TYPE","Sidebets type:","",""
+"STR_SIDEBET_SUPER_SEVEN","Super7:","",""
+,,,
+"STR_PH_AFTER_TRANSFORM","After Transformation","След Превръщане",""
+"STR_PH_AFTER_TRANSFORM_WIN","- After Transformation Win","- Печалба След Превръщане",""
+"STR_PH_AFTER_TRANSF_WIN_SEPARATOR","After Transformation","След Превръщане",""
+,,,
+"STR_ERROR_NOT_SUPPORTED_TEST_VIEW","ERROR!!! NOT SUPPORTED VIEW","ГРЕШКА!!! ТОЗИ ТЕСТОВИ ИЗГЛЕД НЕ СЕ ПОДЪРЖА","¡¡¡ERROR!!! VISTA NO SOPORTADA"
+"STR_HINT_PREVIOUS_COLOR","Previous color","Предишен цвят","Color anterior"
+"STR_HINT_NEXT_COLOR","Next color","Следващ цвят","Siguiente color"
+,,,
+"STR_TOUCH_WHOLE_REEL","Touch Whole Reel To Respin:","",""
+"STR_RESPIN_BTNS_VKB","Respin Buttons on Keyboard:","",""
+,,,
+"STR_FIELD_ACCOUNTING_TITLE","Detailed Accounting","",""
+"STR_ACCOUNTING_FIELD_BUTTON","Detailed accounting","",""
+,,,
+"STR_BET_FIELD_PLAYER","Player","",""
+"STR_BET_FIELD_BANKER","Banker","",""
+"STR_BET_FIELD_TIE","Tie","",""
+"STR_BET_FIELD_PLAYER_PAIR","Player pair","",""
+"STR_BET_FIELD_BANKER_PAIR","Banker pair","",""
+"STR_BET_FIELD_ANY_PAIR","Any pair","",""
+"STR_BET_FIELD_PERFECT_PAIR","Perfect pair","",""
+"STR_BET_FIELD_FISH","Fish 7","",""
+"STR_BET_FIELD_FROG","Frog 8","",""
+,,,
+"STR_BET_FIELD_MAIN BET","Main bet","",""
+"STR_BET_FIELD_INSURANCE","Insurance","",""
+"STR_BET_FIELD_SURRENDER","Surrender","",""
+"STR_BET_FIELD_EVEN MONEY","Even money","",""
+"STR_BET_FIELD_LOW13","Low13","",""
+"STR_BET_FIELD_ONLY13","Exactly13","",""
+"STR_BET_FIELD_HIGH13","High13","",""
+"STR_BET_FIELD_21AND3","21+3","",""
+"STR_BET_FIELD_SUPER7","Super7","",""
+"STR_BET_FIELD_PERFECTPAIR","PerfectPair","",""
+,,,
+"STR_NVRAM_BACCARAT_TYPE","Baccarat Type:","Тип Бакара:",""
+"STR_COMMISSION","Commission","Комисионна",""
+"STR_NO_COMMISSION","No Commission","Без Комисионна",""
+"STR_BACCARAT_BET_CONFIG","Side Bets:","",""
+"STR_BACCARAT_ENABLE_9","All side bets","",""
+"STR_BACCARAT_ENABLE_3","None","",""
+"STR_SIDEBET_RTP","Side bets RTP %","",""
+,,,
+"STR_BET_FIELD_DRAGON","Dragon","",""
+"STR_BET_FIELD_TIGER","Tiger","",""
+"STR_BET_FIELD_DT_TIE","Tie","",""
+"STR_BET_FIELD_SUITED_TIE","Suited tie","",""
+"STR_BET_FIELD_SAME_COLOR","Same color","",""
+"STR_BET_FIELD_DIFFERENT_COLOR","Different color","",""
+"STR_BET_FIELD_DRAGON_BIG","Dragon big","",""
+"STR_BET_FIELD_TIGER_BIG","Tiger big","",""
+"STR_BET_FIELD_DRAGON_SMALL","Dragon small","",""
+"STR_BET_FIELD_TIGER_SMALL","Tiger small","",""
+"STR_BET_FIELD_DRAGON_ODD","Dragon odd","",""
+"STR_BET_FIELD_TIGER_ODD","Tiger odd","",""
+"STR_BET_FIELD_DRAGON_EVEN","Dragon even","",""
+"STR_BET_FIELD_TIGER_EVEN","Tiger even","",""
+"STR_BET_FIELD_DRAGON_CLUB","Dragon Club","",""
+"STR_BET_FIELD_TIGER_CLUB","Tiger Club","",""
+"STR_BET_FIELD_DRAGON_DIAMOND","Dragon Diamond","",""
+"STR_BET_FIELD_TIGER_DIAMOND","Tiger Diamond","",""
+"STR_BET_FIELD_DRAGON_HEARTS","Dragon Heart","",""
+"STR_BET_FIELD_TIGER_HEARTS","Tiger Heart","",""
+"STR_BET_FIELD_DRAGON_SPADES","Dragon Spade","",""
+"STR_BET_FIELD_TIGER_SPADES","Tiger Spade","",""
+,,,
+"STR_ADDITIONAL_INFO_TEXT_1","*Reel %1 Respin. Winnings must contain symbol from Reel %1.",,
+"STR_ADDITIONAL_INFO_TEXT_2","*Each WILD symbol on the screen which doesn't participate in payline winnings pays the total bet of the game.",,
+"STR_ADDITIONAL_INFO_TEXT_3","*Full screen with clovers symbols wins the amounts on all clovers symbols multiplied x4.",,
+"STR_ADDITIONAL_INFO_TEXT_4","*k = 1 000x | M = 1 000 000x | B = 1 000 000 000x",,
+"STR_WIN_FIELD_INFO_TEXT_1","Bonus Prize Feature Triggered",,
+"STR_WIN_FIELD_INFO_TEXT_2","Extra wild multiplier",,
+"STR_WIN_FIELD_INFO_TEXT_3","Buy Free Spins Triggered",,
+"STR_WIN_FIELD_INFO_TEXT_4","Respin Reset",,
+"STR_WIN_FIELD_INFO_TEXT_CAP_LIMIT","Maximum Award reached",,
+"STR_PH_WAYS_PAY_BET_LABEL_1","Base Bet",,
+"STR_PH_WAYS_PAY_BET_CREDIT_RESPIN","Respin Bet",,
+"STR_WIN_FIELD_INFO_TEXT_JP_WIN","- %1 Prize Won",,
+"STR_WIN_FIELD_INFO_TEXT_JP_WON","%1 Prize Won",,
+"STR_COMMON_SETUP_MAX_RESPIN","Respin Max Bet in credits:","",""
+,,,
+"STR_VLT_SERVER_IP","%productLable Server IP:","IP на %productLable сървъра:",""
+"STR_NTP_SERVER_IP","NTP Server IP:","IP на NTP сървъра:",""
+"STR_VLT_SERVER_PORT","Port:","Порт:",""
+"STR_VLT_KEEP_ALIVE","Keep Alive Time:",""
+"STR_VLT_RECONNECTION_TIME","Communication Check Time:",""
+"STR_VLT_STATUS","Status:",""
+"STR_VLT_CONTINENT","Continent:",""
+"STR_VLT_CITY","City:",""
+"STR_VLT_SERVER_IP_VALIDATION","Validation unsuccessful !!! Wrong %productLable Server IP Address",""
+"STR_NTP_SERVER_IP_VALIDATION","Validation unsuccessful !!! Wrong NTP Server IP Address",""
+"STR_VLT_TZ_VALIDATION","Validation unsuccessful !!! Timezone not selected",""
+
+"STR_NVRAM_VLT_SETUP_MACHINE_SERVER_IP","%productLable_SETUP_MACHINE_SERVER_IP"
+"STR_NVRAM_VLT_SETUP_MACHINE_SERVER_PORT","%productLable_SETUP_MACHINE_SERVER_PORT"
+"STR_NVRAM_VLT_SETUP_MACHINE_KEEP_ALIVE",%productLable_SETUP_MACHINE_KEEP_ALIVE"
+"STR_NVRAM_VLT_SETUP_MACHINE_RECONNECTION_TIME","%productLable_SETUP_MACHINE_RECONNECTION_TIME"
+"STR_NVRAM_VLT_NTP_SERVER_IP","%productLable_NTP_SERVER_IP"
+"STR_NVRAM_VLT_NTP_TZ_ZONE_ID","%productLable_NTP_TZ_ZONE_ID"
+"STR_NVRAM_VLT_NTP_TZ_ZONE_ID_PART_1","%productLable_NTP_TZ_ZONE_ID_PART_1"
+"STR_NVRAM_VLT_NTP_TZ_ZONE_ID_PART_2","%productLable_NTP_TZ_ZONE_ID_PART_2"
+'STR_NVRAM_VLT_CASH_OUT_VOUCHER_LIMIT","%productLable_CASH_OUT_VOUCHER_LIMIT"
+"STR_NVRAM_VLT_VOUCHER_IN","%productLable_VOUCHER_IN"
+"STR_NVRAM_VLT_VOUCHER_OUT","%productLable_VOUCHER_OUT"
+"STR_NVRAM_VLT_VOUCHER_DATE_FORMAT","%productLable_VOUCHER_DATE_FORMAT"
+"STR_NVRAM_VLT_PRINTER_ENCODING","%productLable_PRINTER_ENCODING"
+"STR_NVRAM_VLT_VOUCHER_FORMAT_LANGUAGE","%productLable_VOUCHER_FORMAT_LANGUAGE"
+"STR_LOADING_VLT_MANAGER","Loading %productLable Manager"
+,,,
+"STR_VLT_VOUCHER_IN","Voucher in:","Вкарани ваучери:","Introducir vale:"
+"STR_VLT_VOUCHER_OUT","Voucher out:","Изкарани ваучери","Sacar vale:"
+"STR_VLT_DATA_FORMAT","Voucher Date Format:","Формат за датата на ваучера:","Formato de Fecha de Vale:"
+"STR_VLT_CASH_OUT_VOUCHER_LIMIT","Voucher Split Limit:"
+"STR_VLT_PRINTER_ENCODING","Printer Encoding:"
+"STR_VLT_VOUCHER_FORMAT_LANGUAGE","Voucher Language:"
+"STR_LATIN1_ENCODING","Latin1 (ISO/IEC 8859-1)"
+"STR_LATIN2_ENCODING","Latin2 (ISO/IEC 8859-2)"
+"STR_Cyrillic_ENCODING","Cyrillic (ISO/IEC 8859-5)"
+"STR_PRINTER","Printer",,
+,,,
+"STR_NETWORK_DIAG_INTERFACE","Interface","Interface","Interface"
+"STR_NETWORK_DIAG_MAC","Mac","Mac","Mac"
+"STR_NETWORK_DIAG_IP","Ip","Ip","Ip"
+"STR_NETWORK_DIAG_BROADCAST_ADDRESS","Bcast","Bcast","Bcast"
+"STR_NETWORK_DIAG_MASK","Mask","Mask","Mask"
+"STR_NETWORK_DIAG_STATUS","Status","Status","Status"
+
+"STR_LIFETIME_ACCOUNTING","Lifetime Accounting"
+"STR_MP_INVALID_VALUE_WARNING","Invalid %1 value!!!","Невалидна стойност на %1!!!",""
+"STR_MP_INVALID_CHIP_VALUE","Invalid chip %1 value!!!","Невалидна стойност на чип %1!!!","¡¡¡Valor de ficha %1 inválido!!!"
+,,,
+"STR_SET_ALL_PAGES","SET ALL PAGES","",""
+"STR_SET_ALL_PAGES_SKIP_JP","SET ALL PAGES SKIP JP","",""
+"STR_SET_ALL_PAGES_MATH","SET ALL PAGES MATH","",""
+"STR_SET_ALL","SET ALL","",""
+"STR_SET_ALL_SAS_ENH","SET SAS ENHANCED VALID","",""
+"STR_SET_ALL_DISABLE_SAS_COM","SET DISABLE SAS COM","",""
+,,,
+"STR_UPDATE_TYPE","Update Method:",,
+"STR_UPDATE_PRODUCT","Product to download:",,
+"STR_SOFTWARE_VERSION","Software version to download:",,
+"STR_VERSION_AVAILABLE","Software version available for update: %1",,
+"STR_START_DOWNLOADING","Start Downloading",,
+"STR_CONFIRM_DOWNLOAD","Are you sure you want to download this software version?",,
+"STR_WARNING_DOWNLOAD","This may take a while. Please do not shut down!",,
+"STR_OVERWRITE_DOWNLOADED","Any downloaded version will be overwritten.",,
+"STR_UPDATE_READY","Update Ready!",,
+"STR_TO_APPLY","To apply the update:",,
+"STR_OPEN_LOGIC_DOOR","- Open and close the logic door",,
+"STR_NVRAM_MUST_BE_CLEARED","NVRAM clearing procedure must be performed after Software Update.",,
+"STR_PRESS_APPLY","- Press Apply button to confirm",,
+"STR_WAIT_UPDATE","- Wait for update procedure to be performed",,
+"STR_APPLY","Apply",,
+"STR_CONFIRM_APPLY","Please be notified the Software Update will be triggered upon final confirmation!",,
+"STR_CONFIRM_BTN","Confirm",,
+"STR_CANCEL","Cancel",,
+"STR_NOTICE","Notice",,
+"STR_WARNING","WARNING!",,
+"STR_USB_FLASH_DRIVE","USB Storage","USB Памет",
+"STR_LOCALHOST","Localhost","Локална инсталация",
+"STR_SERVERS","Servers:","Сървъри:",
+"STR_LAN_NETWORK","Local Area Network","Локална мрежа",
+"STR_SELECT","Select","Избери",
+"STR_EGT_SERVER","EGT Server","Сървър на EGT",
+"STR_MOUNT_USB_DRIVE","Mount USB","",
+"STR_MOUNTING_USB_DRIVE","Mounting USB","Монтиране на USB","Montando USB"
+"STR_CONNECT","Connect","Свързване",
+"STR_CONNECTING","Connecting...","Свързване...",
+"STR_DOWNLOAD","Download","Сваляне",
+"STR_DOWNLOADING","Downloading...","Сваляне...",
+"STR_VERIFYING","Verifying...","Верифициране...",
+"STR_VERIFICATION_FAILED","Verification Failed","Верификацията се провали",
+"STR_SIZE_NOT_AVAILABLE","Download size not available","Размер на файл за сваляне не е достъпен",
+"STR_INCORRECT_SIZE_TYPE","Invalid download size data","Невалиден размер на файл за сваляне",
+"STR_SIZE_MISMATCH","Download Size Mismatch","Несъответствие в размера за сваляне",
+"STR_OS_BACKUP","Backing up...","Копиране",
+"STR_OS_BACKUP_ERROR","OS Backup Error","Грешка при копирането на операционната система",
+"STR_GAME_BACKUP","Backing up...","Копиране",
+"STR_GAME_BACKUP_ERROR","Application Backup Error","Грешка при копирането на приложението",
+"STR_USB_CAN_REMOVE","USB Flash Drive can be removed.",,
+"STR_ZEROING","Zeroing...","Нулиране...",
+"STR_PREPARING","Preparing...","Подготвяне...",
+"STR_INSTALL_ERROR","Installation Error","Грешка при инсталирането",
+"STR_INVALID_SERVER_SHA1","Invalid Checksum","Невалидна чексума",
+"STR_UNABLE_TO_DETERMINE_SERVER_STATE","Unable to determine source state","Невъзможност да се определи състоянието на източника",
+"STR_SERVER_UNREACHABLE","Target Unreachable","Източникът е недостъпен",
+"STR_MOUNT_ERROR","Mount Error","Проблем с монтирането",
+"STR_INVALID_IMAGE_TYPE","Invalid Image","Невалиден вид на имиджа",
+"STR_DOWNLOAD_FAILED","Download Failed","Свалянето се провали",
+"STR_SOFTWARE_UPDATE_SERVER","Software Update Server","Сървър за софтуерен ъпдейт",
+"STR_START_SERVER","Start Server","Стартирай сървъра",
+"STR_STOP_SERVER","Stop Server","Спри сървъра",
+"STR_STOP_SERVER_CONFIRMATION_TEXT","Do you want to stop server?","Искате ли да спрете сървъра?",
+"STR_SERVER_ID","Server ID: %1","Сървър: %1",
+"STR_NO_SUITABLE_USB","Proper USB flash drive not found.","Подходящ USB  драйвер не е намерен.",
+"STR_USB_CANNOT_MOUNT","Cannot mount USB.","USB не може да бъде монтирано.",
+"STR_USB_UNPLUGGED","USB is unplugged.","USB устройството е извадено.",
+"STR_SERVER_STARTED","Server is running...","Сървъра работи...",
+"STR_SERVER_PROCESS_ERROR","Cannot start server process.","Не може да се стартира процеса на сървъра.",
+"STR_DISCOVER_SERVER_ERROR","Cannot start discover server.","Не може да се стартира discover сървъра.",
+"STR_LINE_BEHAVIOUR_PAY_SCATTER","Scatter Pay:","",""
+"STR_LINE_BEHAVIOUR_PAY_CLUSTER","Cluster Pay:","",""
+"STR_ACCOUNTING_TAB_10","Jumboways Bet 10","",""
+"STR_ACCOUNTING_TAB_20","Base Bet 20","",""
+"STR_ACCOUNTING_TAB_25","Base Bet 25","",""
+"STR_ACCOUNTING_TAB_BUY_FREE_SPINS","Buy Free Spins","",""
+"STR_GAME_SETUP_MAXBETMAXLINECOEF_FORUMULA","Buy Free Spins Max Bet in credits:","",""
+"STR_COMMON_SETUP_MAX_BET_PER_SPIN","Max Possible Bet Per Spin:","",""
+"CURLE_OPERATION_TIMEDOUT","Connection Lost","Изгубена връзка със сървъра!",
+"CURLE_COULDNT_CONNECT","Connection Lost","Изгубена връзка със сървъра!",
+"CURLE_GOT_NOTHING","No Response From Server","Няма отговор от сървъра!",
+"CURLE_RECV_ERROR","Receiving Failure","Грешка при получаване на данните!",
+"VER_UPLOADER","SFU Server","SFU Server",
+"STR_CLOVER_WON","Clover won",,
+"STR_JUMBOWAYS_BEHAVIOUR","Jumboways Pay Behaviour:","",""
+"STR_BILL_EXCHANGE_CUR","Bill Validator Exchange Currency Code:",,
+"STR_BILL_CHANNEL_HEADER","channels:",,

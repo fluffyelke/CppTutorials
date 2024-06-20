@@ -27,6 +27,8 @@
 #include "chapters/Part2/C13Exceptions/C13Examples.h"
 #include "chapters/Part3/C16Classes/C16Examples.h"
 #include "chapters/Part3/C16Classes/C16Excercises.h"
+#include "chapters/Part3/C17ConstructionsCleanupCopyAndMove/C17Excercises.h"
+#include "chapters/Part3/C17ConstructionsCleanupCopyAndMove/C17Examples.h"
 //#include "utils/UsefulFunctions.h"
 //#include "chapters/Part1/C02TheBasics/C02Examples.h"
 //#include "chapters/Part1/C02TheBasics/C02SomeTest.h"
@@ -179,5 +181,16 @@ namespace Examples {
     void excercisesC16Classes() {
         C16Classes::ex02();
 //        C16Classes::ex04();
+    }
+    
+    //C17 Constructions, Cleanup, Copy and Move
+    void c17Examples() {
+//        C17::simpleExample();
+//        C17::dynamicClassExample();
+//        C17::shapeExample();
+        c17Excercises();
+    }
+    void c17Excercises() {
+        C17::simpleExcercise();
     }
 }

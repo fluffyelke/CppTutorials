@@ -62,6 +62,10 @@ namespace Examples {
     //Chapter16 Classes
     extern void examplesC16Classes();
     extern void excercisesC16Classes();
+    
+    //Chapter17 
+    extern void c17Examples();
+    extern void c17Excercises();
 }
 
 #endif /* ALLEXAMPLES_H */
